@@ -5,20 +5,20 @@
 
 
 
-中华人民共和国国家标准
+中华人民共和国行业标准
  
-工程结构通用规范
+水运工程质量检验标准
 =========================================
 
 
 
 .. raw:: html
 
-  <h2 id="test111">工程结构通用规范</h2>
+  <h2 id="test111">水运工程质量检验标准</h2>
 
-  General code for engineering structures
+  Standard for Quality Inspection of Port and Waterway Engineering Construction<br/> <br/> 
   
-  GB55001-2021
+  JTS 257-2008
 
 
 
@@ -26,15 +26,19 @@
  <table border="0" style="font-family:times new roman" >
  <tr>
  <td><font size="4"><br/><br/>主编部门:</font></td>
- <td><font size="4"><br/><br/>中华人民共和国住房和城乡建设部</font></td>
+ <td><font size="4"><br/><br/>中交第一航务工程局有限公司</font></td>
+ </tr>
+  <tr>
+ <td><font size="4"><br/><br/> </font></td>
+ <td><font size="4"><br/>福建省交通基本建设工程质量监督检测站</font></td>
  </tr>
  <tr>
  <td><font size="4"><br/>批准部门：</font></td>
- <td><font size="4"><br/>中华人民共和国住房和城乡建设部</font></td>
+ <td><font size="4"><br/>中华人民共和国交通运输部</font></td>
  </tr>
  <tr>
  <td><font size="4"><br/>施行日期：</font></td>
- <td><font size="4"><br/>2022年1月1日</font></td>
+ <td><font size="4"><br/>2009年1月1日</font></td>
  </tr>
  </table>
 	</body>
@@ -54,8 +58,8 @@
 
 
 
- <p><b><font size="4">中国建筑工业出版社</font></b></p>
- <p><b><font size="4">2021·北京</font></b></p>
+ <p><b><font size="4">人民交通出版社</font></b></p>
+ <p><b><font size="4">2008·北京</font></b></p>
 
 
 
@@ -65,16 +69,7 @@
     :hidden:
     
     gg
-    fztw
-    qy
+    zdsm
     1
-    2
-    3
-    4
-    FLA
-    qcsm
-    1jbqk
-    2ry
-    3sy
-    4twsm
+ 
    

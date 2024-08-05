@@ -8,15 +8,8 @@
   <h2 id="test111"><center>关于发布《水运工程质量检验标准》（JTS 257-2008）的公告</center></h2>
 
 
-.. raw:: html
-
  <div style="text-align:center;">2008年      第40号 </div>
  <p></p>
-
-
-
-   <h2 id="test111"><center>关于发布《水运工程质量检验标准》（JTS 257-2008）的公告</center></h2>
-
 
 .. raw:: html
 

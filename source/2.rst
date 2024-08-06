@@ -11,8 +11,702 @@
 2.1.1 一般规定
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id2.1.1.1"> 2.1.1.1</a> <span id="id2.1.1.1"> 混凝土结构工程质量检验应包括模板、钢筋、混凝土、预应力和混凝土附加外防腐蚀等分项工程的质量检验和混凝土构件的质量检验。</span></p>
+ <p style="text-align:justify"><a href="#id2.1.1.2"> 2.1.1.2</a> <span id="id2.1.1.2"> 混凝土构件的质量检验应在模板、钢筋、预应力、混凝土等分项工程质量检验合格的基础上进行，混凝土构件的实体质量检验应符合附录 D 的相应规定。</span></p>
+ <p style="text-align:justify"><a href="#id2.1.1.3"> 2.1.1.3</a> <span id="id2.1.1.3"> 从事混凝土结构及构件施工的单位应建立现场试验室，并应通过有关方面的验收。不具备建立现场试验室的条件时，应提前选定具有相应能力等级的试验检测单位，并应经监理工程师和建设单位的认可。</span></p>
+ <p style="text-align:justify"><a href="#id2.1.1.4"> 2.1.1.4</a> <span id="id2.1.1.4"> 混凝土应采用搅拌机拌和，大中型工程宜采用自动化搅拌站集中拌和。搅拌站和搅拌机投产前应对生产控制工艺、检测设备、计量器具和配料偏差等进行检查验收，并应经监理工程师确认。</span></p>
+ <p style="text-align:justify"><a href="#id2.1.1.5"> 2.1.1.5</a> <span id="id2.1.1.5"> 模板应进行设计，大型承重模板的施工工艺及主要施工图应经监理工程师确认。</span></p>
+ <p style="text-align:justify"><a href="#id2.1.1.6"> 2.1.1.6</a> <span id="id2.1.1.6"> 从事钢筋焊接的操作人员应经考试合格。钢筋正式焊接前，应进行现场条件下的焊接性能检验，合格后方能正式生产。</span></p>
+ <p style="text-align:justify"><a href="#id2.1.1.7"> 2.1.1.7</a> <span id="id2.1.1.7"> 从事预应力的操作人员应经考试合格。预应力张拉设备和仪表应定期配套标定并配套使用。</span></p> 
+
+
 2.1.2 模板工程
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+.. raw:: html
+
+ <p style="text-align:center">主要检验项目</p>
+ <p style="text-align:justify"><a href="#id2.1.2.1"> 2.1.2.1</a> <span id="id2.1.2.1"> 模板及支撑的材料及结构必须符合施工技术方案和模板设计的要求。模板及支安装必须稳固、牢靠。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：对照模板设计文件或施工技术方案观察检查。</p>
+  <p style="text-align:justify"><a href="#id2.1.2.2"> 2.1.2.2</a> <span id="id2.1.2.2"> 模板脱模剂应涂刷均匀，不得污染钢筋和混凝土接茬处。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：观察检查。</p>
+ <p style="text-align:center">一般检验项目</p>
+ <p style="text-align:justify"><a href="#id2.1.2.3"> 2.1.2.3</a> <span id="id2.1.2.3"> 模板表面应平整、光洁，接缝应平顺、严密、不漏浆。透水模板敷面材料应敷贴平顺。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：观察检查。</p>
+ <p style="text-align:justify"><a href="#id2.1.2.4"> 2.1.2.4</a> <span id="id2.1.2.4"> 用作底模的地坪和胎模，表面应平整，不应有影响构件质量的沉陷和裂缝。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：观察检查。</p>
+
+ <p style="text-align:justify"><a href="#id2.1.2.5"> 2.1.2.5</a> <span id="id2.1.2.5"> 现场制作模板的允许偏差应符合<a href="#B2.1.2.5">表2.1.2.5</a>的规定。</span></p>
+ 
+
+.. raw:: html
+
+      <style>
+     #biaoge {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:1px;
+        
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         border: 1px solid black;
+         
+      }
+      #eqzs {
+         border: 0px;
+      }
+      #dhbg {
+        vertical-align: middle;
+      }
+     </style>
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B2.1.2.5">表2.1.2.5 模板制作允许偏差</b></caption>	
+              
+		    <tr>
+		        <td  align="center" >序号</td>
+		        <td  align="center" colspan="2">项目</td>
+				    <td  align="center" >允许偏差(mm)</td>
+		    </tr>
+		    <tr>
+		        <td  align="center"  rowspan="3"  id="dhbg" width="50px">1</td>
+		        <td  align="center"  width="80px"  id="dhbg" rowspan="3">木模板</td>
+				    <td  align="center"   id="dhbg" width="400px">长度与宽度</td>
+            <td  align="center"  width="200px"  >+5<br/>-2</td>
+		    </tr>
+		    <tr>
+		       <!-- <td></td> -->
+		      <!-- <td></td> -->
+				    <td  align="center"  width="400px">表面平整度</td>
+            <td  align="center"  width="200px">3</td>
+		    </tr>
+		    <tr>
+		       <!-- <td></td> -->
+		       <!-- <td></td> -->
+				    <td  align="center"  width="400px">表面错台</td>
+            <td  align="center"  width="200px"  >1</td>
+		    </tr>        		
+		    <tr>
+		        <td  align="center"  rowspan="4"  id="dhbg" >2</td>
+		        <td  align="center"  id="dhbg" rowspan="4">钢模板</td>
+				    <td  align="center"   id="dhbg" width="300px">长度与宽度</td>
+            <td  align="center"  width="200px"  >±2</td>
+		    </tr>
+		    <tr>
+		      <!-- <td></td> -->
+		      <!-- <td></td> -->
+				  <td  align="center">表面平整度</td>
+          <td  align="center">2</td>
+		    </tr>
+ 		    <tr>
+		       <!-- <td></td> -->
+		       <!-- <td></td> -->
+				    <td  align="center" >连接孔眼位置</td>
+            <td  align="center" >1</td>
+		    </tr>         
+		    <tr>
+		       <!-- <td></td> -->
+		       <!-- <td></td> -->
+				    <td  align="center" >表面错台</td>
+            <td  align="center" >2</td>
+		    </tr>   
+		    <tr>
+		        <td  align="center"  rowspan="3"  id="dhbg" >3</td>
+		        <td  align="center"  width="80px"  id="dhbg" rowspan="3">混凝土底胎膜</td>
+				    <td  align="center"  id="dhbg" >长线台座宽度和单台座长度与宽度</td>
+            <td  align="center"  >±3</td>
+		    </tr>
+		    <tr>
+		       <!-- <td></td> -->
+		      <!-- <td></td> -->
+				    <td  align="center" >平整度</td>
+            <td  align="center" >3</td>
+		    </tr>
+		    <tr>
+		       <!-- <td></td> -->
+		       <!-- <td></td> -->
+				    <td  align="center" >长线台座每 10m 和单台座四角相对高差</td>
+            <td  align="center" >5</td>
+		    </tr>        		
+         		
+		</table>
+
+   <p style="text-indent:2em;" ><font size="2">注：① 胶合模板、钢框胶合模板按钢模板执行；<br>
+  &emsp;&emsp; &emsp;&emsp; &emsp;&nbsp;② 组合定型钢模板按国家现行标准《组合钢模板技术规范》（GB 50214）的规定检查；<br>
+   &emsp;&emsp; &emsp;&emsp; &emsp;&nbsp;③ 异型曲面模板、滑模模板、离心成型构件模板等按设计要求检查。</font></p>
+
+ <p style="text-align:justify"><a href="#id2.1.2.6"> 2.1.2.6</a> <span id="id2.1.2.6"> 固定在模板上的预埋件、预留孔和预留洞不得遗漏，并应安装牢固。其允许偏差应符合<a href="#B2.1.2.6">表2.1.2.6</a>的规定。</span></p>
+ 
+
+.. raw:: html
+
+      <style>
+     #biaoge {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:1px;
+        
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         border: 1px solid black;
+         
+      }
+      #eqzs {
+         border: 0px;
+      }
+      #dhbg {
+        vertical-align: middle;
+      }
+     </style>
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B2.1.2.6">表2.1.2.6 预埋件、预留孔和预留洞的允许偏差</b></caption>	
+              
+		    <tr>
+		        <td  align="center" >序号</td>
+		        <td  align="center" colspan="2">项目</td>
+				    <td  align="center" >允许偏差(mm)</td>
+		    </tr>
+		    <tr>
+		        <td  align="center" >1</td>
+		        <td  align="center" colspan="2">预埋钢板、预埋管、预留孔中心线位置</td>
+				    <td  align="center" >3</td>
+		    </tr>        
+		    <tr>
+		        <td  align="center"  rowspan="2"  id="dhbg" width="50px">2</td>
+		        <td  align="center"  width="80px"  id="dhbg" rowspan="2">预埋螺栓</td>
+				    <td  align="center"   id="dhbg" width="400px">中心线位置</td>
+            <td  align="center"  width="200px"  >2</td>
+		    </tr>
+		    <tr>
+		       <!-- <td></td> -->
+		      <!-- <td></td> -->
+				    <td  align="center" id="dhbg" width="400px">外露长度</td>
+            <td  align="center"  width="200px">+10<br>0</td>
+		    </tr>
+		    <tr>
+		        <td  align="center"  rowspan="2"  id="dhbg" >3</td>
+		        <td  align="center"  width="80px"  id="dhbg" rowspan="2">预留洞</td>
+				    <td  align="center"  id="dhbg" >中心线位置</td>
+            <td  align="center"  >10</td>
+		    </tr>
+		    <tr>
+		       <!-- <td></td> -->
+		      <!-- <td></td> -->
+				    <td  align="center" id="dhbg" >尺寸</td>
+            <td  align="center" >+10<br>0</td>
+		    </tr>
+    		
+		</table>
+
+ <p style="text-align:justify"><a href="#id2.1.2.7"> 2.1.2.7</a> <span id="id2.1.2.7"> 预制构件模板安装允许偏差、检验数量和方法应符合<a href="#B2.1.2.7">表2.1.2.7</a>的规定。</span></p>
+ 
+
+.. raw:: html
+
+      <style>
+     #biaoge {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:1px;
+        
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         border: 1px solid black;
+         
+      }
+      #eqzs {
+         border: 0px;
+      }
+      #dhbg {
+        vertical-align: middle;
+      }
+     </style>
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B2.1.2.7">表2.1.2.7 预制构件模板安装允许偏差、检验数量和方法</b></caption>	
+              
+		    <tr>
+		        <td  align="center" >序号</td>
+		        <td  align="center" colspan="3">项目</td>
+				    <td  align="center" >允许偏差(mm)</td>
+            <td  align="center" >检验数量</td> 
+            <td  align="center" >单元测点</td>
+            <td  align="center" >检验方法</td>     
+		    </tr>
+		    <tr>
+		        <td  align="center" rowspan="7" id="dhbg" width="80px"> 1</td>
+		        <td  align="center" rowspan="7" id="dhbg" width="50px" > 长度</td>
+				    <td  align="center"  colspan="2"  id="dhbg" >桩类</td>
+            <!-- <td></td> -->
+            <td  align="center"  width="200px"  >±30</td> 
+            <td  align="center" rowspan="24" id="dhbg" width="200px" > 桩、梁、板、柱 类 ， 抽 查30%且不少于3 件；大型构件，逐件检查</td>
+            <td  align="center"  width="200px"  >1</td> 
+            <td  align="center"  width="200px"  >用钢尺测量</td>   
+		    </tr>        
+		    <tr>
+		        <!-- <td></td> -->
+		        <!-- <td></td> -->
+				    <td  align="center"  colspan="2"  id="dhbg" >梁、板类</td>
+            <!-- <td></td> -->
+            <td  align="center"  width="200px" >±5</td> 
+            <!-- <td></td> -->
+            <td  align="center"  width="200px" >2</td> 
+            <td  align="center" rowspan="6" id="dhbg" > 用钢尺测量两边</td> 
+		    </tr>  
+  		    <tr>
+		        <!-- <td></td> -->
+		        <!-- <td></td> -->
+				    <td  align="center"  colspan="2"  id="dhbg" >柱类</td>
+            <!-- <td></td> -->
+            <td  align="center"  width="200px"  >±5</td> 
+            <!-- <td></td> -->
+            <td  align="center"  width="200px"  >1</td> 
+            <!-- <td></td> -->
+		    </tr> 
+  		  <tr>
+		        <!-- <td></td> -->
+		        <!-- <td></td> -->
+				    <td  align="center"  rowspan="2" width="200px"  id="dhbg" >方块类</td>
+            <td  align="center"  width="200px"  >边长≤5m</td> 
+            <td  align="center"  >±5<br>-10</td> 
+            <!-- <td></td> -->
+            <td  align="center" rowspan="2" id="dhbg" >2</td> 
+            <!-- <td></td> -->
+		    </tr>  
+  		    <tr>
+		        <!-- <td></td> -->
+		        <!-- <td></td> -->
+				    <!-- <td></td> -->
+            <td  align="center" >边长>5m</td> 
+            <td  align="center"  >±10</td> 
+            <!-- <td></td> -->
+            <!-- <td></td> -->
+            <!-- <td></td> -->
+		    </tr> 
+  		  <tr>
+		        <!-- <td></td> -->
+		        <!-- <td></td> -->
+				    <td  align="center"  rowspan="2"  id="dhbg" >沉箱、沉井、扶壁</td>
+            <td  align="center" >边长≤10m</td> 
+            <td  align="center"  >±15</td> 
+            <!-- <td></td> -->
+            <td  align="center" rowspan="2" id="dhbg" >2</td> 
+            <!-- <td></td> -->
+		    </tr>  
+  		  <tr>
+		        <!-- <td></td> -->
+		        <!-- <td></td> -->
+				    <!-- <td></td> -->
+            <td  align="center" >边长>10m</td> 
+            <td  align="center"  >±1.5L/1000</td> 
+            <!-- <td></td> -->
+            <!-- <td></td> -->
+            <!-- <td></td> -->
+		    </tr> 
+       <tr>
+		        <td  align="center"  rowspan="9" id="dhbg">2</td>
+		        <td  align="center"  rowspan="9" id="dhbg">截面尺寸</td>
+				    <td  align="center"  rowspan="2" id="dhbg">桩类</td>
+            <td  align="center" id="dhbg">宽度</td> 
+            <td  align="center" >+2<br>-5</td>
+            <!-- <td></td> -->  
+            <td  align="center" >3</td>  
+            <td  align="center"  rowspan="9" id="dhbg">用钢尺测量两端及中部</td>  
+		    </tr>  
+       <tr>
+            <!-- <td></td> -->  
+            <!-- <td></td> -->  
+            <!-- <td></td> -->  
+            <td  align="center"id="dhbg" >厚度</td> 
+            <td  align="center" >0<br>-5</td>
+            <!-- <td></td> -->  
+            <td  align="center" >3</td>  
+            <!-- <td></td> -->   
+		    </tr>        
+       <tr>
+            <!-- <td></td> -->  
+            <!-- <td></td> -->  
+            <td  align="center"  rowspan="2" id="dhbg">梁、板、柱类</td> 
+            <td  align="center"id="dhbg" >宽度</td> 
+            <td  align="center" >0<br>-5</td>
+            <!-- <td></td> -->  
+            <td  align="center" >3</td>  
+            <!-- <td></td> -->   
+		    </tr> 
+       <tr>
+            <!-- <td></td> -->  
+            <!-- <td></td> -->  
+            <!-- <td></td> --> 
+            <td  align="center" id="dhbg">高度或厚度</td> 
+            <td  align="center" >0<br>-5</td>
+            <!-- <td></td> -->  
+            <td  align="center" >6</td>  
+            <!-- <td></td> -->   
+		    </tr>
+       <tr>
+            <!-- <td></td> -->  
+            <!-- <td></td> -->  
+            <td  align="center"  rowspan="2" id="dhbg">方块类</td> 
+            <td  align="center" id="dhbg">宽度</td> 
+            <td  align="center"  rowspan="2" id="dhbg">+5<br>-10</td> 
+            <!-- <td></td> -->  
+            <td  align="center" >3</td>  
+            <!-- <td></td> -->   
+		    </tr> 
+       <tr>
+            <!-- <td></td> -->  
+            <!-- <td></td> -->  
+            <!-- <td></td> --> 
+            <td  align="center" id="dhbg">高度</td> 
+            <!-- <td></td> --> 
+            <!-- <td></td> -->  
+            <td  align="center" >4</td>  
+            <!-- <td></td> -->   
+		    </tr>
+       <tr>
+            <!-- <td></td> -->  
+            <!-- <td></td> -->  
+            <td  align="center"  rowspan="3" id="dhbg">沉箱、沉井、扶壁</td> 
+            <td  align="center" id="dhbg">宽度</td> 
+            <td  align="center" >±15</td> 
+            <!-- <td></td> -->  
+            <td  align="center" >3</td>  
+            <!-- <td></td> -->   
+		    </tr> 
+       <tr>
+            <!-- <td></td> -->  
+            <!-- <td></td> -->  
+            <!-- <td></td> --> 
+            <td  align="center" id="dhbg">高度</td> 
+            <td  align="center" >±10</td> 
+            <!-- <td></td> -->  
+            <td  align="center" >4</td>  
+            <!-- <td></td> -->   
+		    </tr>
+       <tr>
+            <!-- <td></td> -->  
+            <!-- <td></td> -->  
+            <!-- <td></td> --> 
+            <td  align="center" id="dhbg">壁厚度</td> 
+            <td  align="center" >±5</td>
+            <!-- <td></td> -->  
+            <td  align="center" >4</td>  
+            <!-- <td></td> -->   
+		    </tr>
+      <tr>
+		        <td  align="center"  rowspan="2" id="dhbg">3</td>
+		        <td  align="center"  colspan="2" rowspan="2" id="dhbg">侧向弯曲矢高</td>
+				    <!-- <td></td> --> 
+            <td  align="center" id="dhbg">桩、柱类</td> 
+            <td  align="center" >L/1000且不大于 20</td>
+            <!-- <td></td> -->  
+            <td  align="center" >1</td>  
+            <td  align="center"  rowspan="2" id="dhbg">拉线用钢尺测量</td>  
+		    </tr>  
+       <tr>
+            <!-- <td></td> -->  
+            <!-- <td></td> -->  
+            <!-- <td></td> -->  
+            <td  align="center"id="dhbg" >梁、板类</td> 
+            <td  align="center" >L/1000且不大于15</td>
+            <!-- <td></td> -->  
+            <td  align="center" >1</td>  
+            <!-- <td></td> -->   
+		    </tr>                
+      <tr>
+		        <td  align="center"  rowspan="2" id="dhbg">4</td>
+		        <td  align="center"  colspan="2" rowspan="2" id="dhbg">全高竖向倾斜</td>
+				    <!-- <td></td> --> 
+            <td  align="center" id="dhbg">高度≤5m</td> 
+            <td  align="center" >10</td>
+            <!-- <td></td> -->  
+            <td  align="center"  rowspan="2" id="dhbg">1</td>  
+            <td  align="center"  rowspan="2" id="dhbg">用经纬仪或吊线测量</td>  
+		    </tr>  
+       <tr>
+            <!-- <td></td> -->  
+            <!-- <td></td> -->  
+            <!-- <td></td> -->  
+            <td  align="center"id="dhbg" >高度>5m</td> 
+            <td  align="center" >15</td>
+            <!-- <td></td> -->  
+            <!-- <td></td> -->  
+            <!-- <td></td> -->   
+		    </tr> 
+      <tr>
+		        <td  align="center"  rowspan="2" id="dhbg">5</td>
+		        <td  align="center"  colspan="2" rowspan="2" id="dhbg">顶面对角线差</td>
+				    <!-- <td></td> --> 
+            <td  align="center" id="dhbg">短边≤3m</td> 
+            <td  align="center" >15</td>
+            <!-- <td></td> -->  
+            <td  align="center"  rowspan="2" id="dhbg">1</td>  
+            <td  align="center"  rowspan="2" id="dhbg">用钢尺测量</td>  
+		    </tr>  
+       <tr>
+            <!-- <td></td> -->  
+            <!-- <td></td> -->  
+            <!-- <td></td> -->  
+            <td  align="center"id="dhbg" >短边>3m</td> 
+            <td  align="center" >130</td>
+            <!-- <td></td> -->  
+            <!-- <td></td> -->  
+            <!-- <td></td> -->   
+		    </tr> 
+      <tr>
+		        <td  align="center"  id="dhbg">6</td>
+		        <td  align="center"  colspan="3" id="dhbg">桩顶倾斜</td>
+				    <!-- <td></td> --> 
+            <!-- <td></td> --> 
+            <td  align="center" >7B/1000</td>
+            <!-- <td></td> -->  
+            <td  align="center"  id="dhbg">1</td>  
+            <td  align="center"   id="dhbg">用直角尺测量，取大值</td>  
+		    </tr>
+      <tr>
+		        <td  align="center"  id="dhbg">7</td>
+		        <td  align="center"  colspan="3" id="dhbg">桩尖对桩纵轴线偏斜</td>
+				    <!-- <td></td> --> 
+            <!-- <td></td> --> 
+            <td  align="center" >10</td>
+            <!-- <td></td> -->  
+            <td  align="center"  id="dhbg">1</td>  
+            <td  align="center"   id="dhbg">拉线测量，取大值</td>  
+		    </tr>          
+		</table>
+   <p style="text-indent:2em;" ><font size="2">注：① L 为构件长度，B 为构件截面长度，单位为 mm；<br>
+  &emsp;&emsp; &emsp;&emsp; &emsp;&nbsp;② 空心块体、工字型方块的壁厚按沉箱壁厚允许偏差执行；<br>
+  &emsp;&emsp; &emsp;&emsp; &emsp;&nbsp;③ 空心胶囊位置偏差高度方向为<math xmlns="http://www.w3.org/1998/Math/MathML" ><msubsup><mi></mi><mrow><mo>−</mo><mn>10</mn></mrow><mrow><mn>&emsp;0</mn></mrow></msubsup></math>，水平方向为±10，单位为 mm；<br>
+  &emsp;&emsp; &emsp;&emsp; &emsp;&nbsp;④ 表中未列项目按本标准混凝土构件的允许偏差执行。</font></p>
+
+ <p style="text-align:justify"><a href="#id2.1.2.7"> 2.1.2.7</a> <span id="id2.1.2.8"> 现浇混凝土模板安装允许偏差、检验数量和方法应符合<a href="#B2.1.2.8">表2.1.2.8</a>的规定。</span></p>
+ 
+
+.. raw:: html
+
+      <style>
+     #biaoge {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:1px;
+        
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         border: 1px solid black;
+         
+      }
+      #eqzs {
+         border: 0px;
+      }
+      #dhbg {
+        vertical-align: middle;
+      }
+     </style>
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B2.1.2.8">表2.1.2.8 现浇混凝土模板安装允许偏差、检验数量和方法</b></caption>	
+              
+		    <tr>
+		        <td  align="center" id="dhbg">序号</td>
+		        <td  align="center"id="dhbg" colspan="2">项目</td>
+				    <td  align="center" id="dhbg">允许偏差(mm)</td>
+            <td  align="center" id="dhbg">检验数量</td> 
+            <td  align="center" id="dhbg">单元测点</td>
+            <td  align="center" id="dhbg">检验方法</td>     
+		    </tr>
+		    <tr>
+		        <td  align="center" rowspan="2" id="dhbg" width="80px"> 1</td>
+		        <td  align="center" rowspan="2" id="dhbg" width="120px" > 轴线</td>
+            <td  align="center"  width="200px">柱、梁</td> 
+            <td  align="center"  width="100px" > 5</td>
+            <td  align="center" rowspan="17" id="dhbg"  width="200px">桩、梁、板、柱类，抽查 30%且不少于 3 件；大型构件逐件检查</td> 
+            <td  align="center"  width="150px"  >2</td>   
+            <td  align="center"  width="300px" rowspan="2" id="dhbg"  >用经纬仪和钢尺测量纵横两个方向</td>   
+		    </tr>        
+		    <tr>
+		        <!-- <td></td> -->
+		        <!-- <td></td> -->
+            <td  align="center"  width="200px">桩帽、独立基础</td> 
+            <td  align="center"  width="100px" > 10</td>
+            <!-- <td></td> -->
+            <td  align="center"  width="100px"  >2</td>   
+           <!-- <td></td> -->  
+		    </tr>  
+		    <tr>
+		        <td  align="center" rowspan="2" id="dhbg" width="80px"> 2</td>
+		        <td  align="center" rowspan="2" id="dhbg" width="150px" > 前沿线</td>
+            <td  align="center"  width="200px">码头胸墙、闸墙、坞墙、坞门槛等</td> 
+            <td  align="center"  width="100px" > 10</td>
+           <!-- <td></td> -->  
+            <td  align="center"  width="100px"  >3</td>   
+            <td  align="center"  width="300px" rowspan="2" id="dhbg"  >用经纬仪或拉线测量两端和中部</td>   
+		    </tr>        
+		    <tr>
+		        <!-- <td></td> -->
+		        <!-- <td></td> -->
+            <td  align="center"  width="200px">防波堤胸墙、挡土墙、防浪墙或防汛墙等</td> 
+            <td  align="center"  width="100px" > 15</td>
+            <!-- <td></td> -->
+            <td  align="center"  width="100px"  >3</td>   
+           <!-- <td></td> -->  
+		    </tr> 
+		    <tr>
+		        <td  align="center" rowspan="2" id="dhbg" width="80px"> 3</td>
+		        <td  align="center" rowspan="2" id="dhbg" width="150px" > 标高</td>
+            <td  align="center"  width="200px">非安装支承面</td> 
+            <td  align="center"  width="100px" > ±10</td>
+           <!-- <td></td> -->  
+            <td  align="center"  width="100px"  >3</td>   
+            <td  align="center"  width="300px" rowspan="2" id="dhbg"  >用水准仪测量两端及中部</td>   
+		    </tr>        
+		    <tr>
+		        <!-- <td></td> -->
+		        <!-- <td></td> -->
+            <td  align="center"  width="200px"id="dhbg" >安装支承面</td> 
+            <td  align="center"  width="100px" > 0<br>-10</td>
+            <!-- <td></td> -->
+            <td  align="center"  width="100px" id="dhbg" >3</td>   
+           <!-- <td></td> -->  
+		    </tr> 
+		    <tr>
+		        <td  align="center" rowspan="4" id="dhbg" width="80px"> 4</td>
+		        <td  align="center" rowspan="4" id="dhbg" width="150px" > 内截面尺寸</td>
+            <td  align="center"  width="200px">柱、梁</td> 
+            <td  align="center"  width="100px" > ±5</td>
+           <!-- <td></td> -->  
+            <td  align="center"  width="100px"  >6</td>   
+            <td  align="center"  width="300px" id="dhbg"  >用钢尺测量两端及中部</td>   
+		    </tr>        
+		    <tr>
+		        <!-- <td></td> -->
+		        <!-- <td></td> -->
+            <td  align="center"  id="dhbg" >桩帽、墩台</td> 
+            <td  align="center"  width="100px" > ±10</td>
+            <!-- <td></td> -->
+            <td  align="center"  width="100px" id="dhbg" >4</td>   
+            <td  align="center"  width="300px" id="dhbg">用钢尺测量四边</td>   
+		    </tr> 
+		    <tr>
+		        <!-- <td></td> -->
+		        <!-- <td></td> -->
+            <td  align="center"  id="dhbg" >墙、廊道、管沟等</td> 
+            <td  align="center"  width="100px" > +10<br>-5</td>
+            <!-- <td></td> -->
+            <td  align="center"  width="100px" id="dhbg" >3</td>   
+            <td  align="center"  width="300px" rowspan="2" id="dhbg" >用钢尺测量端部上、中、下口</td>   
+		    </tr> 
+		    <tr>
+		        <!-- <td></td> -->
+		        <!-- <td></td> -->
+            <td  align="center"  id="dhbg" >其他厚大构件</td> 
+            <td  align="center"  width="100px" > ±10</td>
+            <!-- <td></td> -->
+            <td  align="center"  width="100px" id="dhbg" >6</td>   
+            <!-- <td></td> -->  
+		    </tr> 
+		    <tr>
+		        <td  align="center" rowspan="2" id="dhbg" width="80px"> 5</td>
+		        <td  align="center" rowspan="2" id="dhbg" width="150px" > 顶面对角线差</td>
+            <td  align="center"  id="dhbg" >短边长度≤3m</td> 
+            <td  align="center"  width="100px" > 15</td>
+            <!-- <td></td> -->
+            <td  align="center"  width="100px" id="dhbg" >1</td>   
+            <td  align="center"  rowspan="2" id="dhbg" >用钢尺测量</td>   
+		    </tr> 
+		    <tr>
+		        <!-- <td></td> -->
+		        <!-- <td></td> -->
+            <td  align="center"  id="dhbg" >短边长度＞3m</td> 
+            <td  align="center"  width="100px" > 25</td>
+            <!-- <td></td> -->
+            <td  align="center"  id="dhbg" >1</td>   
+            <!-- <td></td> -->  
+		    </tr>
+		    <tr>
+		        <td  align="center" rowspan="2" id="dhbg" > 6</td>
+		        <td  align="center" rowspan="2" id="dhbg"  > 长度</td>
+            <td  align="center"  id="dhbg" >梁</td> 
+            <td  align="center"  width="100px" > +5<br>-10</td>
+            <!-- <td></td> -->
+            <td  align="center"  width="100px" id="dhbg" >2</td>   
+            <td  align="center"  rowspan="2" id="dhbg" >用钢尺测量顶部和底部</td>   
+		    </tr> 
+		    <tr>
+		        <!-- <td></td> -->
+		        <!-- <td></td> -->
+            <td  align="center"  id="dhbg" >墙、廊道、管沟等</td> 
+            <td  align="center"  width="100px" >±10</td>
+            <!-- <td></td> -->
+            <td  align="center"  id="dhbg" >2</td>   
+            <!-- <td></td> -->  
+		    </tr>
+		    <tr>
+		        <td  align="center"id="dhbg" > 7</td>
+		        <td  align="center" colspan="2" id="dhbg"  > 全高竖向倾斜</td>
+            <!-- <td></td> -->
+            <td  align="center"  > 3H/1000</td>
+            <!-- <td></td> -->
+            <td  align="center"   id="dhbg" >1</td>   
+            <td  align="center" id="dhbg" >用经纬仪或吊线测量</td>   
+		    </tr>
+ 		    <tr>
+		        <td  align="center"id="dhbg" > 8</td>
+		        <td  align="center" colspan="2" id="dhbg"  >侧向弯曲矢高</td>
+            <!-- <td></td> -->
+            <td  align="center"  >L/1000且不大于 25</td>
+            <!-- <td></td> -->
+            <td  align="center"   id="dhbg" >1</td>   
+            <td  align="center" id="dhbg" >拉线测量，取大值</td>   
+		    </tr>
+		    <tr>
+		        <td  align="center"id="dhbg" > 9</td>
+		        <td  align="center" colspan="2" id="dhbg"  > 相邻模板错台</td>
+            <!-- <td></td> -->
+            <td  align="center"  > 2</td>
+            <!-- <td></td> -->
+            <td  align="center"   id="dhbg" >1</td>   
+            <td  align="center" id="dhbg" >用钢直尺和塞尺测量</td>   
+		    </tr>               
+		</table>
+   <p style="text-indent:2em;" ><font size="2">注：① H为构件全高，L为构件长度，单位为mm;<br>
+  &emsp;&emsp; &emsp;&emsp; &emsp;&nbsp;② 表中未列项目按混凝土构件的允许偏差执行。 </font></p>
+
+
+
+
+
+
+
+
+
+
 
 2.1.3 钢筋工程
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -146,3 +840,7 @@
 
 2.8.10 钢板护角与护面
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+:math:`\ `

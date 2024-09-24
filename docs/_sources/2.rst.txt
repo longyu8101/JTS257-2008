@@ -31,7 +31,7 @@
  <p style="text-align:justify"><a href="#id2.1.2.1"> 2.1.2.1</a> <span id="id2.1.2.1"> 模板及支撑的材料及结构必须符合施工技术方案和模板设计的要求。模板及支安装必须稳固、牢靠。</span></p>
  <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。</p>
  <p style="text-align:justify;text-indent:2em;"> 检验方法：对照模板设计文件或施工技术方案观察检查。</p>
-  <p style="text-align:justify"><a href="#id2.1.2.2"> 2.1.2.2</a> <span id="id2.1.2.2"> 模板脱模剂应涂刷均匀，不得污染钢筋和混凝土接茬处。</span></p>
+ <p style="text-align:justify"><a href="#id2.1.2.2"> 2.1.2.2</a> <span id="id2.1.2.2"> 模板脱模剂应涂刷均匀，不得污染钢筋和混凝土接茬处。</span></p>
  <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。</p>
  <p style="text-align:justify;text-indent:2em;"> 检验方法：观察检查。</p>
  <p style="text-align:center">一般检验项目</p>
@@ -214,6 +214,7 @@
 		    </tr>
     		
 		</table>
+ <p></p>
 
  <p style="text-align:justify"><a href="#id2.1.2.7"> 2.1.2.7</a> <span id="id2.1.2.7"> 预制构件模板安装允许偏差、检验数量和方法应符合<a href="#B2.1.2.7">表2.1.2.7</a>的规定。</span></p>
  
@@ -501,7 +502,7 @@
   &emsp;&emsp; &emsp;&emsp; &emsp;&nbsp;③ 空心胶囊位置偏差高度方向为<math xmlns="http://www.w3.org/1998/Math/MathML" ><msubsup><mi></mi><mrow><mo>−</mo><mn>10</mn></mrow><mrow><mn>&emsp;0</mn></mrow></msubsup></math>，水平方向为±10，单位为 mm；<br>
   &emsp;&emsp; &emsp;&emsp; &emsp;&nbsp;④ 表中未列项目按本标准混凝土构件的允许偏差执行。</font></p>
 
- <p style="text-align:justify"><a href="#id2.1.2.7"> 2.1.2.7</a> <span id="id2.1.2.8"> 现浇混凝土模板安装允许偏差、检验数量和方法应符合<a href="#B2.1.2.8">表2.1.2.8</a>的规定。</span></p>
+ <p style="text-align:justify"><a href="#id2.1.2.8"> 2.1.2.8</a> <span id="id2.1.2.8"> 现浇混凝土模板安装允许偏差、检验数量和方法应符合<a href="#B2.1.2.8">表2.1.2.8</a>的规定。</span></p>
  
 
 .. raw:: html
@@ -700,22 +701,248 @@
 
 
 
-
-
-
-
-
-
-
-
 2.1.3 钢筋工程
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+.. raw:: html
+
+ <p style="text-align:center">主要检验项目</p>
+ <p style="text-align:justify"><a href="#id2.1.3.1"> 2.1.3.1</a> <span id="id2.1.3.1"> 钢筋的品种、规格和数量应满足设计要求。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：观察检查。</p>
+ <p style="text-align:justify"><a href="#id2.1.3.2"> 2.1.3.2</a> <span id="id2.1.3.2"> 钢筋的质量必须符合现行国家标准《钢筋混凝土用热轧带肋钢筋》（GB 1499）等的有关规定。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位按进场批次抽样复验，监理单位见证抽样并按规定抽样平行检验。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：检查产品质量证明文件和复验报告。</p>
+ <p style="text-align:justify"><a href="#id2.1.3.3"> 2.1.3.3</a> <span id="id2.1.3.3"> 受力钢筋接头的连接方式、接头位置、同一截面接头数量和绑扎接头的搭接长度应符合现行行业标准《水运工程混凝土施工规范》（JTJ 268）的有关规定。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：观察检查。</p>
+ <p style="text-align:justify"><a href="#id2.1.3.4"> 2.1.3.4</a> <span id="id2.1.3.4"> 钢筋焊接接头和机械连接接头的力学性能应符合现行行业标准《钢筋焊接及验收规程》（JGJ 18）和《钢筋机械连接通用技术规程》（JGJ 107）等的有关规定。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位按验收批抽样检验，监理单位见证抽样并按规定抽样平行检验。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：检查复验报告。</p>
+ <p style="text-align:justify"><a href="#id2.1.3.5"> 2.1.3.5</a> <span id="id2.1.3.5"> 钢筋保护层的厚度不应小于设计要求，其正偏差不应大于 10 mm。保护层垫块的支垫方法和间距应能保证钢筋在混凝土浇筑过程不发生位移与变形。混凝土或砂浆垫块应提前按批检验，强度和抗氯离子渗透性能不应低于构件的设计要求，垫块厚度的允许偏差为<math xmlns="http://www.w3.org/1998/Math/MathML" ><mtable columnspacing="1em" rowspacing="0em 0.4em"><mtr><mtd><msub><mi></mi><mrow><mo>+</mo><mn>2</mn></mrow></msub></mtd></mtr><mtr><mtd><msub><mi></mi><mrow><mn>0</mn></mrow></msub></mtd></mtr></mtable></math> mm。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：观察检查。</p>
+ <p style="text-align:center">一般检验项目</p>
+ <p style="text-align:justify"><a href="#id2.1.3.6"> 2.1.3.6</a> <span id="id2.1.3.6"> 钢筋应平直、无损伤，表面不得有裂纹、油污、颗粒状或片状锈皮。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检验。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：观察检查。</p>
+ <p style="text-align:justify"><a href="#id2.1.3.7"> 2.1.3.7</a> <span id="id2.1.3.7"> 钢筋焊接接头和机械连接接头的外观质量应符合现行行业标准《钢筋焊接及验收规程》（JGJ 18）和《钢筋机械连接通用技术规程》（JGJ 107）等的有关规定。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：观察检查。</p>
+ <p style="text-align:justify"><a href="#id2.1.3.8"> 2.1.3.8</a> <span id="id2.1.3.8"> 钢筋骨架应绑扎或焊接牢固，绑扎铅丝头应向里按倒，不应伸入钢筋保护层。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：观察检查。</p>
+ <p style="text-align:justify"><a href="#id2.1.3.9"> 2.1.3.9</a> <span id="id2.1.3.9"> 环氧涂层钢筋与普通钢筋之间不应形成电连接。涂层损伤缺陷的修补应符合现行行业标准《环氧树脂涂层钢筋》（JG 3042）的有关规定。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：观察检查。</p>
+ <p style="text-align:justify"><a href="#id2.1.3.10"> 2.1.3.10</a> <span id="id2.1.3.10"> 钢筋加工的允许偏差应符合<a href="#B2.1.3.10">表2.1.3.10</a>的规定。</span></p>
+ 
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B2.1.3.10">表2.1.3.10 钢筋加工允许偏差</b></caption>	
+            <tr>
+		    <td  align="center"  width="100px"  id="dhbg"> 序号</td>
+            <td  align="center"  width="400px"  id="dhbg" >项目</td>   
+            <td  align="center"  width="400px"  id="dhbg">允许偏差(mm)</td>   
+		    </tr>   
+		    <tr>
+		    <td  align="center" id="dhbg">1</td>
+		    <td  align="center" id="dhbg" >长度</td>
+			<td  align="center" id="dhbg">+5<br/>-15</td>
+            </tr>
+       
+		    <tr>
+            <td  align="center" id="dhbg" >2</td> 
+            <td  align="center" id="dhbg" >弯起钢筋弯折点位置</td>
+            <td  align="center" id="dhbg">±20</td>   
+		    </tr>  
+ 		    <tr>
+            <td  align="center" id="dhbg" >3</td> 
+            <td  align="center" id="dhbg" >箍筋内尺寸</td>
+            <td  align="center" id="dhbg">±5</td>   
+		    </tr>            
+		</table>
+   <p style="text-indent:2em;" ><font size="2">注：本表是对钢筋加工工序的质量要求，其检测数据不计入钢筋绑扎的检测数据中。 </font></p>
+
+ <p style="text-align:justify"><a href="#id2.1.3.11"> 2.1.3.11</a> <span id="id2.1.3.11"> 钢筋绑扎和安装的允许偏差、检验数量与方法应符合<a href="#B2.1.3.11">表2.1.3.11</a>的规定。</span></p>
+ 
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B2.1.3.11">表2.1.3.11 钢筋绑扎和安装位置的允许偏差、检验数量与方法</b></caption>	
+              
+		    <tr>
+		    <td  align="center" id="dhbg" width="80px">序号</td>
+		    <td  align="center"id="dhbg" colspan="2">项目</td>
+			<td  align="center" id="dhbg">允许偏差(mm)</td>
+            <td  align="center" id="dhbg">检验数量</td> 
+            <td  align="center" id="dhbg">单元测点</td>
+            <td  align="center" id="dhbg">检验方法</td>     
+		    </tr>
+		    <tr>
+		    <td  align="center" rowspan="2" id="dhbg" > 1</td>
+		     <td  align="center" rowspan="2" id="dhbg" width="120px" > 钢筋骨架外轮廓尺寸</td>
+            <td  align="center"  width="200px">成都</td> 
+            <td  align="center"  width="100px" > +5<br/>-10</td>
+            <td  align="center" rowspan="6" id="dhbg"  width="200px">梁、板、桩等小型构件抽查 10% 且不少于 3 件；沉箱、扶壁等大型构件逐件检查</td> 
+            <td  align="center"  width="150px"  >3</td>   
+            <td  align="center"  width="300px" rowspan="4" id="dhbg"  >用钢尺测量两端和中部</td>   
+		    </tr>        
+		    <tr>
+		    <!-- <td></td> -->
+		    <!-- <td></td> -->
+            <td  align="center"  >宽度、高度</td> 
+            <td  align="center"  width="100px" >  +5<br/>-10 </td>
+            <!-- <td></td> -->
+            <td  align="center"  width="100px"  >3</td>   
+            <!-- <td></td> -->  
+		    </tr>  
+		    <tr>
+		    <td  align="center" rowspan="2" id="dhbg" width="80px"> 2</td>
+		    <td  align="center" rowspan="2" id="dhbg" width="150px" > 受力钢筋</td>
+            <td  align="center"  width="200px">间距</td> 
+            <td  align="center"  width="100px" > ±15</td>
+            <!-- <td></td> -->  
+            <td  align="center"  width="100px"  >3</td>   
+            <!-- <td></td> -->    
+		    </tr>        
+		    <tr>
+		        <!-- <td></td> -->
+		        <!-- <td></td> -->
+            <td  align="center"  width="200px">层距或排距</td> 
+            <td  align="center"  width="100px" > ±10</td>
+            <!-- <td></td> -->
+            <td  align="center"  width="100px"  >3</td>   
+            <!-- <td></td> --> 
+		    </tr> 
+		    <tr>
+		   <td  align="center"id="dhbg" > 3</td>
+		    <td  align="center" colspan="2" id="dhbg"  > 弯起钢筋弯起点位置</td>
+            <!-- <td></td> -->
+            <td  align="center"  > ±20</td>
+            <!-- <td></td> -->
+            <td  align="center"   id="dhbg" >2</td>   
+            <td  align="center" id="dhbg" >用钢尺测量</td>   
+		    </tr>  
+		    <tr>
+		   <td  align="center"id="dhbg" > 4</td>
+		    <td  align="center" colspan="2" id="dhbg"  > 箍筋、分布筋间距</td>
+            <!-- <td></td> -->
+            <td  align="center"  > ±20</td>
+            <!-- <td></td> -->
+            <td  align="center"   id="dhbg" >3</td>   
+            <td  align="left" id="dhbg" >用钢尺测量两端和中部连续 3 档，取大值</td>   
+		    </tr>                           
+		</table>
+   <p style="text-indent:2em;" ><font size="2">注：预制构件外伸环形钢筋的间距或倾斜允许偏差为±20 mm。 </font></p>		
+
+
 
 2.1.4 混凝土工程
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
+.. raw:: html
+
+ <p style="text-align:center">主要检验项目</p>
+ <p style="text-align:justify"><a href="#id2.1.4.1"> 2.1.4.1</a> <span id="id2.1.4.1"> 混凝土所用原材料的质量必须符合现行行业标准《水运工程混凝土施工规范》（JTJ 268）和国家现行有关标准的规定。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位按材料种类及进场批次抽样检验，监理单位见证抽样并按规定平行检验。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：检查产品质量证明文件和复验报告。</p>
+ <p style="text-align:justify"><a href="#id2.1.4.2"> 2.1.4.2</a> <span id="id2.1.4.2"> 混凝土的配合比设计应符合现行行业标准《水运工程混凝土施工规范》（JTJ268）等的有关规定。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全数检查。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：检查配合比设计报告。</p>
+ <p style="text-align:justify"><a href="#id2.1.4.3"> 2.1.4.3</a> <span id="id2.1.4.3"> 混凝土中的总氯离子含量和碱含量应符合现行行业标准《水运工程混凝土施工规范》（JTJ 268）的有关规定。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全数检查。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：检查试验报告或评估报告。</p>
+ <p style="text-align:justify"><a href="#id2.1.4.4"> 2.1.4.4</a> <span id="id2.1.4.4"> 混凝土的强度必须满足设计要求，并应符合现行行业标准《水运工程混凝土施工规范 工规范》(JTJ 268)等的有关规定。》（JTJ 268）等的有关规定。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位按验收批全数检查。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：检查试验报告和统计评定表。</p>
+ <p style="text-align:justify"><a href="#id2.1.4.5"> 2.1.4.5</a> <span id="id2.1.4.5"> 有抗冻和抗渗等级要求的混凝土，其抗冻和抗渗等级应符合现行行业标准《水运工程混凝土施工规范》(JTJ 268)等的有关规定。 运工程混凝土施工规范》（JTJ 268）等的有关规定。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位按验收批全数检查。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：检查试验报告。</p>
+ <p style="text-align:justify"><a href="#id2.1.4.6"> 2.1.4.6</a> <span id="id2.1.4.6"> 混凝土的抗氯离子渗透性应满足设计要求，并应符合现行行业标准《水运工程混凝土施工规范》(JTJ 268)等的有关规定。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位按验收批全数检查。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：检查试验报告。</p>
+ <p style="text-align:justify"><a href="#id2.1.4.7"> 2.1.4.7</a> <span id="id2.1.4.7"> 有抗折等级要求的路面混凝土，其抗折等级应符合现行行业标准《港口道路、堆场铺面设计与施工规范》(JTJ 296)的有关规定。 堆场铺面设计与施工规范》（JTJ 296）的有关规定。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位按验收批全数检查。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：检查试验报告和统计评定表。</p>
+  <p style="text-align:center">一般检验项目</p>
+ <p style="text-align:justify"><a href="#id2.1.4.8"> 2.1.4.8</a> <span id="id2.1.4.8"> 施工缝的留只位置和施工缝处理应满足设计要求，并应符合现行行业标准《水运工程混凝土施工规范 运工程混凝土施工规范》(JTJ 268)的有关规定。 </span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：观察检查。</p>
+ <p style="text-align:justify"><a href="#id2.1.4.9"> 2.1.4.9</a> <span id="id2.1.4.9"> 混凝土的养护应符合现行行业标准《水运工程混凝土施工规范》（JTJ 268）的有关规定。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：检查施工记录并观察检查。 </p>
+
+
 2.1.5 预应力工程
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+.. raw:: html
+
+ <p style="text-align:center">主要检验项目</p>
+ <p style="text-align:justify"><a href="#id2.1.5.1"> 2.1.5.1</a> <span id="id2.1.5.1"> 预应力筋的品种、规格和数量必须满足设计要求。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检验。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：观察检查</p>
+ <p style="text-align:justify"><a href="#id2.1.5.2"> 2.1.5.2</a> <span id="id2.1.5.2"> 预应力筋的质量必须符合现行国家标准《预应力混凝土用螺纹钢筋》(GB/T20065)等的有关规定。 </span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位按进场批抽样复验，监理单位见证抽样并按规定抽样平行检验。 </p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：检查产品质量证明文件和复验报告。</p>
+ <p style="text-align:justify"><a href="#id2.1.5.3"> 2.1.5.3</a> <span id="id2.1.5.3"> 预应力筋的锚具、夹具和连接器的质量应满足设计要求，并应符合现行国家标准《预应力筋用锚具、夹具和连接器》（GB/T 14370）的有关规定。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位按进场批抽样复验，监理单位见证取样并按规定抽样平行检验。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：检查产品质量证明文件和复验报告。</p> 
+ <p style="text-align:justify"><a href="#id2.1.5.4"> 2.1.5.4</a> <span id="id2.1.5.4"> 先张法放张预应力筋和后张法张拉预应力筋时，构件混凝土强度应满足设计要求。设计无要求时，混凝土强度不应低于设计强度的 75%。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全数检查。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：检查同条件养护试件试验报告。</p>
+ <p style="text-align:justify"><a href="#id2.1.5.5"> 2.1.5.5</a> <span id="id2.1.5.5"> 预应力筋的张拉力、张拉和放张顺序应满足设计要求。后张法预应力筋断裂或滑脱的数量不得超过预应力筋总数的3%，每束内断丝不得超过1根，且不得位于结构的同一侧；先张法预应力筋不得发生断裂或滑脱。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：检查施工记录。</p>
+ <p style="text-align:justify"><a href="#id2.1.5.6"> 2.1.5.6</a> <span id="id2.1.5.6"> 孔道灌浆的工艺、材料和强度应满足设计要求，灌浆应饱满、密实。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：检查施工记录和试验报告。</p> 
+
+ <p style="text-align:center">一般检验项目</p>
+ <p style="text-align:justify"><a href="#id2.1.5.7"> 2.1.5.7</a> <span id="id2.1.5.7"> 预留孔道所用的金属螺旋管和隔离套管等表面应无油污、损伤和孔洞。施工中应密封良好、接头严密、线型平顺、安装牢固。预留孔中心位置的偏差不应大于5 mm。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：观察尺量。</p>
+ <p style="text-align:justify"><a href="#id2.1.5.8"> 2.1.5.8</a> <span id="id2.1.5.8"> 后张法预应力锚固阶段张拉端预应力筋的内缩量应满足设计要求，设计无要求时应符合<a href="#B2.1.5.8">表2.1.5.8</a>的规定。</span></p>
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B2.1.5.8">表2.1.5.8 张拉端预应力筋的内缩量限值</b></caption>	
+              
+		    <tr>
+		    <td  align="center" id="dhbg" colspan="2">锚具类别</td>
+		    <!-- <td></td> -->
+			<td  align="center" id="dhbg" >内缩量限值(mm)</td>    
+		    </tr>
+            <tr>
+		    <td  align="center" id="dhbg" rowspan="2" width="300px">支承式锚具(镦头锚具等)</td>
+		    <td  align="center" id="dhbg" width="300px">螺帽缝隙</td> 
+			<td  align="center" id="dhbg" width="300px">1</td>    
+		    </tr>
+            <tr>
+		     <!-- <td></td> -->
+		    <td  align="center" id="dhbg" width="300px">每块后加垫板的缝隙</td> 
+			<td  align="center" id="dhbg" width="300px">1</td>    
+		    </tr>            
+		    <tr>
+		    <td  align="center" id="dhbg" colspan="2">锥塞式锚具</td>
+		    <!-- <td></td> -->
+			<td  align="center" id="dhbg" >5</td>    
+		    </tr>
+ 		    <tr>
+		    <td  align="center" id="dhbg" colspan="2">夹片式锚具</td>
+		    <!-- <td></td> -->
+			<td  align="center" id="dhbg" >5</td>    
+		    </tr>           		   
+		</table>
+   <p ></p>	
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位每工班抽查总数的3%，且不少于5根或5束。监理单位见证检验。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：检查施工纪录。</p>  
+ <p style="text-align:justify"><a href="#id2.1.5.9"> 2.1.5.9</a> <span id="id2.1.5.9"> 预应力筋锚固后的外伸长度、封锚和处理应满足设计要求。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：观察检查。</p>
+
+
+
 
 2.1.6 混凝土构件
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>

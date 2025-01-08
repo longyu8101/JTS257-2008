@@ -78,5 +78,18 @@
     zdsm
     1
     2
- 
+    FLA
+    FLB
+    FLC
+    FLD
+    FLE
+    FLF
+    FLG
+    FLH
+    FLJ
+    FLK
+    FLL
+    fjsm
+    qcmd
+    twsm
    

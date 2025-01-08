@@ -1,0 +1,1308 @@
+附录K  水运工程施工现场质量管理检查记录
+=============================================
+
+.. raw:: html
+
+  <h2 id="test111">附录K  水运工程质量控制资料用表统一要求</h2>
+
+
+K.1 一般规定
+--------------------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#idK.1.0.1"> K.1.0.1</a> <span id="idK.1.0.1"> 工程质量控制资料应按本标准和相关标准的规定随工程施工进度同步形成，并应按本附录的规定进行收集和整理，作为工程质量的客观见证和质量检验与验收的依据。</span></p>
+ <p style="text-align:justify"><a href="#idK.1.0.2"> K.1.0.2</a> <span id="idK.1.0.2"> 工程建设各方应按下列规定做好工程质量控制资料的形成、收集和整理。</span></p>
+ <p style="text-align:justify"><a href="#idK.1.0.2.1"> K.1.0.2.1</a> <span id="idK.1.0.2.1"> 建设单位应向工程建设的设计、施工和监理等单位提供与工程建设有关的资料，并应对有关工程质量控制资料签署意见。</span></p>
+ <p style="text-align:justify"><a href="#idK.1.0.2.2"> K.1.0.2.2</a> <span id="idK.1.0.2.2"> 勘察单位和设计单位应按合同要求提供勘察报告和设计文件，并对相关工程质量控制资料签署意见。</span></p>
+ <p style="text-align:justify"><a href="#idK.1.0.2.3"> K.1.0.2.3</a> <span id="idK.1.0.2.3"> 监理单位应按合同和国家有关规定对工程质量控制资料的形成、收集和整理进行检查和审核，并应及时签署意见。</span></p>
+ <p style="text-align:justify"><a href="#idK.1.0.2.4"> K.1.0.2.4</a> <span id="idK.1.0.2.4"> 试验检测机构应按试验检测程序和相关规定及时出具试验检测报告。</span></p>   
+ <p style="text-align:justify"><a href="#idK.1.0.2.5"> K.1.0.2.5</a> <span id="idK.1.0.2.5"> 施工单位应建立健全工程质量控制资料管理岗位责任制，指定专门人员负责工程质量控制资料的形成、收集和整理，并应对其真实性、完整性和有效性负责。工程竣工前，应按竣工资料和归档的要求进行整理。</span></p> 
+ <p style="text-align:justify"><a href="#idK.1.0.2.6"> K.1.0.2.6</a> <span id="idK.1.0.2.6"> 质量监督机构应按国家有关规定对工程质量控制资料的管理进行监督检查，对需签署意见的应及时签署意见。</span></p>
+ <p style="text-align:justify"><a href="#idK.1.0.3"> K.1.0.3</a> <span id="idK.1.0.3"> 主要工程质量控制资料用表应采用本附录所规定的表格格式，对于本附录未包含和根据工程需要增加的，可参考本附录的规定制定和分类。</span></p>
+ <p style="text-align:justify"><a href="#idK.1.0.4"> K.1.0.4</a> <span id="idK.1.0.4"> 工程质量控制资料用表的纸张和填写应符合下列要求。</span></p>
+ <p style="text-align:justify"><a href="#idK.1.0.4.1"> K.1.0.4.1</a> <span id="idK.1.0.4.1"> 表格纸张规格应使用 A4 或 A3 纸。</span></p>
+ <p style="text-align:justify"><a href="#idK.1.0.4.2"> K.1.0.4.2</a> <span id="idK.1.0.4.2"> 应用碳素墨水填写或打印。</span></p>
+ <p style="text-align:justify"><a href="#idK.1.0.4.3"> K.1.0.4.3</a> <span id="idK.1.0.4.3"> 表格填写内容和有关人员的签字应齐全，需要公章的应加盖公章。</span></p>
+
+
+K.2 工程测量控制点验收记录
+--------------------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#idK.2.0.1"> K.2.0.1</a> <span id="idK.2.0.1"> 工程测量控制点、施工测量基线和水准点应有平面布设图和计算书。使用前应进行检查验收。</span></p>
+ <p style="text-align:justify"><a href="#idK.2.0.2"> K.2.0.2</a> <span id="idK.2.0.2"> 工程测量控制点验收应采用表<a href="#figK.2.0.2.1">表K.2.0.2-1</a>，施工测量基线和水准点验收应采用<a href="#figK.2.0.2">K.2.0.2-2</a>。</span></p>
+
+K.3 原材料出厂质量证明和进场验收记录
+------------------------------------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#idK.3.0.1"> K.3.0.1</a> <span id="idK.3.0.1"> 供应单位提供的成品、半成品、构配件和设备等原材料的出厂质量证明文件应反映原材料的品种、规格、性能指标等，并应与实际进场材料相符。</span></p>
+ <p style="text-align:justify"><a href="#idK.3.0.2"> K.3.0.2</a> <span id="idK.3.0.2"> 原材料进场后，施工单位应进行检查，填写进场验收记录，并报监理单位和建设单位共同进行验收；对于设备应做设备开箱检查记录。</span></p>
+ <p style="text-align:justify"><a href="#idK.3.0.3"> K.3.0.3</a> <span id="idK.3.0.3"> 原材料、成品、半成品、构配件等进场验收应采用<a href="#figK.3.0.3.2">表K.3.0.3-2</a>，设备开箱检查记录应采用表<a href="#figK.3.0.3.3">表K.3.0.3-3</a>，并均应采用<a href="#figK.3.0.3.1">表K.3.0.3-1</a>进行汇总。</span></p>
+ <p style="text-align:justify"><a href="#idK.3.0.4"> K.3.0.4</a> <span id="idK.3.0.4"> 原材料出厂合格证或质量证明文件的抄件或复印件应清楚，并应注明代表数量和供应日期。抄件或复印件中应有抄件人的签字和抄件单位的红色公章，并注明原件保存单位。</span></p>
+
+K.4 原材料试验检验报告
+------------------------------------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#idK.4.0.1"> K.4.0.1</a> <span id="idK.4.0.1"> 供应单位提供的成品、半成品、构配件和设备等原材料的出厂质量证明文件应反映原材料的品种、规格、性能指标等，并应与实际进场材料相符。</span></p>
+ <p style="text-align:justify"><a href="#idK.4.0.2"> K.4.0.2</a> <span id="idK.4.0.2"> 原材料进场后，施工单位应进行检查，填写进场验收记录，并报监理单位和建设单位共同进行验收；对于设备应做设备开箱检查记录。</span></p>
+ <p style="text-align:justify"><a href="#idK.4.0.3"> K.4.0.3</a> <span id="idK.4.0.3"> 原材料、成品、半成品、构配件等进场验收应采用<a href="#figK.3.0.3.2">表K.3.0.3-2</a>，设备开箱检查记录应采用表<a href="#figK.3.0.3.3">表K.3.0.3-3</a>，并均应采用<a href="#figK.3.0.3.1">表K.3.0.3-1</a>进行汇总。</span></p>
+ <p style="text-align:justify"><a href="#idK.4.0.3.1"> K.4.0.3.1</a> <span id="idK.4.0.3.1"> 外加剂的进场复验报告应按其进场验收检验批提供。</span></p>
+ <p style="text-align:justify"><a href="#idK.4.0.3.2"> K.4.0.3.2</a> <span id="idK.4.0.3.2"> 液态减水剂储存超过3 个月，松香热聚物型引气剂水溶液储存超过1 个月，使用前应重新取样检验。</span></p>
+ <p style="text-align:justify"><a href="#idK.4.0.3.3"> K.4.0.3.3</a> <span id="idK.4.0.3.3"> 减水剂、早强剂、速凝剂和引气型减水剂检验报告应采用<a href="#figK.4.0.3.1">表K.4.0.3-1</a>。泵送剂检验报告应采用<a href="#figK.4.0.3.2">表K.4.0.3-2</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.4.0.4"> K.4.0.4</a> <span id="idK.4.0.4"> 混凝土掺合料的检验报告应按其进场检验批提供。粉煤灰检验报告应采用<a href="#figK.4.0.4">表 K.4.0.4</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.4.0.5"> K.4.0.5</a> <span id="idK.4.0.5"> 当采用非饮用水作为混凝土拌和用水时，应提供水质检验报告。水质检验报告应采用<a href="#figK.4.0.5">表 K.4.0.5</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.4.0.6"> K.4.0.6</a> <span id="idK.4.0.6"> 钢筋的进场复验报告应符合下列规定。</span></p>
+ <p style="text-align:justify"><a href="#idK.4.0.6.1"> K.4.0.6.1</a> <span id="idK.4.0.6.1"> 钢筋的进场复验报告应按其进场检验批提供。</span></p>
+ <p style="text-align:justify"><a href="#idK.4.0.6.2"> K.4.0.6.2</a> <span id="idK.4.0.6.2"> 当钢筋检验结果达不到国家现行标准规定时，应双倍取样重新复验，复验合格后方准使用。复验报告应与第一次检验报告同时保存。</span></p>
+ <p style="text-align:justify"><a href="#idK.4.0.6.3"> K.4.0.6.3</a> <span id="idK.4.0.6.3"> 钢筋检验报告汇总表应采用<a href="#figK.4.0.6.1">表 K.4.0.6-1</a>，钢筋力学工艺性能及化学成分检验报告应采用<a href="#figK.4.0.6.2">表 K.4.0.6-2</a>，预应力混凝土用钢绞线检验报告应采用<a href="#figK.4.0.6.3">表 K.4.0.6-3</a>，预应力用锚具、夹具和连接器检验报告应采用<a href="#figK.4.0.6.4">表 K.4.0.6-4</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.4.0.7"> K.4.0.7</a> <span id="idK.4.0.7"> 钢材的复验报告应符合下列规定。</span></p>
+ <p style="text-align:justify"><a href="#idK.4.0.7.1"> K.4.0.7.1</a> <span id="idK.4.0.7.1"> 对需要进行复验的钢材应按检验批提供钢材检验报告。</span></p>
+ <p style="text-align:justify"><a href="#idK.4.0.7.2"> K.4.0.7.2</a> <span id="idK.4.0.7.2"> 当复验结果达不到国家现行标准规定时，必须双倍取样复验，复验合格后方准使用。复验报告应与第一次检验报告同时保存。</span></p>
+ <p style="text-align:justify"><a href="#idK.4.0.7.3"> K.4.0.7.3</a> <span id="idK.4.0.7.3"> 钢材检验报告应采用<a href="#figK.4.0.7">表 K.4.0.7。</a></span></p>
+ <p style="text-align:justify"><a href="#idK.4.0.8"> K.4.0.8</a> <span id="idK.4.0.8"> 高强度螺栓检验报告应采用<a href="#figK.4.0.8.1">表 K.4.0.8-1 </a>和<a href="#figK.4.0.8.2">表 K.4.0.8-2</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.4.0.8"> K.4.0.9</a> <span id="idK.4.0.9"> 沥青的检验报告应采用<a href="#figK.4.0.9">表 K.4.0.9</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.4.0.10"> K.4.0.10</a> <span id="idK.4.0.10"> 土工织物检验报告应采用<a href="#figK.4.0.10">表 K.4.0.10</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.4.0.11"> K.4.0.11</a> <span id="idK.4.0.11"> 塑料排水板检验报告应采用<a href="#figK.4.0.11">表 K.4.0.11</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.4.0.12"> K.4.0.12</a> <span id="idK.4.0.12"> 石灰检验报告可采用<a href="#figK.4.0.12">表 K.4.0.12</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.4.0.13"> K.4.0.13</a> <span id="idK.4.0.13"> 用于砂井、砂垫层、回填和稳定土等材料的检验报告，可采用上述相应表格，其检验项目及要求应按设计要求确定。</span></p>
+
+K.5 施工试验检测报告
+------------------------------------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#idK.5.0.1"> K.5.0.1</a> <span id="idK.5.0.1"> 混凝土和砂浆配合比设计报告应符合下列规定。</span></p>
+ <p style="text-align:justify"><a href="#idK.5.0.1.1"> K.5.0.1.1</a> <span id="idK.5.0.1.1"> 混凝土和砂浆的配合比设计报告应由具备相应能力等级的试验检测单位设计、签发。</span></p>
+ <p style="text-align:justify"><a href="#idK.5.0.1.2"> K.5.0.1.2</a> <span id="idK.5.0.1.2"> 混凝土配合比设计报告应采用<a href="#figK.5.0.1.1">表 K.5.0.1-1</a>，砂浆配合比设计报告应采用<a href="#figK.5.0.1.2">表 K.5.0.1-2</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.5.0.2"> K.5.0.2</a> <span id="idK.5.0.2"> 混凝土抗压强度和抗折强度检验报告应符合下列规定。</span></p>
+ <p style="text-align:justify"><a href="#idK.5.0.2.1"> K.5.0.2.1</a> <span id="idK.5.0.2.1"> 施工现场试验室的混凝土抗压强度和抗折强度检验报告可采用<a href="#figK.5.0.2.1">表 K.5.0.2-1</a>或<a href="#figK.5.0.2.2">表 K.5.0.2-2</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.5.0.2.2"> K.5.0.2.2</a> <span id="idK.5.0.2.2"> 试验检测机构接受委托检验的混凝土抗压强度和抗折强度检验报告应采用<a href="#figK.5.0.2.2">表 K.5.0.2-2</a>，其汇总记录应采用<a href="#figK.5.0.2.1">表 K.5.0.2-1</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.5.0.3"> K.5.0.3</a> <span id="idK.5.0.3"> 水泥砂浆抗压强度检验报告应采用<a href="#figK.5.0.3">表 K.5.0.3</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.5.0.4"> K.5.0.4</a> <span id="idK.5.0.4"> 混凝土抗冻检验报告应采用<a href="#figK.5.0.4">表 K.5.0.4</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.5.0.5"> K.5.0.5</a> <span id="idK.5.0.5"> 混凝土抗渗检验报告应采用<a href="#figK.5.0.5">表 K.5.0.5</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.5.0.6"> K.5.0.6</a> <span id="idK.5.0.6"> 混凝土联锁块检验报告应采用<a href="#figK.5.0.6">表 K.5.0.6</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.5.0.7"> K.5.0.7</a> <span id="idK.5.0.7"> 混凝土强度评定报告应符合下列规定。</span></p>
+ <p style="text-align:justify"><a href="#idK.5.0.7.1"> K.5.0.7.1</a> <span id="idK.5.0.7.1"> 凝土强度评定应按验收批进行。</span></p>
+ <p style="text-align:justify"><a href="#idK.5.0.7.2"> K.5.0.7.2</a> <span id="idK.5.0.7.2"> 混凝土验收批应按同一强度等级、配合比和生产工艺基本相同进行划分。现浇混凝土宜按分项工程划分验收批，预制混凝土构件宜按月划分验收批。</span></p>
+ <p style="text-align:justify"><a href="#idK.5.0.7.3"> K.5.0.7.3</a> <span id="idK.5.0.7.3"> 混凝土强度评定应采用<a href="#figK.5.0.7.1">表 K.5.0.7-1</a>，混凝土强度统计应采用<a href="#figK.5.0.7.2">表 K.5.0.7-2</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.5.0.8"> K.5.0.8</a> <span id="idK.5.0.8"> 混凝土氯离子含量评估报告应符合下列规定。</span></p>
+ <p style="text-align:justify"><a href="#idK.5.0.8.1"> K.5.0.8.1</a> <span id="idK.5.0.8.1"> 当使用海砂、含有氯盐的水、外加剂等拌制混凝土时，应提供混凝土氯离子含量评估报告。</span></p>
+ <p style="text-align:justify"><a href="#idK.5.0.8.2"> K.5.0.8.2</a> <span id="idK.5.0.8.2"> 混凝土氯离子总含量评估报告应采用<a href="#figK.5.0.8">表K.5.0.8</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.5.0.9"> K.5.0.9</a> <span id="idK.5.0.9"> 高性能混凝土抗氯离子渗透性能检验报告应符合下列规定。</span></p>
+ <p style="text-align:justify"><a href="#idK.5.0.9.1"> K.5.0.9.1</a> <span id="idK.5.0.9.1"> 采用电通量法试验时，检验报告应采用<a href="#figK.5.0.9">表K.5.0.9</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.5.0.9.2"> K.5.0.9.2</a> <span id="idK.5.0.9.2"> 计有要求用渗透系数法试验时，检验报告可参考上述表制定。</span></p>
+ <p style="text-align:justify"><a href="#idK.5.0.10"> K.5.0.10</a> <span id="idK.5.0.10"> 钢筋焊接和钢筋机械连接检验报告应符合下列规定。</span></p>
+ <p style="text-align:justify"><a href="#idK.5.0.10.1"> K.5.0.10.1</a> <span id="idK.5.0.10.1"> 钢筋接头的检验报告应按检验批提供。</span></p>
+ <p style="text-align:justify"><a href="#idK.5.0.10.2"> K.5.0.10.2</a> <span id="idK.5.0.10.2"> 当接头力学及工艺性能检验结果达不到国家现行标准规定时，应双倍取样重新复验，复验合格后方准使用。复验报告应与第一次检验报告同时保存。</span></p>
+ <p style="text-align:justify"><a href="#idK.5.0.10.3"> K.5.0.10.3</a> <span id="idK.5.0.10.3"> 机械连接接头所用连接件应有出厂质量证明文件及生产厂家提供的接头型式检验报告。</span></p>
+ <p style="text-align:justify"><a href="#idK.5.0.10.4"> K.5.0.10.4</a> <span id="idK.5.0.10.4"> 钢筋焊接力学及工艺性能检验报告应采用<a href="#figK.5.0.10.1">表 K.5.0.10-1</a>，钢筋机械连接接头单向拉伸性能检验报告应采用<a href="#figK.5.0.10.2">表 K.5.0.10-2</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.5.0.11"> K.5.0.11</a> <span id="idK.5.0.11"> 冷拉钢筋力学和工艺性能检验报告应采用<a href="#figK.5.0.11">表K.5.0.11</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.5.0.12"> K.5.0.12</a> <span id="idK.5.0.12"> 钢结构焊接探伤检验报告应符合下列规定。</span></p>
+ <p style="text-align:justify"><a href="#idK.5.0.12.1"> K.5.0.12.1</a> <span id="idK.5.0.12.1"> 当设计要求全焊透的一、二级焊缝时，应采用超声波探伤进行内部缺陷检验，超声波不能对缺陷做出判断时，应采用 X 射线探伤。</span></p>
+ <p style="text-align:justify"><a href="#idK.5.0.12.2"> K.5.0.12.2</a> <span id="idK.5.0.12.2"> 超声波探伤检验报告应采用<a href="#figK.5.0.12.1">表K.5.0.12-1</a>，X 射线探伤报告应采用<a href="#figK.5.0.12.2">表K.5.0.12-2</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.5.0.13"> K.5.0.13</a> <span id="idK.5.0.13"> 土击实试验报告和土干密度检验报告应符合下列规定。</span></p>
+ <p style="text-align:justify"><a href="#idK.5.0.13.1"> K.5.0.13.1</a> <span id="idK.5.0.13.1"> 土干密度检验应按施工段提供。</span></p>
+ <p style="text-align:justify"><a href="#idK.5.0.13.2"> K.5.0.13.2</a> <span id="idK.5.0.13.2"> 土干密度检验报告中应注明土样的层次、取样点号，并附取样平面简图。</span></p>
+ <p style="text-align:justify"><a href="#idK.5.0.13.3"> K.5.0.13.3</a> <span id="idK.5.0.13.3"> 土干密度检验报告汇总表应采用<a href="#figK.5.0.13.1">表K.5.0.13-1</a>，土击实试验报告应采用<a href="#figK.5.0.13.2">表K.5.0.13-2</a>，土压实度检验报告应采用<a href="#figK.5.0.13.3">表K.5.0.13-3</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.5.0.14"> K.5.0.14</a> <span id="idK.5.0.14"> 稳定土配合比设计报告应符合下列规定。</span></p>
+ <p style="text-align:justify"><a href="#idK.5.0.14.1"> K.5.0.14.1</a> <span id="idK.5.0.14.1"> 稳定土配合比设计报告应由具备相应能力等级的试验检测机构设计、签发。</span></p>
+ <p style="text-align:justify"><a href="#idK.5.0.14.2"> K.5.0.14.2</a> <span id="idK.5.0.14.2"> 稳定土配合比设计报告应采用<a href="#figK.5.0.14">表K.5.0.14</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.5.0.15"> K.5.0.15</a> <span id="idK.5.0.15"> 稳定土无侧限抗压强度检验报告应采用<a href="#figK.5.0.15">表K.5.0.15</a>。</span></p>
+
+K.6 构件出厂合格证
+------------------------------------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#idK.6.0.1"> K.6.0.1</a> <span id="idK.6.0.1"> 预制构件的出场合格证应符合下列规定。</span></p>
+ <p style="text-align:justify"><a href="#idK.6.0.1.1"> K.6.0.1.1</a> <span id="idK.6.0.1.1"> 混凝土构件和钢构件出场应按出厂批次提供预制构件出场合格证。</span></p>
+ <p style="text-align:justify"><a href="#idK.6.0.1.2"> K.6.0.1.2</a> <span id="idK.6.0.1.2"> 施工单位预制场生产的混凝土构件出厂合格证应采用<a href="#figK.6.0.1.1">表 K.6.0.1-1</a>，钢构件出厂合格证应采用<a href="#figK.6.0.1.2">表 K.6.0.1-2</a>。专业厂家生产的构件出场合格证可按合同规定或厂家的标准执行。</span></p>
+
+K.7 隐蔽工程验收记录
+------------------------------------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#idK.7.0.1"> K.7.0.1</a> <span id="idK.7.0.1"> 隐蔽工程验收记录应符合下列规定。</span></p>
+ <p style="text-align:justify"><a href="#idK.7.0.1.1"> K.7.0.1.1</a> <span id="idK.7.0.1.1"> 隐蔽工程验收的内容应满足设计要求并应符合国家现行标准的有关规定。</span></p>
+ <p style="text-align:justify"><a href="#idK.7.0.1.2"> K.7.0.1.2</a> <span id="idK.7.0.1.2"> 验收项目的质量情况应描述清楚，有关试验检测的内容应注明检验报告编号。</span></p>
+ <p style="text-align:justify"><a href="#idK.7.0.1.3"> K.7.0.1.3</a> <span id="idK.7.0.1.3"> 验收意见栏中应注明是否允许进行下一工序施工的结论性意见。</span></p>
+ <p style="text-align:justify"><a href="#idK.7.0.1.4"> K.7.0.1.4</a> <span id="idK.7.0.1.4"> 参加验收的有关单位及负责人应在验收记录表的相应栏目中签字确认。</span></p>
+ <p style="text-align:justify"><a href="#idK.7.0.1.5"> K.7.0.1.5</a> <span id="idK.7.0.1.5"> 隐蔽工程验收记录可采用<a href="#figK.7.0.1.2">表 K.7.0.1-2</a>并应采用<a href="#figK.7.0.1.1">表 K.7.0.1-1</a>进行汇总。</span></p>
+ <p style="text-align:justify;text-indent:2em;" > 钢筋和预应力等工程的隐蔽工程验收记录可参照通用记录的表格制定专项隐蔽工程验收记录；检查数据较多的隐蔽工程验收项目，也可采用施工综合记录表或分项工程质量检验评定表作为隐蔽工程验收记录表的附件。</p>
+
+K.8 地基与基础工程施工及验收记录
+------------------------------------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#idK.8.0.1"> K.8.0.1</a> <span id="idK.8.0.1"> 基槽和基坑开挖施工及验收记录应符合下列规定。</span></p>
+ <p style="text-align:justify"><a href="#idK.8.0.1.1"> K.8.0.1.1</a> <span id="idK.8.0.1.1"> 基槽和基坑开挖应有断面测量验收记录。水下基槽和陆上大型基坑应有开挖断面图。</span></p>
+ <p style="text-align:justify"><a href="#idK.8.0.1.2"> K.8.0.1.2</a> <span id="idK.8.0.1.2"> 码头水下基槽开挖断面测量验收记录应采用<a href="#figK.8.0.1">表 K.8.0.1</a>。其他基槽、基坑和岸坡开挖可参照使用。</span></p>
+ <p style="text-align:justify"><a href="#idK.8.0.2"> K.8.0.2</a> <span id="idK.8.0.2"> 水下抛石基床夯实和整平验收记录应符合下列规定。</span></p>
+ <p style="text-align:justify"><a href="#idK.8.0.2.1"> K.8.0.2.1</a> <span id="idK.8.0.2.1"> 连续基床每一夯实施工段且不大于 100 Km 进行一次验收；墩式基床每一个墩进行一次验收。</span></p>
+ <p style="text-align:justify"><a href="#idK.8.0.2.2"> K.8.0.2.2</a> <span id="idK.8.0.2.2"> 水下抛石基床夯实验收记录应采用<a href="#figK.8.0.2.1">表 K.8.0.2-1</a>或<a href="#figK.8.0.2.2">表 K.8.0.2-2</a>；水下抛石基床整平记录应采用<a href="#figK.8.0.2.3">表 K.8.0.2-3</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.8.0.3"> K.8.0.3</a> <span id="idK.8.0.3"> 击沉桩记录应符合下列规定。</span></p>
+ <p style="text-align:justify"><a href="#idK.8.0.3.1"> K.8.0.3.1</a> <span id="idK.8.0.3.1"> 方桩和管桩锤击沉桩应逐根填写锤击沉桩记录，施工结束后应整理沉桩综合记录；板桩沉桩应有综合记录。</span></p>
+ <p style="text-align:justify"><a href="#idK.8.0.3.2"> K.8.0.3.2</a> <span id="idK.8.0.3.2"> 锤击沉桩记录填写应满足下列要求。</span></p>
+ <ol>
+ <li>桩位编号与设计编号一致；</li>
+ <li>表中的桩偏位为沉桩结束摘替打时的桩偏位值；</li>
+ <li>沉桩过程中如发生溜桩、断桩或沉桩中途停止等异常情况，在备注栏注明。</li>
+ </ol>
+ <p style="text-align:justify"><a href="#idK.8.0.3.3"> K.8.0.3.3</a> <span id="idK.8.0.3.3"> 锤方桩和管桩的锤击沉桩综合记录应采用<a href="#figK.8.0.3.1">表 K.8.0.3-1</a>，表中的桩顶偏位为“夹桩铺底”后的桩顶偏位实测值。如发生断桩和补桩应在备注栏注明。锤击沉桩记录应采用<a href="#figK.8.0.3.2">表 K.8.0.3-2</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.8.0.3.4"> K.8.0.3.4</a> <span id="idK.8.0.3.4"> 板桩沉桩综合记录应采用<a href="#figK.8.0.3.3">表 K.8.0.3-3</a>，如板桩墙出现不连锁情况，应在备注栏注明。</span></p>
+ <p style="text-align:justify"><a href="#idK.8.0.4"> K.8.0.4</a> <span id="idK.8.0.4"> 灌注桩施工记录应符合下列规定。</span></p>
+ <p style="text-align:justify"><a href="#idK.8.0.4.1"> K.8.0.4.1</a> <span id="idK.8.0.4.1"> 灌注桩施工应逐根填写成孔施工记录、隐蔽工程验收记录和水下混凝土施工记录，完工后应填写综合记录。</span></p>
+ <p style="text-align:justify"><a href="#idK.8.0.4.2"> K.8.0.4.2</a> <span id="idK.8.0.4.2"> 灌注桩施工综合记录应采用<a href="#figK.8.0.4.1">表 K.8.0.4-1</a>；灌注桩成孔施工记录应采用<a href="#figK.8.0.4.2">表 K.8.0.4-2</a>；灌注桩隐蔽工程验收记录应采用<a href="#figK.8.0.4.3">表 K.8.0.4-3</a>；灌注桩水下混凝土施工记录应采用<a href="#figK.8.0.4.4">表 K.8.0.4-4</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.8.0.4.3"> K.8.0.4.3</a> <span id="idK.8.0.4.3"> 嵌岩桩的施工记录应按桩的类型分别填写管桩和灌注桩施工记录。</span></p>
+ <p style="text-align:justify"><a href="#idK.8.0.5"> K.8.0.5</a> <span id="idK.8.0.5"> 地下连续墙施工记录应符合下列规定。</span></p>
+ <p style="text-align:justify"><a href="#idK.8.0.5.1"> K.8.0.5.1</a> <span id="idK.8.0.5.1"> 地下连续墙施工应逐段填写成槽施工记录、隐蔽工程验收记录和水下混凝土施工记录，完工后应填写综合记录。</span></p>
+ <p style="text-align:justify"><a href="#idK.8.0.5.2"> K.8.0.5.2</a> <span id="idK.8.0.5.2"> 地下连续墙施工综合记录应采用<a href="#figK.8.0.5.1">表 K.8.0.5-1</a>；成槽施工记录应采用<a href="#figK.8.0.5.2">表 K.8.0.5-2</a>；隐蔽工程验收记录应采用<a href="#figK.8.0.5.3">表 K.8.0.5-3</a>；水下混凝土施工记录应采用<a href="#figK.8.0.5.4">表 K.8.0.5-4</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.8.0.6"> K.8.0.6</a> <span id="idK.8.0.6"> 砂桩、砂井、碎石桩、水泥搅拌桩、旋喷桩和高压注浆等地基基础处理应有单桩或处理单元的施工记录和综合施工记录，其记录表格格式可按设计要求和施工规程制定。</span></p>
+
+K.9 主要结构构件安装施工及验收记录
+------------------------------------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#idK.9.0.1"> K.9.0.1</a> <span id="idK.9.0.1"> 沉箱、空心块体、扶壁和半圆体等构件的安装记录应符合下列规定。</span></p>
+ <p style="text-align:justify"><a href="#idK.9.0.1.1"> K.9.0.1.1</a> <span id="idK.9.0.1.1"> 构件安装应填写安装综合记录。</span></p>
+ <p style="text-align:justify"><a href="#idK.9.0.1.2"> K.9.0.1.2</a> <span id="idK.9.0.1.2"> 沉箱和空心块体的安装综合记录应采用<a href="#figK.9.0.1.1">表 K.9.0.1-1</a>。沉箱安装的偏差应以沉箱灌满水经 1～2 个低潮后所测量的数值为准。</span></p>
+ <p style="text-align:justify"><a href="#idK.9.0.1.3"> K.9.0.1.3</a> <span id="idK.9.0.1.3"> 扶壁安装综合记录应采用<a href="#figK.9.0.1.2">表 K.9.0.1-2</a>，半圆体安装综合记录应采用<a href="#figK.9.0.1.3">表 K.9.0.1-3</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.9.0.2"> K.9.0.2</a> <span id="idK.9.0.2"> 方块安装记录应符合下列规定。</span></p>
+ <p style="text-align:justify"><a href="#idK.9.0.2.1"> K.9.0.2.1</a> <span id="idK.9.0.2.1"> 方块安装应分段、分层填写安装综合记录。</span></p>
+ <p style="text-align:justify"><a href="#idK.9.0.2.2"> K.9.0.2.2</a> <span id="idK.9.0.2.2"> 方块的安装综合记录应采用<a href="#figK.9.0.2.1">表 K.9.0.2-1</a>；卸荷板安装综合记录应采用<a href="#figK.9.0.2.2">表 K.9.0.2-2</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.9.0.3"> K.9.0.3</a> <span id="idK.9.0.3"> 梁、板等构件的安装综合记录应符合下列规定。</span></p>
+ <p style="text-align:justify"><a href="#idK.9.0.3.1"> K.9.0.3.1</a> <span id="idK.9.0.3.1"> 有焊接要求的构件，其焊接情况应在备注中注明。</span></p>
+ <p style="text-align:justify"><a href="#idK.9.0.3.2"> K.9.0.3.2</a> <span id="idK.9.0.3.2"> 梁的安装综合记录应采用<a href="#figK.9.0.3.1">表 K.9.0.3-1</a>；板的安装综合记录应采用<a href="#figK.9.0.3.2">表 K.9.0.3-2</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.9.0.4"> K.9.0.4</a> <span id="idK.9.0.4"> 板桩码头锚碇拉杆安装综合记录应采用<a href="#figK.9.0.4">表 K.9.0.4</a>。</span></p> 
+ <p style="text-align:justify"><a href="#idK.9.0.5"> K.9.0.5</a> <span id="idK.9.0.5"> 门机、装卸桥、火车等轨道安装综合记录应采用<a href="#figK.9.0.5">表 K.9.0.5</a>。</span></p>
+
+K.10 疏浚与吹填工程主要施工及验收记录
+------------------------------------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#idK.10.0.1"> K.10.0.1</a> <span id="idK.10.0.1"> 疏浚与吹填工程完工后应按下列规定提供质量检验成果验收记录，并作为单位工程质量检验记录的附件。</span></p>
+ <p style="text-align:justify"><a href="#idK.10.0.1.1"> K.10.0.1.1</a> <span id="idK.10.0.1.1"> 基建性和一次性维护疏浚工程质量检验成果表应采用<a href="#figK.10.0.1.1">表 K.10.0.1-1</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.10.0.1.2"> K.10.0.1.2</a> <span id="idK.10.0.1.2"> 挖岩与清渣工程质量检验成果表应采用<a href="#figK.10.0.1.2">表 K.10.0.1-2</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.10.0.1.3"> K.10.0.1.3</a> <span id="idK.10.0.1.3"> 沿海常年维护性疏浚工程质量检验表应采用<a href="#figK.10.0.1.3">表 K.10.0.1-3</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.10.0.1.4"> K.10.0.1.4</a> <span id="idK.10.0.1.4"> 沿海常年维护性疏浚工程质量检验成果表应采用<a href="#figK.10.0.1.4">表 K.10.0.1-4</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.10.0.1.5"> K.10.0.1.5</a> <span id="idK.10.0.1.5"> 内河常年维护性疏浚工程质量检验表应采用<a href="#figK.10.0.1.5">表 K.10.0.1-5</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.10.0.1.6"> K.10.0.1.6</a> <span id="idK.10.0.1.6"> 内河常年维护性疏浚工程质量检验成果表应采用<a href="#figK.10.0.1.6">表 K.10.0.1-6</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.10.0.1.7"> K.10.0.1.7</a> <span id="idK.10.0.1.7"> 吹填工程质量检验成果表应采用<a href="#figK.10.0.1.7">表 K.10.0.1-7</a>。</span></p>     
+
+K.11 机械设备安装主要施工及验收记录
+------------------------------------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#idK.11.0.1"> K.11.0.1</a> <span id="idK.11.0.1"> 液压管路压力和严密性试验记录应采用<a href="#figK.11.0.1">表 K.11.0.1</a>。</span></p>
+ 
+K.12 电气控制系统设备安装主要施工及验收记录
+------------------------------------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#idK.12.0.1"> K.12.0.1</a> <span id="idK.12.0.1"> 直埋和缆沟电缆隐蔽工程验收记录应采用<a href="#figK.12.0.1">表 K.12.0.1</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.12.0.2"> K.12.0.2</a> <span id="idK.12.0.2"> 电气线路和电气设备绝缘电阻测试记录应采用<a href="#figK.12.0.2">表 K.12.0.2</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.12.0.3"> K.12.0.3</a> <span id="idK.12.0.3"> 电气接地装置接地电阻测试记录应采用<a href="#figK.12.0.3">表 K.12.0.3</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.12.0.4"> K.12.0.4</a> <span id="idK.12.0.4"> 人工接地体隐蔽工程验收记录应采用<a href="#figK.12.0.4">表 K.12.0.4</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.12.0.5"> K.12.0.5</a> <span id="idK.12.0.5"> 接地装置、避雷、等电位隐蔽工程验收记录应采用<a href="#figK.12.0.5">表 K.12.0.5</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.12.0.6"> K.12.0.6</a> <span id="idK.12.0.6"> 低压电气设备交接试验记录应采用<a href="#figK.12.0.6.2">表 K.12.0.6-2</a>；高压及专用低压设备交接试验记录可采用厂家提供的试验记录，并均应采用<a href="#figK.12.0.6.1">表 K.12.0.6-1</a>汇总。</span></p>
+
+K.13 管道设备安装主要施工及验收记录
+------------------------------------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#idK.13.0.1"> K.13.0.1</a> <span id="idK.13.0.1"> 承压管道、阀门强度及严密性试验记录应采用<a href="#figK.13.0.1">表 K.13.0.1</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.13.0.2"> K.13.0.2</a> <span id="idK.13.0.2"> 非承压管道灌水试验记录应采用<a href="#figK.13.0.2">表 K.13.0.2</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.13.0.3"> K.13.0.3</a> <span id="idK.13.0.3"> 排水管道通球试验记录应采用<a href="#figK.13.0.4">表 K.13.0.4</a>。</span></p>
+
+K.14 施工质量返工处理记录
+------------------------------------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#idK.14.0.1"> K.14.0.1</a> <span id="idK.14.0.1"> 施工质量返工记录应符合下列规定。</span></p>
+ <p style="text-align:justify"><a href="#idK.14.0.1.1"> K.14.0.1.1</a> <span id="idK.14.0.1.1"> 工程结构构件在施工过程中出现不符合本标准规定，需要进行局部返工、加固、补强时，应填写施工质量返工记录。</span></p>
+ <p style="text-align:justify"><a href="#idK.14.0.1.2"> K.14.0.1.2</a> <span id="idK.14.0.1.2"> 施工质量返工记录应采用<a href="#figK.14.0.1">表 K.14.0.1</a>。</span></p>
+
+K.15 安全与主要功能项目检验与抽查资料
+------------------------------------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#idK.15.0.1"> K.15.0.1</a> <span id="idK.15.0.1"> 工程竣工整体尺度测量报告应符合下列规定。</span></p>
+ <p style="text-align:justify"><a href="#idK.15.0.1.1"> K.15.0.1.1</a> <span id="idK.15.0.1.1"> 工码头、防波堤、护岸、船闸、干船坞、道路、堆场、航道整治和航标等建筑物竣工后均应进行工程竣工整体尺度测量，并应提供工程竣工整体尺度测量报告。</span></p>
+ <p style="text-align:justify"><a href="#idK.15.0.1.2"> K.15.0.1.2</a> <span id="idK.15.0.1.2"> 各类建筑物的竣工整体尺度测量报告，可按本标准的有关规定自行制定。</span></p>
+ <p style="text-align:justify"><a href="#idK.15.0.2"> K.15.0.2</a> <span id="idK.15.0.2"> 疏浚与吹填工程竣工后应进行竣工测量，并应提供竣工断面及水深图与竣工地形测量图。</span></p>
+ <p style="text-align:justify"><a href="#idK.15.0.3"> K.15.0.3</a> <span id="idK.15.0.3"> 水工建筑物沉降与位移测量记录应符合下列规定。</span></p>
+ <p style="text-align:justify"><a href="#idK.15.0.3.1"> K.15.0.3.1</a> <span id="idK.15.0.3.1"> 施工过程中施工单位应按设计文件或施工组织设计的要求对建筑物及岸坡的沉降和位移情况进行观测和记录。工程竣工后，建设单位应按设计要求和有关规定继续进行观测。</span></p>
+ <p style="text-align:justify"><a href="#idK.15.0.3.2"> K.15.0.3.2</a> <span id="idK.15.0.3.2"> 沉降和位移观测点的布置应合理，并应有平面图。</span></p>
+ <p style="text-align:justify"><a href="#idK.15.0.3.3"> K.15.0.3.3</a> <span id="idK.15.0.3.3"> 沉降和位移观测应及时、连续，记录应真实、完整。</span></p>
+ <p style="text-align:justify"><a href="#idK.15.0.3.4"> K.15.0.3.4</a> <span id="idK.15.0.3.4"> 沉降和位移观测汇总记录采用<a href="#figK.15.0.3.1">表 K.15.0.3-1</a>；沉降观测记录应采用<a href="#figK.15.0.3.2">表 K.15.0.3-2</a>；位移观测应采用<a href="#figK.15.0.3.3">表 K.15.0.3-3</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.15.0.4"> K.15.0.4</a> <span id="idK.15.0.4"> 结构裂缝检查验收记录应符合下列规定。</span></p>
+ <p style="text-align:justify"><a href="#idK.15.0.4.1"> K.15.0.4.1</a> <span id="idK.15.0.4.1"> 结构发生裂缝时，应对裂缝进行检测鉴定并填写结构裂缝检查验收记录。</span></p>
+ <p style="text-align:justify"><a href="#idK.15.0.4.2"> K.15.0.4.2</a> <span id="idK.15.0.4.2"> 结构裂缝检查验收记录应采用<a href="#figK.15.0.4">表 K.15.0.4</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.15.0.5"> K.15.0.5</a> <span id="idK.15.0.5"> 结构渗漏情况检查记录应符合下列规定。</span></p>
+ <p style="text-align:justify"><a href="#idK.15.0.5.1"> K.15.0.5.1</a> <span id="idK.15.0.5.1"> 对有防渗要求的工程结构应对结构的防渗情况进行检查和记录。</span></p>
+ <p style="text-align:justify"><a href="#idK.15.0.5.2"> K.15.0.5.2</a> <span id="idK.15.0.5.2"> 结构渗漏情况检查验收记录应采用<a href="#figK.15.0.5">表 K.15.0.5</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.15.0.6"> K.15.0.6</a> <span id="idK.15.0.6"> 混凝土结构实体质量抽查检测记录应符合下列规定。</span></p>
+ <p style="text-align:justify"><a href="#idK.15.0.6.1"> K.15.0.6.1</a> <span id="idK.15.0.6.1"> 钢筋保护层厚度检测报告应采用<a href="#figK.15.0.6.1">表 K.15.0.6-1</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.15.0.6.2"> K.15.0.6.2</a> <span id="idK.15.0.6.2"> 混凝土抗氯离子渗透性能检测报告应采用<a href="#figK.15.0.6.2">表 K.15.0.6-2</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.15.0.7"> K.15.0.7</a> <span id="idK.15.0.7"> 起重装卸设备安全装置质量检验记录应采用<a href="#figK.15.0.7">表 K.15.0.7</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.15.0.8"> K.15.0.8</a> <span id="idK.15.0.8"> 输送设备安全装置质量检验记录应采用<a href="#figK.15.0.8">表 K.15.0.8</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.15.0.7"> K.15.0.9</a> <span id="idK.15.0.9"> 液压和气动系统调试检验记录应采用<a href="#figK.15.0.9">表 K.15.0.9</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.15.0.10"> K.15.0.10</a> <span id="idK.15.0.10"> 设备单机试运转记录应采用<a href="#figK.15.0.10">表 K.15.0.10</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.15.0.11"> K.15.0.11</a> <span id="idK.15.0.11"> 单机空载试运转检验记录应采用<a href="#figK.15.0.11">表 K.15.0.11</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.15.0.12"> K.15.0.12</a> <span id="idK.15.0.12"> 电气系统、设备试运转记录应采用<a href="#figK.15.0.12">表 K.15.0.12</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.15.0.13"> K.15.0.13</a> <span id="idK.15.0.13"> 变电所试运行检验记录应采用<a href="#figK.15.0.13">表 K.15.0.13</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.15.0.14"> K.15.0.14</a> <span id="idK.15.0.14"> 计算机系统试运行检验记录应按采用<a href="#figK.15.0.14">表 K.15.0.14</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.15.0.15"> K.15.0.15</a> <span id="idK.15.0.15">管道及附属设备、消防管道检验记录应采用<a href="#figK.13.0.1">表 K.13.0.1</a>、<a href="#figK.13.0.2"> K.13.0.2</a> 和<a href="#figK.13.0.3"> K.13.0.3</a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.15.0.16"> K.15.0.16</a> <span id="idK.15.0.16"> 消防系统调试检验记录应符合下列规定。</span></p>
+ <p style="text-align:justify"><a href="#idK.15.0.16.1"> K.15.0.16.1</a> <span id="idK.15.0.16.1"> 灾自动报警系统调试检验记录应采用<a href="#figK.15.0.16.1">表 K.15.0.16-1 </a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.15.0.16.2"> K.15.0.16.2</a> <span id="idK.15.0.16.2"> 消防报警阀调试检验记录应采用<a href="#figK.15.0.16.2">表 K.15.0.16-2 </a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.15.0.16.3"> K.15.0.16.3</a> <span id="idK.15.0.16.3"> 消防水泵调试检验记录应采用<a href="#figK.15.0.16.3">表 K.15.0.16-3 </a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.15.0.16.4"> K.15.0.16.4</a> <span id="idK.15.0.16.4"> 泡沫灭火系统调试检验记录应采用<a href="#figK.15.0.16.4">表 K.15.0.16-4 </a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.15.0.17"> K.15.0.17</a> <span id="idK.15.0.17"> 船闸设备试运行检测记录应符合下列规定。</span></p>
+ <p style="text-align:justify"><a href="#idK.15.0.17.1"> K.15.0.17.1</a> <span id="idK.15.0.17.1"> 船闸设备运行系统联合试运行记录应采用<a href="#figK.15.0.17.1">表 K.15.0.17-1 </a></span></p>
+ <p style="text-align:justify"><a href="#idK.15.0.17.2"> K.15.0.17.2</a> <span id="idK.15.0.17.2"> 闸门、阀门试运行检测记录应采用<a href="#figK.15.0.17.2">表 K.15.0.17-2 </a></span></p>
+ <p style="text-align:justify"><a href="#idK.15.0.17.3"> K.15.0.17.3</a> <span id="idK.15.0.17.3"> 闸液压式启闭设备试运行检测记录应采用<a href="#figK.15.0.17.3">表 K.15.0.17-3 </a></span></p>
+ <p style="text-align:justify"><a href="#idK.15.0.17.4"> K.15.0.17.4</a> <span id="idK.15.0.17.4"> 船闸机械式启闭机设备试运行记录应采用<a href="#figK.15.0.17.4">表 K.15.0.17-4 </a></span></p>
+ <p style="text-align:justify"><a href="#idK.15.0.17.5"> K.15.0.17.5</a> <span id="idK.15.0.17.5"> 船闸闸门、阀门同步精度检测记录应采用<a href="#figK.15.0.17.5">表 K.15.0.17-5 </a></span></p>
+ <p style="text-align:justify"><a href="#idK.15.0.17.6"> K.15.0.17.6</a> <span id="idK.15.0.17.6"> 船闸运行系统电气设备试运行记录应采用<a href="#figK.15.0.17.6">表 K.15.0.17-6 </a>。</span></p>   
+ <p style="text-align:justify"><a href="#idK.15.0.18"> K.15.0.18</a> <span id="idK.15.0.18"> 航标助航效能测试记录应符合下列规定。</span></p>
+ <p style="text-align:justify"><a href="#idK.15.0.18.1"> K.15.0.18.1</a> <span id="idK.15.0.18.1"> 航标助航效能测试记录应采用<a href="#figK.15.0.18.1">表 K.15.0.18-1 </a>。</span></p>
+ <p style="text-align:justify"><a href="#idK.15.0.18.2"> K.15.0.18.2</a> <span id="idK.15.0.18.2"> 雷达应答器使用效果综合测试记录应采用<a href="#figK.15.0.18.2">表 K.15.0.18-2 </a>。</span></p>
+
+K.16 主要用表的格式
+------------------------------------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#idK.16.0.1"> K.16.0.1</a> <span id="idK.16.0.1"> 水运工程质量控制资料用表可采用<a href="#figK.2.0.2.1">表 K.2.0.2-1</a>～<a href="#figK.15.0.18.2">表 K.15.0.18-2 </a>的格式。</span></p>
+
+     <style>
+     #biaoge {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:1px;
+        
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         border: 1px solid black;
+         
+      }
+      #eqzs {
+         border: 0px;
+      }
+      #dhbg {
+        vertical-align: middle;
+      }
+     </style>
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="BK.16.0.1">表K.16.0.1 水运工程质量控制资料统一用表目录</b></caption>	
+              
+		    <tr>
+		     <td  align="center" id="dhbg" width="100px">序号</td>
+		     <td  align="center" id="dhbg" width="600px">表名</td>
+         <td  align="center" id="dhbg" width="200px">表号</td>
+		    </tr>
+		    <tr>
+         <td align="center" id="dhbg">01</td>
+         <td align="center" id="dhbg">工程测量控制点验收记录</td>
+         <td align="center" id="dhbg"><a href="#figK.2.0.2.1">表 K.2.0.2-1</a></td>
+		    </tr>
+		    </tr>
+		    <tr>
+         <td align="center" id="dhbg">02</td>
+         <td align="center" id="dhbg">施工测量基线和水准点验收记录</td>
+         <td align="center" id="dhbg"><a href="#figK.2.0.2.2">表 K.2.0.2-2</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">03</td>
+         <td align="center" id="dhbg">___________材料汇总表（通用）</td>
+         <td align="center" id="dhbg"><a href="#figK.3.0.3.1">表 K.3.0.3-1</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">04</td>
+         <td align="center" id="dhbg">原材料（构配件）进场验收记录（通用）</td>
+         <td align="center" id="dhbg"><a href="#figK.3.0.3.2">表 K.3.0.3-2</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">05</td>
+         <td align="center" id="dhbg">设备开箱检查记录</td>
+         <td align="center" id="dhbg"><a href="#figK.3.0.3.3">表 K.3.0.3-3</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">06</td>
+         <td align="center" id="dhbg">水泥出厂质量证明和检验报告汇总表</td>
+         <td align="center" id="dhbg"><a href="#figK.4.0.1.1">表 K.4.0.1-1</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">07</td>
+         <td align="center" id="dhbg">水泥检验报告</td>
+         <td align="center" id="dhbg"><a href="#figK.4.0.1.2">表 K.4.0.1-2</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">08</td>
+         <td align="center" id="dhbg">混凝土用砂检验报告</td>
+         <td align="center" id="dhbg"><a href="#figK.4.0.2.1">表 K.4.0.2-1</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">09</td>
+         <td align="center" id="dhbg">碎石(卵石)检验报告</td>
+         <td align="center" id="dhbg"><a href="#figK.4.0.2.2">表 K.4.0.2-2</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">10</td>
+         <td align="center" id="dhbg">减水剂检验报告</td>
+         <td align="center" id="dhbg"><a href="#figK.4.0.3.1">表 K.4.0.3-1</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">11</td>
+         <td align="center" id="dhbg">泵送剂检验报告</td>
+         <td align="center" id="dhbg"><a href="#figK.4.0.3.2">表 K.4.0.3-2</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">12</td>
+         <td align="center" id="dhbg">粉煤灰检验报告</td>
+         <td align="center" id="dhbg"><a href="#figK.4.0.4">表 K.4.0.4</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">13</td>
+         <td align="center" id="dhbg">水质检验报告</td>
+         <td align="center" id="dhbg"><a href="#figK.4.0.5">表 K.4.0.5</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">14</td>
+         <td align="center" id="dhbg">钢筋(钢材)出厂合格证和检验报告汇总表</td>
+         <td align="center" id="dhbg"><a href="#figK.4.0.6.1">表 K.4.0.6-1</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">15</td>
+         <td align="center" id="dhbg">钢筋力学工艺性能及化学成分检验报告</td>
+         <td align="center" id="dhbg"><a href="#figK.4.0.6.2">表 K.4.0.6-2</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">16</td>
+         <td align="center" id="dhbg">预应力混凝土用钢绞线检验报告</td>
+         <td align="center" id="dhbg"><a href="#figK.4.0.6.3">表 K.4.0.6-3</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">17</td>
+         <td align="center" id="dhbg">预应力筋用锚具、夹具和连接器检验报告</td>
+         <td align="center" id="dhbg"><a href="#figK.4.0.6.4">表 K.4.0.6-4</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">18</td>
+         <td align="center" id="dhbg">钢材检验报告</td>
+         <td align="center" id="dhbg"><a href="#figK.4.0.7">表 K.4.0.7</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">19</td>
+         <td align="center" id="dhbg">高强度螺栓连接副检验报告</td>
+         <td align="center" id="dhbg"><a href="#figK.4.0.8.1">表 K.4.0.8-1</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">20</td>
+         <td align="center" id="dhbg">高强度螺栓检验报告</td>
+         <td align="center" id="dhbg"><a href="#figK.4.0.8.2">表 K.4.0.8-2</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">21</td>
+         <td align="center" id="dhbg">沥青检验报告</td>
+         <td align="center" id="dhbg"><a href="#figK.4.0.9">表 K.4.0.9</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">22</td>
+         <td align="center" id="dhbg">土工织物检验报告</td>
+         <td align="center" id="dhbg"><a href="#figK.4.0.10">表 K.4.0.10</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">23</td>
+         <td align="center" id="dhbg">塑料排水板检验报告</td>
+         <td align="center" id="dhbg"><a href="#figK.4.0.11">表 K.4.0.11</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">24</td>
+         <td align="center" id="dhbg">石灰检验报告</td>
+         <td align="center" id="dhbg"><a href="#figK.4.0.12">表 K.4.0.12</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">25</td>
+         <td align="center" id="dhbg">混凝土配合比报告设计</td>
+         <td align="center" id="dhbg"><a href="#figK.5.0.1.1">表 K.5.0.1-1</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">26</td>
+         <td align="center" id="dhbg">砂浆配合比设计报告</td>
+         <td align="center" id="dhbg"><a href="#figK.5.0.1.2">表 K.5.0.1-2</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">27</td>
+         <td align="center" id="dhbg">混凝土抗压(抗折)强度现场检验报告汇总表</td>
+         <td align="center" id="dhbg"><a href="#figK.5.0.2.1">表 K.5.0.2-1</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">28</td>
+         <td align="center" id="dhbg">混凝土抗压(抗折)强度检验报告</td>
+         <td align="center" id="dhbg"><a href="#figK.5.0.2.2">表 K.5.0.2-2</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">29</td>
+         <td align="center" id="dhbg">水泥砂浆抗压强度检验报告</td>
+         <td align="center" id="dhbg"><a href="#figK.5.0.3">表 K.5.0.3</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">30</td>
+         <td align="center" id="dhbg">混凝土抗冻检验报告</td>
+         <td align="center" id="dhbg"><a href="#figK.5.0.4">表 K.5.0.4</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">31</td>
+         <td align="center" id="dhbg">混凝土抗渗检验报告</td>
+         <td align="center" id="dhbg"><a href="#figK.5.0.5">表 K.5.0.5</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">32</td>
+         <td align="center" id="dhbg">混凝土联锁块检验报告</td>
+         <td align="center" id="dhbg"><a href="#figK.5.0.6">表 K.5.0.6</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">33</td>
+         <td align="center" id="dhbg">混凝土强度评定表</td>
+         <td align="center" id="dhbg"><a href="#figK.5.0.7.1">表 K.5.0.7-1</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">34</td>
+         <td align="center" id="dhbg">混凝土强度统计表</td>
+         <td align="center" id="dhbg"><a href="#figK.5.0.7.2">表 K.5.0.7-2</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">35</td>
+         <td align="center" id="dhbg">混凝土氯离子总含量评估报告</td>
+         <td align="center" id="dhbg"><a href="#figK.5.0.8">表 K.5.0.8</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">36</td>
+         <td align="center" id="dhbg">高性能混凝土抗氯离子渗透性能检验报告</td>
+         <td align="center" id="dhbg"><a href="#figK.5.0.9">表 K.5.0.9</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">37</td>
+         <td align="center" id="dhbg">钢筋焊接力学及工艺性能检验报告</td>
+         <td align="center" id="dhbg"><a href="#figK.5.0.10.1">表 K.5.0.10-1</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">38</td>
+         <td align="center" id="dhbg">钢筋机械连接接头单向拉伸性能检验报告</td>
+         <td align="center" id="dhbg"><a href="#figK.5.0.10.2">表 K.5.0.10-2</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">39</td>
+         <td align="center" id="dhbg">冷拉钢筋力学工艺性能检验报告</td>
+         <td align="center" id="dhbg"><a href="#figK.5.0.11">表 K.5.0.11</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">40</td>
+         <td align="center" id="dhbg">超声波探伤检验报告</td>
+         <td align="center" id="dhbg"><a href="#figK.5.0.12.1">表 K.5.0.12-1</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">41</td>
+         <td align="center" id="dhbg">X 射线检验报告</td>
+         <td align="center" id="dhbg"><a href="#figK.5.0.12.2">表 K.5.0.12-2</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">42</td>
+         <td align="center" id="dhbg">土压实度检验报告汇总表</td>
+         <td align="center" id="dhbg"><a href="#figK.5.0.13.1">表 K.5.0.13-1</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">43</td>
+         <td align="center" id="dhbg">土击实试验报告</td>
+         <td align="center" id="dhbg"><a href="#figK.5.0.13.2">表 K.5.0.13-2</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">44</td>
+         <td align="center" id="dhbg">土压实度检验报告</td>
+         <td align="center" id="dhbg"><a href="#figK.5.0.13.3">表 K.5.0.13-3</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">45</td>
+         <td align="center" id="dhbg">稳定土配合比设计报告</td>
+         <td align="center" id="dhbg"><a href="#figK.5.0.14">表 K.5.0.14</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">46</td>
+         <td align="center" id="dhbg">稳定土无侧限抗压强度检验报告</td>
+         <td align="center" id="dhbg"><a href="#figK.5.0.15">表 K.5.0.15</a></td>
+		    </tr>        
+	      <tr>
+         <td align="center" id="dhbg">47</td>
+         <td align="center" id="dhbg">混凝土构件出厂合格证</td>
+         <td align="center" id="dhbg"><a href="#figK.6.0.1.1">表 K.6.0.1-1</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">48</td>
+         <td align="center" id="dhbg">钢构件出厂合格证</td>
+         <td align="center" id="dhbg"><a href="#figK.6.0.1.2">表 K.6.0.1-2</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">49</td>
+         <td align="center" id="dhbg">__________记录汇总表</td>
+         <td align="center" id="dhbg"><a href="#figK.7.0.1.1">表 K.7.0.1-1</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">50</td>
+         <td align="center" id="dhbg">隐蔽工程验收记录（通用）</td>
+         <td align="center" id="dhbg"><a href="#figK.7.0.1.2">表 K.7.0.1-2</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">51</td>
+         <td align="center" id="dhbg">冷水下基槽开挖断面测量验收记录</td>
+         <td align="center" id="dhbg"><a href="#figK.8.0.1">表 K.8.0.1</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">52</td>
+         <td align="center" id="dhbg">水下基床夯实验收记录（方格网法）</td>
+         <td align="center" id="dhbg"><a href="#figK.8.0.2.1">表 K.8.0.2-1</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">53</td>
+         <td align="center" id="dhbg">水下基床夯实验收记录（随机选点法）</td>
+         <td align="center" id="dhbg"><a href="#figK.8.0.2.2">表 K.8.0.2-2</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">54</td>
+         <td align="center" id="dhbg">水下基床整平记录</td>
+         <td align="center" id="dhbg"><a href="#figK.8.0.2.3">表 K.8.0.2-3</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">55</td>
+         <td align="center" id="dhbg">锤击沉桩综合记录</td>
+         <td align="center" id="dhbg"><a href="#figK.8.0.3.1">表 K.8.0.3-1</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">56</td>
+         <td align="center" id="dhbg">锤击沉桩记录</td>
+         <td align="center" id="dhbg"><a href="#figK.8.0.3.2">表 K.8.0.3-2</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">57</td>
+         <td align="center" id="dhbg">板桩沉桩综合记录</td>
+         <td align="center" id="dhbg"><a href="#figK.8.0.3.3">表 K.8.0.3-3</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">54</td>
+         <td align="center" id="dhbg">水下基床整平记录</td>
+         <td align="center" id="dhbg"><a href="#figK.8.0.2.3">表 K.8.0.2-3</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">58</td>
+         <td align="center" id="dhbg">灌注桩施工综合记录</td>
+         <td align="center" id="dhbg"><a href="#figK.8.0.4.1">表 K.8.0.4-1</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">59</td>
+         <td align="center" id="dhbg">灌注桩成孔施工记录</td>
+         <td align="center" id="dhbg"><a href="#figK.8.0.4.2">表 K.8.0.4-2</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">60</td>
+         <td align="center" id="dhbg">灌注桩隐蔽验收记录</td>
+         <td align="center" id="dhbg"><a href="#figK.8.0.4.3">表 K.8.0.4-3</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">61</td>
+         <td align="center" id="dhbg">灌注桩水下混凝土施工记录</td>
+         <td align="center" id="dhbg"><a href="#figK.8.0.4.4">表 K.8.0.4-4</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">62</td>
+         <td align="center" id="dhbg">地下连续墙施工综合记录</td>
+         <td align="center" id="dhbg"><a href="#figK.8.0.5.1">表 K.8.0.5-1</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">63</td>
+         <td align="center" id="dhbg">地下连续墙成槽施工记录</td>
+         <td align="center" id="dhbg"><a href="#figK.8.0.5.2">表 K.8.0.5-2</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">64</td>
+         <td align="center" id="dhbg">地下连续墙隐蔽工程验收记录</td>
+         <td align="center" id="dhbg"><a href="#figK.8.0.5.3">表 K.8.0.5-3</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">65</td>
+         <td align="center" id="dhbg">地下连续墙水下混凝土施工记录</td>
+         <td align="center" id="dhbg"><a href="#figK.8.0.5.4">表 K.8.0.5-4</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">66</td>
+         <td align="center" id="dhbg">沉箱（空心块体）安装综合记录</td>
+         <td align="center" id="dhbg"><a href="#figK.9.0.1.1">表 K.9.0.1-1</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">67</td>
+         <td align="center" id="dhbg">扶壁安装综合记录</td>
+         <td align="center" id="dhbg"><a href="#figK.9.0.1.2">表 K.9.0.1-2</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">68</td>
+         <td align="center" id="dhbg">半圆体安装综合记录</td>
+         <td align="center" id="dhbg"><a href="#figK.9.0.1.3">表 K.9.0.1-3</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">69</td>
+         <td align="center" id="dhbg">方块安装综合记录</td>
+         <td align="center" id="dhbg"><a href="#figK.9.0.2.1">表 K.9.0.2-1</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">70</td>
+         <td align="center" id="dhbg">卸荷板安装综合记录</td>
+         <td align="center" id="dhbg"><a href="#figK.9.0.2.2">表 K.9.0.2-2</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">71</td>
+         <td align="center" id="dhbg">梁类构件安装综合记录</td>
+         <td align="center" id="dhbg"><a href="#figK.9.0.3.1">表 K.9.0.3-1</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">72</td>
+         <td align="center" id="dhbg">板类构件安装综合记录</td>
+         <td align="center" id="dhbg"><a href="#figK.9.0.3.2">表 K.9.0.3-2</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">73</td>
+         <td align="center" id="dhbg">锚碇拉杆安装综合记录</td>
+         <td align="center" id="dhbg"><a href="#figK.9.0.4">表 K.9.4</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">74</td>
+         <td align="center" id="dhbg">钢轨安装综合记录</td>
+         <td align="center" id="dhbg"><a href="#figK.9.0.5">表 K.9.5</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">75</td>
+         <td align="center" id="dhbg">基建性和一次性维护疏浚工程质量检验成果表</td>
+         <td align="center" id="dhbg"><a href="#figK.10.0.1.1">表 K.10.0.1-1</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">76</td>
+         <td align="center" id="dhbg">挖岩与清渣工程质量检验成果表</td>
+         <td align="center" id="dhbg"><a href="#figK.10.0.1.2">表 K.10.0.1-2</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">77</td>
+         <td align="center" id="dhbg">沿海常年维护性疏浚工程质量检验表</td>
+         <td align="center" id="dhbg"><a href="#figK.10.0.1.3">表 K.10.0.1-3</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">78</td>
+         <td align="center" id="dhbg">沿海常年维护性疏浚工程质量检验成果表</td>
+         <td align="center" id="dhbg"><a href="#figK.10.0.1.4">表 K.10.0.1-4</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">79</td>
+         <td align="center" id="dhbg">内河常年维护性疏浚工程质量检验表</td>
+         <td align="center" id="dhbg"><a href="#figK.10.0.1.5">表 K.10.0.1-5</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">80</td>
+         <td align="center" id="dhbg">内河常年维护性疏浚工程质量检验成果表</td>
+         <td align="center" id="dhbg"><a href="#figK.10.0.1.6">表 K.10.0.1-6</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">81</td>
+         <td align="center" id="dhbg">吹填工程质量检验成果表</td>
+         <td align="center" id="dhbg"><a href="#figK.13.0.1.7">表 K.13.0.1-7</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">82</td>
+         <td align="center" id="dhbg">液压管路压力和严密性试验记录</td>
+         <td align="center" id="dhbg"><a href="#figK.11.0.1">表 K.11.0.1</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">83</td>
+         <td align="center" id="dhbg">直埋、缆沟电缆隐蔽工程验收记录</td>
+         <td align="center" id="dhbg"><a href="#figK.12.0.1">表 K.12.0.1</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">84</td>
+         <td align="center" id="dhbg">电气线路和电气设备绝缘电阻测试记录</td>
+         <td align="center" id="dhbg"><a href="#figK.12.0.2">表 K.12.0.2</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">85</td>
+         <td align="center" id="dhbg">电气接地装置接地电阻测试记录</td>
+         <td align="center" id="dhbg"><a href="#figK.12.0.3">表 K.12.0.3</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">86</td>
+         <td align="center" id="dhbg">人工接地体隐蔽工程验收记录</td>
+         <td align="center" id="dhbg"><a href="#figK.12.0.4">表 K.12.0.4</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">87</td>
+         <td align="center" id="dhbg">接地装置、避雷和等电位隐蔽工程验收记录</td>
+         <td align="center" id="dhbg"><a href="#figK.12.0.5">表 K.12.0.5</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">88</td>
+         <td align="center" id="dhbg">电气设备_________记录汇总表</td>
+         <td align="center" id="dhbg"><a href="#figK.12.0.6.1">表 K.12.0.6-1</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">89</td>
+         <td align="center" id="dhbg">低压电气设备交接试验记录  记低压电气设备交接试验记录</td>
+         <td align="center" id="dhbg"><a href="#figK.12.0.6.2">表 K.12.0.6-2</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">90</td>
+         <td align="center" id="dhbg">承压管道、阀门强度及严密性试验记录</td>
+         <td align="center" id="dhbg"><a href="#figK.13.0.1">表 K.13.0.1</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">91</td>
+         <td align="center" id="dhbg">非承压管道灌水试验记录</td>
+         <td align="center" id="dhbg"><a href="#figK.13.0.2">表 K.13.0.2</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">92</td>
+         <td align="center" id="dhbg">排水管道通球试验记录</td>
+         <td align="center" id="dhbg"><a href="#figK.13.0.3">表 K.13.0.3</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">93</td>
+         <td align="center" id="dhbg">施工质量返工处理记录</td>
+         <td align="center" id="dhbg"><a href="#figK.14.0.1">表 K.14.0.1</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">94</td>
+         <td align="center" id="dhbg">水工建筑物沉降和位移汇总表</td>
+         <td align="center" id="dhbg"><a href="#figK.15.0.3.1">表 K.15.0.3-1</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">95</td>
+         <td align="center" id="dhbg">水工建筑物沉降观测记录</td>
+         <td align="center" id="dhbg"><a href="#figK.15.0.3.2">表 K.15.0.3-2</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">96</td>
+         <td align="center" id="dhbg">水工建筑物位移观测记录</td>
+         <td align="center" id="dhbg"><a href="#figK.15.0.3.3">表 K.15.0.3-3</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">97</td>
+         <td align="center" id="dhbg">结构渗漏情况检查验收记录</td>
+         <td align="center" id="dhbg"><a href="#figK.15.0.4">表 K.15.0.4</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">98</td>
+         <td align="center" id="dhbg">结构渗漏情况检查验收记录</td>
+         <td align="center" id="dhbg"><a href="#figK.15.0.5">表 K.15.0.5</a></td>
+		    </tr>        
+	      <tr>
+         <td align="center" id="dhbg">99</td>
+         <td align="center" id="dhbg">混凝土结构实体钢筋保护层厚度检测报告</td>
+         <td align="center" id="dhbg"><a href="#figK.15.0.6.1">表 K.15.0.6-1</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">100</td>
+         <td align="center" id="dhbg">混凝土结构实体抗氯离子渗透性能检验报告</td>
+         <td align="center" id="dhbg"><a href="#figK.15.0.6.2">表 K.15.0.6-2</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">101</td>
+         <td align="center" id="dhbg"> 起重装卸设备安全装置的质量检验记录</td>
+         <td align="center" id="dhbg"><a href="#figK.15.0.7">表 K.15.0.7</a></td>
+		    </tr>   
+	      <tr>
+         <td align="center" id="dhbg">102</td>
+         <td align="center" id="dhbg"> 输送设备安全装置的质量检验记录</td>
+         <td align="center" id="dhbg"><a href="#figK.15.0.8">表 K.15.0.8</a></td>
+		    </tr>   
+	      <tr>
+         <td align="center" id="dhbg">103</td>
+         <td align="center" id="dhbg"> 液压和气动系统调试检验记录</td>
+         <td align="center" id="dhbg"><a href="#figK.15.0.9">表 K.15.0.9</a></td>
+		    </tr>   
+	      <tr>
+         <td align="center" id="dhbg">104</td>
+         <td align="center" id="dhbg"> 设备单机试运转记录</td>
+         <td align="center" id="dhbg"><a href="#figK.15.0.10">表 K.15.0.10</a></td>
+		    </tr>   
+	      <tr>
+         <td align="center" id="dhbg">105</td>
+         <td align="center" id="dhbg"> 单机空载试运转检验记录</td>
+         <td align="center" id="dhbg"><a href="#figK.15.0.11">表 K.15.0.11</a></td>
+		    </tr>   
+	      <tr>
+         <td align="center" id="dhbg">106</td>
+         <td align="center" id="dhbg"> 电气系统、设备_________试运转记录</td>
+         <td align="center" id="dhbg"><a href="#figK.15.0.12">表 K.15.0.12</a></td>
+		    </tr>   
+	      <tr>
+         <td align="center" id="dhbg">107</td>
+         <td align="center" id="dhbg"> 变电所试运行检验记录</td>
+         <td align="center" id="dhbg"><a href="#figK.15.0.13">表 K.15.0.13</a></td>
+		    </tr>   
+	      <tr>
+         <td align="center" id="dhbg">108</td>
+         <td align="center" id="dhbg"> 计算机系统试运行检验记录</td>
+         <td align="center" id="dhbg"><a href="#figK.15.0.14">表 K.15.0.14</a></td>
+		    </tr>   
+	      <tr>
+         <td align="center" id="dhbg">109</td>
+         <td align="center" id="dhbg"> 火灾自动报警系统调试检验记录</td>
+         <td align="center" id="dhbg"><a href="#figK.15.0.16.1">表 K.15.0.16-1</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">110</td>
+         <td align="center" id="dhbg"> 消防报警阀调试检验记录</td>
+         <td align="center" id="dhbg"><a href="#figK.15.0.16.2">表 K.15.0.16-2</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">111</td>
+         <td align="center" id="dhbg"> 消防水泵调试检验记录</td>
+         <td align="center" id="dhbg"><a href="#figK.15.0.16.3">表 K.15.0.16-3</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">112</td>
+         <td align="center" id="dhbg"> 泡沫灭火系统调试检验记录</td>
+         <td align="center" id="dhbg"><a href="#figK.15.0.16.4">表 K.15.0.16-4</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">113</td>
+         <td align="center" id="dhbg"> 船闸设备运行系统联合试运行记录</td>
+         <td align="center" id="dhbg"><a href="#figK.15.0.17.1">表 K.15.0.17-1</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">114</td>
+         <td align="center" id="dhbg"> 闸门和阀门试运行检测记录</td>
+         <td align="center" id="dhbg"><a href="#figK.15.0.17.2">表 K.15.0.17-2</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">115</td>
+         <td align="center" id="dhbg"> 船闸液压式启闭设备试运行检测记录</td>
+         <td align="center" id="dhbg"><a href="#figK.15.0.17.3">表 K.15.0.17-3</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">116</td>
+         <td align="center" id="dhbg"> 船闸机械式启闭机设备试运行记录</td>
+         <td align="center" id="dhbg"><a href="#figK.15.0.17.4">表 K.15.0.17-4</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">117</td>
+         <td align="center" id="dhbg"> 船闸闸门和阀门同步精度检测记录</td>
+         <td align="center" id="dhbg"><a href="#figK.15.0.17.5">表 K.15.0.17-5</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">118</td>
+         <td align="center" id="dhbg"> 船闸运行系统电气设备试运行记录</td>
+         <td align="center" id="dhbg"><a href="#figK.15.0.17.6">表 K.15.0.17-6</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">119</td>
+         <td align="center" id="dhbg"> 航标助航效能测试记录</td>
+         <td align="center" id="dhbg"><a href="#figK.15.0.18.1">表 K.15.0.18-1</a></td>
+		    </tr>
+	      <tr>
+         <td align="center" id="dhbg">120</td>
+         <td align="center" id="dhbg"> 雷达应答器使用效果综合测试记录</td>
+         <td align="center" id="dhbg"><a href="#figK.15.0.18.2">表 K.15.0.18-2</a></td>
+		    </tr>
+		</table>
+ <p></p>
+
+  <div align="center"><img id="figK.2.0.2.1" src="./_static/fig/K.2.0.2.1.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.2.0.2.1'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+  <div align="center"><img id="figK.2.0.2.2" src="./_static/fig/K.2.0.2.2.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.2.0.2.2'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.3.0.3.1" src="./_static/fig/K.3.0.3.1.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.3.0.3.1'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.3.0.3.2" src="./_static/fig/K.3.0.3.2.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.3.0.3.2'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.3.0.3.3" src="./_static/fig/K.3.0.3.3.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.3.0.3.3'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.4.0.1.1" src="./_static/fig/K.4.0.1.1.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.4.0.1.1'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.4.0.1.2" src="./_static/fig/K.4.0.1.2.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.4.0.1.2'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.4.0.2.1" src="./_static/fig/K.4.0.2.1.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.4.0.2.1'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.4.0.2.2" src="./_static/fig/K.4.0.2.2.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.4.0.2.2'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.4.0.3.1" src="./_static/fig/K.4.0.3.1.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.4.0.3.1'));</script>
+  <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.4.0.3.2" src="./_static/fig/K.4.0.3.2.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.4.0.3.2'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.4.0.4" src="./_static/fig/K.4.0.4.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.4.0.4'));</script>
+  <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.4.0.5" src="./_static/fig/K.4.0.5.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.4.0.5'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+  <div align="center"><img id="figK.4.0.6.1" src="./_static/fig/K.4.0.6.1.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.4.0.6.1'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.4.0.6.2" src="./_static/fig/K.4.0.6.2.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.4.0.6.2'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.4.0.6.3" src="./_static/fig/K.4.0.6.3.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.4.0.6.3'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.4.0.6.4" src="./_static/fig/K.4.0.6.4.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.4.0.6.4'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.4.0.7" src="./_static/fig/K.4.0.7.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.4.0.7'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+  <div align="center"><img id="figK.4.0.8.1" src="./_static/fig/K.4.0.8.1.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.4.0.8.1'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.4.0.8.2" src="./_static/fig/K.4.0.8.2.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.4.0.8.2'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.4.0.9" src="./_static/fig/K.4.0.9.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.4.0.9'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.4.0.10" src="./_static/fig/K.4.0.10.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.4.0.10'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.4.0.11" src="./_static/fig/K.4.0.11.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.4.0.11'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.4.0.12" src="./_static/fig/K.4.0.12.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.4.0.12'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.5.0.1.1" src="./_static/fig/K.5.0.1.1.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.5.0.1.1'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.5.0.1.2" src="./_static/fig/K.5.0.1.2.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.5.0.1.2'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.5.0.2.1" src="./_static/fig/K.5.0.2.1.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.5.0.2.1'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.5.0.2.2" src="./_static/fig/K.5.0.2.2.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.5.0.2.2'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.5.0.3" src="./_static/fig/K.5.0.3.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.5.0.3'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.5.0.4" src="./_static/fig/K.5.0.4.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.5.0.4'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.5.0.4X" src="./_static/fig/K.5.0.4X.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.5.0.4X'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.5.0.5" src="./_static/fig/K.5.0.5.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.5.0.5'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.5.0.6" src="./_static/fig/K.5.0.6.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.5.0.6'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.5.0.7.1" src="./_static/fig/K.5.0.7.1.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.5.0.7.1'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.5.0.7.2" src="./_static/fig/K.5.0.7.2.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.5.0.7.2'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.5.0.8" src="./_static/fig/K.5.0.8.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.5.0.8'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.5.0.9" src="./_static/fig/K.5.0.9.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.5.0.9'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.5.0.10.1" src="./_static/fig/K.5.0.10.1.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.5.0.10.1'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.5.0.10.2" src="./_static/fig/K.5.0.10.2.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.5.0.10.2'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.5.0.11" src="./_static/fig/K.5.0.11.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.5.0.11'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.5.0.12.1" src="./_static/fig/K.5.0.12.1.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.5.0.12.1'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.5.0.12.2" src="./_static/fig/K.5.0.12.2.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.5.0.12.2'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.5.0.13.1" src="./_static/fig/K.5.0.13.1.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.5.0.13.1'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.5.0.13.2" src="./_static/fig/K.5.0.13.2.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.5.0.13.2'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.5.0.13.3" src="./_static/fig/K.5.0.13.3.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.5.0.13.3'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.5.0.14" src="./_static/fig/K.5.0.14.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.5.0.14'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.5.0.15" src="./_static/fig/K.5.0.15.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.5.0.15'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.6.0.1.1" src="./_static/fig/K.6.0.1.1.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.6.0.1.1'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.6.0.1.2" src="./_static/fig/K.6.0.1.2.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.6.0.1.2'));</script>
+ <p></p>
+ <div align="center"><img id="figK.7.0.1" src="./_static/fig/K.7.0.1.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.7.0.1'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.7.0.2" src="./_static/fig/K.7.0.2.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.7.0.2'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.8.0.1" src="./_static/fig/K.8.0.1.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.8.0.1'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.8.0.2.1" src="./_static/fig/K.8.0.2.1.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.8.0.2.1'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.8.0.2.2" src="./_static/fig/K.8.0.2.2.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.8.0.2.2'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.8.0.2.3" src="./_static/fig/K.8.0.2.3.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.8.0.2.3'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figJ.8.0.3.1" src="./_static/fig/J.8.0.3.1.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figJ.8.0.3.1'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figJ.8.0.3.2" src="./_static/fig/J.8.0.3.2.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figJ.8.0.3.2'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.8.0.3.3" src="./_static/fig/K.8.0.3.3.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.8.0.3.3'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.8.0.4.1" src="./_static/fig/K.8.0.4.1.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.8.0.4.1'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figJ.8.0.4.2" src="./_static/fig/J.8.0.4.2.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figJ.8.0.4.2'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.8.0.4.3" src="./_static/fig/K.8.0.4.3.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.8.0.4.3'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.8.0.4.4" src="./_static/fig/K.8.0.4.4.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.8.0.4.4'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.8.0.5.1" src="./_static/fig/K.8.0.5.1.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.8.0.5.1'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.8.0.5.2" src="./_static/fig/K.8.0.5.2.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.8.0.5.2'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.8.0.5.3" src="./_static/fig/K.8.0.5.3.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.8.0.5.3'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.8.0.5.4" src="./_static/fig/K.8.0.5.4.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.8.0.5.4'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.9.0.1.1" src="./_static/fig/K.9.0.1.1.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.9.0.1.1'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.9.0.1.2" src="./_static/fig/K.9.0.1.2.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.9.0.1.2'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.9.0.1.3" src="./_static/fig/K.9.0.1.3.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.9.0.1.3'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.9.0.2.1" src="./_static/fig/K.9.0.2.1.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.9.0.2.1'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.9.0.2.2" src="./_static/fig/K.9.0.2.2.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.9.0.2.2'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.9.0.3.1" src="./_static/fig/K.9.0.3.1.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.9.0.3.1'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.9.0.3.2" src="./_static/fig/K.9.0.3.2.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.9.0.3.2'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.9.0.4" src="./_static/fig/K.9.0.4.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.9.0.4'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.9.0.5" src="./_static/fig/K.9.0.5.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.9.0.5'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.10.0.1.1" src="./_static/fig/K.10.0.1.1.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.10.0.1.1'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.10.0.1.2" src="./_static/fig/K.10.0.1.2.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.10.0.1.2'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.10.0.1.3" src="./_static/fig/K.10.0.1.3.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.10.0.1.3'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.10.0.1.4" src="./_static/fig/K.10.0.1.4.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.10.0.1.4'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.10.0.1.5" src="./_static/fig/K.10.0.1.5.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.10.0.1.5'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.10.0.1.6" src="./_static/fig/K.10.0.1.6.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.10.0.1.6'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.10.0.1.7" src="./_static/fig/K.10.0.1.7.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.10.0.1.7'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.11.0.1" src="./_static/fig/K.11.0.1.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.11.0.1'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.12.0.1" src="./_static/fig/K.12.0.1.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.12.0.1'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.12.0.2" src="./_static/fig/K.12.0.2.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.12.0.2'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.12.0.3" src="./_static/fig/K.12.0.3.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.12.0.3'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.12.0.4" src="./_static/fig/K.12.0.4.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.12.0.4'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.12.0.5" src="./_static/fig/K.12.0.5.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.12.0.5'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.12.0.6.1" src="./_static/fig/K.12.0.6.1.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.12.0.6.1'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.12.0.6.2" src="./_static/fig/K.12.0.6.2.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.12.0.6.2'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.13.0.1" src="./_static/fig/K.13.0.1.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.13.0.1'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.13.0.2" src="./_static/fig/K.13.0.2.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.13.0.2'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.13.0.3" src="./_static/fig/K.13.0.3.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.13.0.3'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.14.0.1" src="./_static/fig/K.14.0.1.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.14.0.1'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figJ.15.0.3.1" src="./_static/fig/J.15.0.3.1.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figJ.15.0.3.1'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.15.0.3.2" src="./_static/fig/K.15.0.3.2.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.15.0.3.2'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.15.0.3.3" src="./_static/fig/K.15.0.3.3.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.15.0.3.3'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.15.0.4" src="./_static/fig/K.15.0.4.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.15.0.4'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.15.0.5" src="./_static/fig/K.15.0.5.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.15.0.5'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.15.0.6.1" src="./_static/fig/K.15.0.6.1.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.15.0.6.1'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.15.0.6.2" src="./_static/fig/K.15.0.6.2.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.15.0.6.2'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.15.0.7" src="./_static/fig/K.15.0.7.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.15.0.7'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.15.0.7X" src="./_static/fig/K.15.0.7X.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.15.0.7X'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.15.0.8" src="./_static/fig/K.15.0.8.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.15.0.8'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.15.0.9" src="./_static/fig/K.15.0.9.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.15.0.9'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.15.0.10" src="./_static/fig/K.15.0.10.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.15.0.10'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.15.0.11" src="./_static/fig/K.15.0.11.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.15.0.11'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.15.0.12" src="./_static/fig/K.15.0.12.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.15.0.12'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.15.0.13" src="./_static/fig/K.15.0.13.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.15.0.13'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.15.0.14" src="./_static/fig/K.15.0.14.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.15.0.14'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.15.0.16.1" src="./_static/fig/K.15.0.16.1.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.15.0.16.1'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.15.0.16.2" src="./_static/fig/K.15.0.16.2.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.15.0.16.2'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.15.0.16.3" src="./_static/fig/K.15.0.16.3.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.15.0.16.3'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.15.0.16.4" src="./_static/fig/K.15.0.16.4.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.15.0.16.4'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.15.0.17.1" src="./_static/fig/K.15.0.17.1.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.15.0.17.1'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.15.0.17.2" src="./_static/fig/K.15.0.17.2.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.15.0.17.2'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.15.0.17.3" src="./_static/fig/K.15.0.17.3.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.15.0.17.3'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.15.0.17.4" src="./_static/fig/K.15.0.17.4.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.15.0.17.4'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.15.0.17.5" src="./_static/fig/K.15.0.17.5.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.15.0.17.5'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.15.0.17.6" src="./_static/fig/K.15.0.17.6.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.15.0.17.6'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.15.0.18.1" src="./_static/fig/K.15.0.18.1.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.15.0.18.1'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+ <div align="center"><img id="figK.15.0.18.2" src="./_static/fig/K.15.0.18.2.png" alt="Picture" width="900px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figK.15.0.18.2'));</script>
+ <p><a href="#BK.16.0.1">返回</a></p>
+
+
+
+
+
+
+
+:math:`\ ` 

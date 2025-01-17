@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = '水运工程质量检验标准<br /><br />JTS 257-2008'
-copyright = '哈尔滨工业大学' 
+copyright = '' 
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration

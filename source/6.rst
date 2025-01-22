@@ -127,109 +127,116 @@
    <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B6.2.0.1.1">表6.2.0.1-1 道路与堆场整体尺度允许偏差</b></caption>	
               
 	 <tr>
-	 <td  align="center" id="dhbg" width="60px" rowspan>序号</td>
-	 <td  align="center" id="dhbg" width="100px"> 项目</td>   
-	 <td  align="center" id="dhbg" colspan="2">允许偏差(mm)</td>
+	 <td  align="center" id="dhbg" width="60px" rowspan="2">序号</td>
+	 <td  align="center" id="dhbg" width="100px" rowspan="2"> 项目</td>   
+	 <td  align="center" id="dhbg" colspan="2"  > 允许偏差(mm)</td>
    <!-- <td></td> -->
-   <td  align="center" id="dhbg"  width="120px">检验数量</td>
-   <td  align="center" id="dhbg"  width="100px">单元测点</td>
-   <td  align="center" id="dhbg"  width="200px">检验方法</td>
+   <td  align="center" id="dhbg"  width="140px" rowspan="2">检验数量</td>
+   <td  align="center" id="dhbg"  width="150px" rowspan="2">单元测点</td>
+   <td  align="center" id="dhbg"  width="250px" rowspan="2">检验方法</td>
    </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" width="100px ">道路</td>
+   <td align="center" id="dhbg" width="100px ">堆场</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> -->   
+  </tr>    
 	<tr>
-         <td align="center" id="dhbg">1</td>
-         <td align="center" id="dhbg">中线位置</td>         
-         <td align="center" id="dhbg" colspan="2">轴线位置</td>
-         <!-- <td></td> --> 
-         <td align="center" id="dhbg" > 每 20～50m 一处</td>
-         <td align="center" id="dhbg">1</td>
-         <td align="left" id="dhbg" rowspan="2"> 用 GPS、全站仪或经纬仪测量</td>  
+   <td align="center" id="dhbg">1</td>
+   <td align="center" id="dhbg">中线位置</td>         
+   <td align="center" id="dhbg" >20</td>
+   <td align="center" id="dhbg" >-</td>
+   <td align="center" id="dhbg" rowspan="3"> 道路每50 m 一处，堆场每 100 m² 一处</td>
+   <td align="center" id="dhbg">1</td>
+   <td align="left" id="dhbg" > 用经纬仪测量</td>  
 	 </tr>
-	 <tr>
-         <td align="center" id="dhbg">2</td>
-         <td align="center" id="dhbg" colspan="2">口门宽度</td>
-         <!-- <td></td> --> 
-         <td align="center" id="dhbg">±4000</td>
-          <td align="center" id="dhbg" rowspan="2"> 逐座检查</td>
-         <td align="center" id="dhbg">1</td>
-         <!-- <td></td> -->
+	<tr>
+   <td align="center" id="dhbg">2</td>
+   <td align="center" id="dhbg">顶面标高</td>         
+   <td align="center" id="dhbg" >±20</td>
+   <td align="center" id="dhbg" >±50</td>
+    <!-- <td></td> -->   
+   <td align="center" id="dhbg">1</td>
+   <td align="left" id="dhbg" > 用水准仪测量</td>  
 	 </tr>
-	 <tr>
-         <td align="center" id="dhbg">3</td>
-         <td align="center" id="dhbg" colspan="2">总长度</td>
-         <!-- <td></td> --> 
-         <td align="center" id="dhbg">±2000</td>
-         <!-- <td></td> --> 
-         <td align="center" id="dhbg">1</td>
-         <td align="left" id="dhbg"> 用 GPS、全站仪或钢尺测量堤顶部</td>  
+		<tr>
+   <td align="center" id="dhbg">3</td>
+   <td align="center" id="dhbg">宽度</td>         
+   <td align="center" id="dhbg" >±20</td>
+   <td align="center" id="dhbg" >±40</td>
+    <!-- <td></td> -->   
+   <td align="center" id="dhbg">1</td>
+   <td align="left" id="dhbg" > 用测距仪或钢卷尺测量</td>  
 	 </tr>
-	 <tr>
-         <td align="center" id="dhbg" rowspan="3">4</td>
-         <td align="center" id="dhbg" rowspan="3" width="120px">堤顶标高与设计控制标高偏差</td>
-          <td align="center" id="dhbg" width="140px">有胸墙、压顶块</td>
-         <td align="center" id="dhbg">-50</td>
-         <td align="center" id="dhbg" rowspan="3">每 20～50m 一处</td>
-         <td align="center" id="dhbg" rowspan="3">1</td>
-         <td align="left" id="dhbg" rowspan="3"> 用 GPS、全站仪或水准仪测量</td>  
-	 </tr>
-	 <tr>
-         <!-- <td></td> --> 
-         <!-- <td></td> --> 
-         <td align="center" id="dhbg">栅栏板、四脚块</td>
-         <td align="center" id="dhbg">-100</td>
-         <!-- <td></td> --> 
-         <!-- <td></td> --> 
-         <!-- <td></td> -->   
-	 </tr>
-	 <tr>
-         <!-- <td></td> --> 
-         <!-- <td></td> --> 
-         <td align="center" id="dhbg">大块石</td>
-         <td align="center" id="dhbg">-200</td>
-         <!-- <td></td> --> 
-         <!-- <td></td> --> 
-         <!-- <td></td> -->   
-	 </tr>         
 	 </table>
- <p><font size="2"> 注：L 为码头设计长度，B 为码头设计宽度，b 为板桩宽度，单位为 mm。</font></p>
+ <p><font size="2">  </font></p>
 
 	<table id="biaoge" style="font-family:times new roman">
 
-         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B5.2.0.1.2">表5.2.0.1-2 直立堤竣工整体尺度允许偏差</b></caption>	
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B6.2.0.1.2">表6.2.0.1-2 翻车机房地下结构整体尺度允许偏差</b></caption>	
               
 	 <tr>
-	 <td  align="center" id="dhbg"  width="60px">序号</td>
-	 <td  align="center" id="dhbg"  width="140px">项目</td>
-	 <td  align="center" id="dhbg"  width="140px">允许偏差(mm)</td>
-         <td  align="center" id="dhbg"  width="140px">检验数量</td>
-         <td  align="center" id="dhbg"  width="120px">单元测点</td>
-         <td  align="center" id="dhbg"  width="300px">检验方法</td>
-        </tr>
-	 <tr>
-         <td align="center" id="dhbg">1</td>
-         <td align="center" id="dhbg" >轴线位置</td>
-         <td align="center" id="dhbg">100</td>
-         <td align="center" id="dhbg">每 20～50 m 一处</td>
-         <td align="center" id="dhbg">1</td>
-         <td align="left" id="dhbg" > 用 GPS、全站仪或经纬仪测量</td>  
+	 <td  align="center" id="dhbg" width="60px">序号</td>
+ 	 <td  align="center" id="dhbg" colspan="2"> 项目</td>
+   <!-- <td></td> -->  
+	 <td  align="center" id="dhbg" width="100px" > 允许偏差(mm)</td>   
+   <td  align="center" id="dhbg"  width="140px">检验数量</td>
+   <td  align="center" id="dhbg"  width="150px">单元测点</td>
+   <td  align="center" id="dhbg"  width="250px">检验方法</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" rowspan="2">1</td>
+   <td align="center" id="dhbg" rowspan="2" width="100px">总长度</td>         
+   <td align="center" id="dhbg" width="100px">翻车机房</td>
+   <td align="center" id="dhbg" >±50</td>
+   <td align="center" id="dhbg" rowspan="4"> 逐座检查</td>
+   <td align="center" id="dhbg">3</td>
+   <td align="left" id="dhbg" rowspan="2"> 用测距仪或钢尺测量两边和中轴线</td>  
 	 </tr>
+   <tr>
+    <!-- <td></td> --> 
+    <!-- <td></td> -->        
+   <td align="center" id="dhbg" >廊道</td>
+   <td align="center" id="dhbg" >±50</td>
+    <!-- <td></td> --> 
+   <td align="center" id="dhbg">2</td>
+    <!-- <td></td> --> 
+	 </tr>   
 	 <tr>
-         <td align="center" id="dhbg">2</td>
-         <td align="center" id="dhbg" >总长度</td>
-         <td align="center" id="dhbg">±L/200，且不超过±2000</td>
-         <td align="center" id="dhbg">逐座检查</td>
-         <td align="center" id="dhbg">1</td>
-         <td align="left" id="dhbg" > 用 GPS、全站仪或钢尺测量堤顶部</td>  
-	 </tr>	
-	 <tr>
-         <td align="center" id="dhbg">3</td>
-         <td align="center" id="dhbg" >堤顶标高与设计控制标高偏差</td>
-         <td align="center" id="dhbg">±30</td>
-         <td align="center" id="dhbg">每 20～50 m 一处</td>
-         <td align="center" id="dhbg">1</td>
-         <td align="left" id="dhbg" > 用 GPS、全站仪或水准仪测量</td>  
-	 </tr>	         
+   <td align="center" id="dhbg" rowspan="2">2</td>
+   <td align="center" id="dhbg" rowspan="2">总长度</td>         
+   <td align="center" id="dhbg" >翻车机房</td>
+   <td align="center" id="dhbg" >±50</td>
+    <!-- <td></td> -->   
+   <td align="center" id="dhbg">2</td>
+   <td align="left" id="dhbg" rowspan="2"> 用钢尺测量两端和中部</td>  
+	 </tr>
+   <tr>
+    <!-- <td></td> --> 
+    <!-- <td></td> -->        
+   <td align="center" id="dhbg" >廊道</td>
+   <td align="center" id="dhbg" >±30</td>
+    <!-- <td></td> --> 
+   <td align="center" id="dhbg">2</td>
+    <!-- <td></td> --> 
+	 </tr>    
+		<tr>
+   <td align="center" id="dhbg">3</td>
+   <td align="center" id="dhbg" colspan="2">宽度</td> 
+   <!-- <td></td> -->         
+   <td align="center" id="dhbg" >20</td>
+   <td align="center" id="dhbg" >±40</td>
+   <td align="center" id="dhbg" >±40</td>
+   <td align="center" id="dhbg">1</td>
+   <td align="left" id="dhbg" > 用测距仪或钢卷尺测量</td>  
+	 </tr>
 	 </table>
- <p><font size="2">注：L为堤的总长度，单位为mm。</font></p>
+ <p><font size="2">  </font></p>
+
+
 
  <p style="text-align:justify"><a href="#id5.2.0.2"> 5.2.0.2</a> <span id="id5.2.0.2"> 防波堤及护岸工程的观感质量应按<a href="#B5.2.0.2">表 5.2.0.2 </a>的规定进行检查评价，其综合得分率不应低于 80％。</span></p>
 	<table id="biaoge" style="font-family:times new roman">

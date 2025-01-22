@@ -5,7 +5,8 @@
 # Required
 version: 2
 sphinx:
-  configuration:docs/conf.py
+  # Path to your Sphinx configuration file.
+  configuration: docs/conf.py
 
 # Set the OS, Python version and other tools you might need
 build:

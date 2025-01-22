@@ -222,7 +222,7 @@
  <p style="text-align:justify"><a href="#id5.2.0.2"> 5.2.0.2</a> <span id="id5.2.0.2"> 防波堤及护岸工程的观感质量应按<a href="#B5.2.0.2">表 5.2.0.2 </a>的规定进行检查评价，其综合得分率不应低于 80％。</span></p>
 	<table id="biaoge" style="font-family:times new roman">
 
-         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B4.2.0.2">表4.2.0.2 码头与岸壁工程观感质量评价项目和质量要求</b></caption>	
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B5.2.0.2">表5.2.0.2 码头与岸壁工程观感质量评价项目和质量要求</b></caption>	
               
 	 <tr>
 	 <td  align="center" id="dhbg" rowspan="2" width="80px">序号</td>

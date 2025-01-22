@@ -1251,7 +1251,7 @@
  <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位按进场批次抽样检验，监理单位见证取样。</p>
  <p style="text-align:justify;text-indent:2em;"> 检验方法：检查检验报告并观察检查。</p>
  <p style="text-align:justify"><a href="#id4.4.2.2"> 4.4.2.2</a> <span id="id4.4.2.2"> 换砂的范围、厚度和密实的范围应满足设计要求。</span></p>
- <p style="text-align:justify;text-indent:2em;"> 检验数量：工单位、监理单位全部检查。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。</p>
  <p style="text-align:justify;text-indent:2em;"> 检验方法：检查施工记录并观察检查。</p>
  <p style="text-align:justify"><a href="#id4.4.2.3"> 4.4.2.3</a> <span id="id4.4.2.3"> 地基换砂振冲后的标准贯入击数应满足设计要求。</span></p>
  <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位按设计要求抽样检测，监理单位见证检测。 </p>

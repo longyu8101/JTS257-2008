@@ -246,3 +246,195 @@
 
  <p style="text-align:justify"><a href="#id6.2.0.2"> 6.2.0.2</a> <span id="id6.2.0.2"> 道路堆场和翻车机房与廊道工程的观感质量应分别按<a href="#B6.2.0.2.1">表 6.1.0.2-1</a>和<a href="#B6.2.0.2.2">表 6.2.0.2-2</a> 的规定进行检查评价，其综合得分率不应低于 80%。</span></p>
 
+	<table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B6.2.0.2-2">表6.2.0.2-2 翻车机房与廊道工程观感质量评价项目和质量要求</b></caption>	
+              
+	 <tr>
+	 <td  align="center" id="dhbg" rowspan="2" width="80px">序号</td>
+	 <td  align="center" id="dhbg" rowspan="2" width="100px">评价项目</td>
+         <td  align="center" id="dhbg" rowspan="2" width="460px">质量要求</td>
+         <td  align="center" id="dhbg" rowspan="2" width="80px">标准分</td>
+         <td  align="center" id="dhbg" colspan="3">评价等级</td>
+         <!-- <td></td> --> 
+         <!-- <td></td> --> 
+        </tr>
+	 <tr>
+         <!-- <td></td> -->
+         <!-- <td></td> --> 
+         <!-- <td></td> --> 
+         <!-- <td></td> --> 
+	 <td  align="center" id="dhbg" width="60px">一级95%</td>
+         <td  align="center" id="dhbg" width="60px">二级85%</td>
+         <td  align="center" id="dhbg" width="60px">三级70%</td>
+        </tr>        
+	 <tr>
+         <td align="center" id="dhbg" rowspan="6">1</td>
+         <td align="center" id="dhbg" rowspan="6">主体结构</td>
+         <td align="left"  id="dhbg">墙、板大面平整、接茬平顺、无明显错台</td>
+         <td align="center" id="dhbg">10</td>
+         <td align="center" id="dhbg">  </td>
+         <td align="center" id="dhbg">  </td>
+         <td align="left"   id="dhbg">  </td>  
+	 </tr>
+	 <tr>
+         <!-- <td></td> --> 
+         <!-- <td></td> --> 
+         <td align="left"  id="dhbg">混凝土无明显缺陷，墙面无渗漏</td>
+         <td align="center" id="dhbg">20</td>
+         <td align="center" id="dhbg">  </td>
+         <td align="center" id="dhbg">  </td>
+         <td align="left"   id="dhbg">  </td>  
+	 </tr>		
+ 	 <tr>
+         <!-- <td></td> --> 
+         <!-- <td></td> --> 
+         <td align="left"  id="dhbg">梁、板、墙线条清晰、阴阳角顺直、完整</td>
+         <td align="center" id="dhbg">10</td>
+         <td align="center" id="dhbg">  </td>
+         <td align="center" id="dhbg">  </td>
+         <td align="left"   id="dhbg">  </td>  
+	 </tr>	
+ 	 <tr>
+         <!-- <td></td> --> 
+         <!-- <td></td> --> 
+         <td align="left"  id="dhbg">施工螺栓孔处理符合要求</td>
+         <td align="center" id="dhbg">10</td>
+         <td align="center" id="dhbg">  </td>
+         <td align="center" id="dhbg">  </td>
+         <td align="left"   id="dhbg">  </td>  
+	 </tr>	
+ 	 <tr>
+         <!-- <td></td> --> 
+         <!-- <td></td> --> 
+         <td align="left"  id="dhbg">变形缝顺直、宽窄一致，无渗漏</td>
+         <td align="center" id="dhbg">10</td>
+         <td align="center" id="dhbg">  </td>
+         <td align="center" id="dhbg">  </td>
+         <td align="left"   id="dhbg">  </td>  
+	 </tr>
+ 	 <tr>
+         <!-- <td></td> --> 
+         <!-- <td></td> --> 
+         <td align="left"  id="dhbg">廊道坡度及防滑路面符合要求</td>
+         <td align="center" id="dhbg">10</td>
+         <td align="center" id="dhbg">  </td>
+         <td align="center" id="dhbg">  </td>
+         <td align="left"   id="dhbg">  </td>  
+	 </tr>   	
+ 	 <tr>
+         <td align="center" id="dhbg" rowspan="5">2</td>
+         <td align="center" id="dhbg" rowspan="5">附属工程</td>
+         <td align="left"  id="dhbg">沟、槽位置正确，线条顺直</td>
+         <td align="center" id="dhbg">10</td>
+         <td align="center" id="dhbg">  </td>
+         <td align="center" id="dhbg">  </td>
+         <td align="left"   id="dhbg">  </td>  
+	 </tr>
+	 <tr>
+         <!-- <td></td> --> 
+         <!-- <td></td> --> 
+         <td align="left"  id="dhbg">盖板平顺、边线整齐，无翘曲</td>
+         <td align="center" id="dhbg">5</td>
+         <td align="center" id="dhbg">  </td>
+         <td align="center" id="dhbg">  </td>
+         <td align="left"   id="dhbg">  </td>  
+	 </tr>	
+	 <tr>
+         <!-- <td></td> --> 
+         <!-- <td></td> --> 
+         <td align="left"  id="dhbg">铁梯与栏杆整齐美观，防腐、油漆符合要求</td>
+         <td align="center" id="dhbg">10</td>
+         <td align="center" id="dhbg">  </td>
+         <td align="center" id="dhbg">  </td>
+         <td align="left"   id="dhbg">  </td>  
+	 </tr>	
+	 <tr>
+         <!-- <td></td> --> 
+         <!-- <td></td> --> 
+         <td align="left"  id="dhbg">预埋件位置准确，防腐质量符合要求</td>
+         <td align="center" id="dhbg">10</td>
+         <td align="center" id="dhbg">  </td>
+         <td align="center" id="dhbg">  </td>
+         <td align="left"   id="dhbg">  </td>  
+	 </tr>	
+	 <tr>
+         <!-- <td></td> --> 
+         <!-- <td></td> --> 
+         <td align="left"  id="dhbg">泄水孔位置正确畅通</td>
+         <td align="center" id="dhbg">5</td>
+         <td align="center" id="dhbg">  </td>
+         <td align="center" id="dhbg">  </td>
+         <td align="left"   id="dhbg">  </td>  
+	 </tr>	
+	 </table>
+ <p><font size="2"> </font></p>
+
+ <p style="text-align:justify"><a href="#id6.2.0.3"> 6.2.0.3</a> <span id="id6.2.0.3"> 翻车机房地下结构完工后应对结构的渗水情况进行检查。墙面不应有明显渗漏。</span></p>
+
+6.3 道路堆场基层与垫层工程
+---------------------------
+
+6.3.1 一般规定
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id6.3.1.1"> 6.3.1.1</a> <span id="id6.3.1.1"> 堆场基层与垫层分项工程的检验批宜按结构单元划分。道路基层与垫层分项工程的检验批宜按施工段划分。</span></p>
+ <p style="text-align:justify"><a href="#id6.3.1.2"> 6.3.1.2</a> <span id="id6.3.1.2"> 道路与堆场的基层与垫层应逐层控制标高，并应有相应的测量记录。</span></p>
+  
+6.3.2 基底整平与碾压
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+.. raw:: html
+
+ <p style="text-align:center">主要检验项目</p>  
+ <p style="text-align:justify"><a href="#id6.3.2.1"> 6.3.2.1</a> <span id="id6.3.2.1"> 堆基底整平与碾压的范围应满足设计要求。当需回填时，回填材料的种类和质量应满足设计要求。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检验。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：检查施工记录并观察检查。</p>
+ <p style="text-align:justify"><a href="#id6.3.2.2"> 6.3.2.2</a> <span id="id6.3.2.2"> 基底层碾压后的压实度应满足设计要求。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位按施工段抽样检验，监理单位见证取样并按规定抽样平行检验。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：检查试验报告。</p>
+ <p style="text-align:center">一般检验项目</p>  
+ <p style="text-align:justify"><a href="#id6.3.2.3"> 6.3.2.3</a> <span id="id6.3.2.3"> 碾压后表面应平整、密实、接茬平顺，并应无弹簧土、松散和龟裂。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：观察检查。</p>
+ <p style="text-align:justify"><a href="#id6.3.2.4"> 6.3.2.4</a> <span id="id6.3.2.4"> 坡向和坡度应满足设计要求。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：检查测量记录。</p>
+ <p style="text-align:justify"><a href="#id6.3.2.5"> 6.3.2.5</a> <span id="id6.3.2.5"> 基底层碾压允许偏差、检验数量和方法应符合<a href="#B6.3.2.5">表6.3.2.5</a>的规定。</span></p> 
+
+
+
+
+
+6.3.3 稳定土类基层与垫层
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+.. raw:: html
+
+ <p style="text-align:center">主要检验项目</p>  
+ <p style="text-align:justify"><a href="#id6.3.3.1"> 6.3.3.1</a> <span id="id6.3.3.1"> 稳定土所用材料的品种及质量应满足设计要求。石灰应充分消解，矿渣应经崩解稳定，土块应经粉碎。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位对主要材料按进场批次抽样检验，监理单位见证取样并按规定抽样平行检验。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：检查检验报告并观察检查。</p>
+ <p style="text-align:justify"><a href="#id6.3.3.2"> 6.3.3.2</a> <span id="id6.3.3.2"> 胶凝材料的用量、粒料的粒径、级配和配合比应符合配合比设计报告的要求。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：检查试验资料和施工记录。</p>
+ <p style="text-align:justify"><a href="#id6.3.3.3"> 6.3.3.3</a> <span id="id6.3.3.3"> 基层与垫层的压实度或强度应满足设计要求。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位按施工段抽样检验，监理单位见证取样并按规定抽样平行检验。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：检查试验报告。</p>
+ <p style="text-align:center">一般检验项目</p>  
+ <p style="text-align:justify"><a href="#id6.3.3.4"> 6.3.3.4</a> <span id="id6.3.3.4"> 混合料应拌和均匀，颜色一致，摊铺时不应有离析现象。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：观察检查。</p>
+ <p style="text-align:justify"><a href="#id6.3.3.5"> 6.3.3.5</a> <span id="id6.3.3.5"> 基底层碾压允许偏差、检验数量和方法应符合<a href="#B6.3.2.5">表6.3.2.5</a>的规定。</span></p> 
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：观察检查。</p>
+ <p style="text-align:justify"><a href="#id6.3.3.6"> 6.3.3.6</a> <span id="id6.3.3.6"> 基底层碾压允许偏差、检验数量和方法应符合<a href="#B6.3.2.5">表6.3.2.5</a>的规定。</span></p> 
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：观察检查。</p>
+ <p style="text-align:justify"><a href="#id6.3.3.7"> 6.3.3.7</a> <span id="id6.3.3.7"> 基底层碾压允许偏差、检验数量和方法应符合<a href="#B6.3.2.5">表6.3.2.5</a>的规定。</span></p> 
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：观察检查。</p>
+ <p style="text-align:justify"><a href="#id6.3.3.8"> 6.3.3.8</a> <span id="id6.3.3.8"> 稳定土类基层和垫层允许偏差、检验数量和方法应符合<a href="#B6.3.3.8">表6.3.3.8</a>的规定。</span></p> 
+ 

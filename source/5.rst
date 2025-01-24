@@ -623,7 +623,7 @@
 
 	<table id="biaoge" style="font-family:times new roman">
 
-         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B4.4.2.5">表4.4.2.5 地基换砂允许偏差、检验数量和方法</b></caption>	
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B5.4.2.6">表5.4.2.6 抛石、理坡、安放和人工铺砌断面标高的允许偏差、检验数量和方法</b></caption>	
               
 	 <tr>
 	 <td  align="center" id="dhbg" width="70px" >序号</td>

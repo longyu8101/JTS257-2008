@@ -404,6 +404,48 @@
  <p style="text-align:justify;text-indent:2em;"> 检验方法：检查测量记录。</p>
  <p style="text-align:justify"><a href="#id6.3.2.5"> 6.3.2.5</a> <span id="id6.3.2.5"> 基底层碾压允许偏差、检验数量和方法应符合<a href="#B6.3.2.5">表6.3.2.5</a>的规定。</span></p> 
 
+	<table id="biaoge" style="font-family:times new roman">
+
+    <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B6.3.2.5">表6.3.2.5 基底层碾压允许偏差、检验数量和方法</b></caption>	
+              
+	 <tr>
+	 <td  align="center" id="dhbg" width="60px">序号</td>
+    <td  align="center" id="dhbg" colspan="2">项目</td>
+    <!-- <td></td> --> 
+	 <td  align="center" id="dhbg" width="100px">允许偏差(mm)</td>
+    <td  align="center" id="dhbg" width="150px">检验单元和数量</td>
+    <td  align="center" id="dhbg" width="110px">单元测点</td>
+    <td  align="center" id="dhbg" width="250px">检验方法</td>
+    </tr>
+	 <tr>
+    <td align="center" id="dhbg" >1</td>
+     <td align="center" id="dhbg" colspan="2"> 平整度</td>
+    <!-- <td></td> --> 
+    <td align="center" id="dhbg" >20</td>
+    <td align="center" id="dhbg" rowspan="3"> 道路每 50 m 一处，堆场每 100 m² 一处</td> 
+    <td align="center" id="dhbg" >1</td>
+    <td align="left"   id="dhbg" >用 2m 靠尺和塞尺测量</td>  
+	 </tr>
+	<tr>
+    <td align="center" id="dhbg" rowspan="2">2</td>
+    <td align="center" id="dhbg" rowspan="2" width="60px"> 标高</td>
+    <td align="center" id="dhbg"  width="70px">堆场</td>
+    <td align="center" id="dhbg" rowspan="2">+5<br/>-15</td>
+    <!-- <td></td> --> 
+    <td align="center" id="dhbg" >1</td>
+    <td align="left"   id="dhbg" >用水准仪按 10m 方格网测量</td>  
+	 </tr>
+	 <tr>
+    <!-- <td></td> --> 
+    <!-- <td></td> --> 
+    <td align="center" id="dhbg" >道路</td>
+    <!-- <td></td> --> 
+    <!-- <td></td> --> 
+    <td align="center" id="dhbg" >3</td>
+    <td align="left"   id="dhbg" >用水准仪测量两边线及中线</td>  
+	 </tr>    	
+	 </table>
+ <p><font size="2">  </font></p> 
 
 
 
@@ -437,10 +479,57 @@
  <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。</p>
  <p style="text-align:justify;text-indent:2em;"> 检验方法：检查施工记录并观察检查。</p>
  <p style="text-align:justify"><a href="#id6.3.3.8"> 6.3.3.8</a> <span id="id6.3.3.8"> 稳定土类基层和垫层允许偏差、检验数量和方法应符合<a href="#B6.3.3.8">表6.3.3.8</a>的规定。</span></p> 
- 
+	<table id="biaoge" style="font-family:times new roman">
 
-
-
+    <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B6.3.3.8">表6.3.3.8 级配碎石基层和垫层允许偏差、检验数量和方法</b></caption>	
+              
+	 <tr>
+	 <td  align="center" id="dhbg" width="60px">序号</td>
+    <td  align="center" id="dhbg" colspan="2">项目</td>
+    <!-- <td></td> --> 
+	 <td  align="center" id="dhbg" width="100px">允许偏差(mm)</td>
+    <td  align="center" id="dhbg" width="150px">检验单元和数量</td>
+    <td  align="center" id="dhbg" width="110px">单元测点</td>
+    <td  align="center" id="dhbg" width="230px">检验方法</td>
+    </tr>
+	 <tr>
+    <td align="center" id="dhbg" >1</td>
+     <td align="center" id="dhbg" colspan="2"> 平整度</td>
+    <!-- <td></td> --> 
+    <td align="center" id="dhbg" >20</td>
+    <td align="center" id="dhbg" rowspan="4"> 道路每 50 m 一处，堆场每 100 m² 一处</td> 
+    <td align="center" id="dhbg" >1</td>
+    <td align="left"   id="dhbg" >用 2m 靠尺和塞尺测量</td>  
+	 </tr>
+	 <tr>
+    <td align="center" id="dhbg" >2</td>
+    <td align="center" id="dhbg" colspan="2"> 厚度</td>
+    <!-- <td></td> --> 
+    <td align="center" id="dhbg" >±10</td>
+    <!-- <td></td> --> 
+    <td align="center" id="dhbg" >1</td>
+    <td align="left"   id="dhbg" >用钢尺测量，必要时挖验</td>  
+	 </tr>
+	 <tr>
+    <td align="center" id="dhbg" rowspan="2">3</td>
+    <td align="center" id="dhbg" rowspan="2" width="80px"> 标高</td>
+    <td align="center" id="dhbg"  width="80px">堆场</td>
+    <td align="center" id="dhbg" rowspan="2">+5<br/>-15</td>
+    <!-- <td></td> --> 
+    <td align="center" id="dhbg" >1</td>
+    <td align="left"   id="dhbg" >用水准仪按 10m 方格网测量</td>  
+	 </tr>
+	 <tr>
+    <!-- <td></td> --> 
+    <!-- <td></td> --> 
+    <td align="center" id="dhbg" >道路</td>
+    <!-- <td></td> --> 
+    <!-- <td></td> --> 
+    <td align="center" id="dhbg" >3</td>
+    <td align="left"   id="dhbg" >用水准仪测量两边线及中线</td>  
+	 </tr>    	
+	 </table>
+ <p><font size="2">  </font></p> 
 
 6.3.4 级配碎石基层与垫层
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -462,5 +551,851 @@
  <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。</p>
  <p style="text-align:justify;text-indent:2em;"> 检验方法：观察检查。</p>
  <p style="text-align:justify"><a href="#id6.3.4.5"> 6.3.4.5</a> <span id="id6.3.4.5"> 级配碎石基层与垫层的允许偏差、检验数量和方法应符合<a href="#B6.3.4.5">表6.3.4.5</a>的规定。</span></p> 
+	<table id="biaoge" style="font-family:times new roman">
 
+    <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B6.3.4.5">表6.3.4.5 级配碎石基层和垫层允许偏差、检验数量和方法</b></caption>	
+              
+	 <tr>
+	 <td  align="center" id="dhbg" width="60px">序号</td>
+    <td  align="center" id="dhbg" colspan="2">项目</td>
+    <!-- <td></td> --> 
+	 <td  align="center" id="dhbg" width="100px">允许偏差(mm)</td>
+    <td  align="center" id="dhbg" width="150px">检验单元和数量</td>
+    <td  align="center" id="dhbg" width="110px">单元测点</td>
+    <td  align="center" id="dhbg" width="230px">检验方法</td>
+    </tr>
+	 <tr>
+    <td align="center" id="dhbg" >1</td>
+     <td align="center" id="dhbg" colspan="2"> 平整度</td>
+    <!-- <td></td> --> 
+    <td align="center" id="dhbg" >20</td>
+    <td align="center" id="dhbg" rowspan="4"> 道路每 50 m 一处，堆场每 100 m² 一处</td> 
+    <td align="center" id="dhbg" >1</td>
+    <td align="left"   id="dhbg" >用 2m 靠尺和塞尺测量</td>  
+	 </tr>
+	 <tr>
+    <td align="center" id="dhbg" >2</td>
+    <td align="center" id="dhbg" colspan="2"> 厚度</td>
+    <!-- <td></td> --> 
+    <td align="center" id="dhbg" >±15</td>
+    <!-- <td></td> --> 
+    <td align="center" id="dhbg" >1</td>
+    <td align="left"   id="dhbg" >用钢尺测量，必要时挖验</td>  
+	 </tr>
+	 <tr>
+    <td align="center" id="dhbg" rowspan="2">3</td>
+    <td align="center" id="dhbg" rowspan="2" width="80px"> 标高</td>
+    <td align="center" id="dhbg"  width="80px">堆场</td>
+    <td align="center" id="dhbg" rowspan="2">+5<br/>-15</td>
+    <!-- <td></td> --> 
+    <td align="center" id="dhbg" >1</td>
+    <td align="left"   id="dhbg" >用水准仪按 10m 方格网测量</td>  
+	 </tr>
+	 <tr>
+    <!-- <td></td> --> 
+    <!-- <td></td> --> 
+    <td align="center" id="dhbg" >道路</td>
+    <!-- <td></td> --> 
+    <!-- <td></td> --> 
+    <td align="center" id="dhbg" >3</td>
+    <td align="left"   id="dhbg" >用水准仪测量两边线及中线</td>  
+	 </tr>    	
+	 </table>
+ <p><font size="2">  </font></p>
  
+
+
+6.3.5 块石基层
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+.. raw:: html
+
+ <p style="text-align:center">主要检验项目</p>  
+ <p style="text-align:justify"><a href="#id6.3.5.1"> 6.3.5.1</a> <span id="id6.3.5.1"> 块石的规格应满足设计要求，块石表面应无风化和裂纹。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位对主要材料按进场批次抽样检验，监理单位见证取样。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：检查检验报告并观察检查。</p>
+ <p style="text-align:justify"><a href="#id6.3.5.2"> 6.3.5.2</a> <span id="id6.3.5.2"> 块石排砌应嵌紧，嵌缝料应均匀。压实后，表面应平整、密实，中型压路机驶过应无明显轮迹。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位按施工段抽样检验，监理单位见证取样并按规定抽样平行检验。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：检查试验报告并观察检查。</p>
+ <p style="text-align:justify"><a href="#id6.3.5.3"> 6.3.5.3</a> <span id="id6.3.5.3"> 块石基层允许偏差、检验数量和方法应符合<a href="#B6.3.5.3">表6.3.5.3</a>的规定。</span></p>
+ 
+	<table id="biaoge" style="font-family:times new roman">
+
+    <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B6.3.5.3">表6.3.5.3 块石基层允许偏差、检验数量和方法</b></caption>	
+              
+	 <tr>
+	 <td  align="center" id="dhbg" width="60px">序号</td>
+    <td  align="center" id="dhbg" colspan="2">项目</td>
+    <!-- <td></td> --> 
+	 <td  align="center" id="dhbg" width="100px">允许偏差(mm)</td>
+    <td  align="center" id="dhbg" width="150px">检验单元和数量</td>
+    <td  align="center" id="dhbg" width="110px">单元测点</td>
+    <td  align="center" id="dhbg" width="230px">检验方法</td>
+    </tr>
+	 <tr>
+    <td align="center" id="dhbg" >1</td>
+     <td align="center" id="dhbg" colspan="2"> 平整度</td>
+    <!-- <td></td> --> 
+    <td align="center" id="dhbg" >±1.5h/10</td>
+    <td align="center" id="dhbg" > 每 1000 m² 一处</td> 
+    <td align="center" id="dhbg" >1</td>
+    <td align="left"   id="dhbg" >用钢尺测量，必要时挖验</td>  
+	 </tr>
+	 <tr>
+    <td align="center" id="dhbg" >2</td>
+    <td align="center" id="dhbg" colspan="2"> 厚度</td>
+    <!-- <td></td> --> 
+    <td align="center" id="dhbg" >20</td>
+    <td align="center" id="dhbg" rowspan="3">道路每 50 m 一处，堆场每 100 m² 一处</td>
+    <td align="center" id="dhbg" >1</td>
+    <td align="left"   id="dhbg" >用 2 m 靠尺和塞尺测量</td>  
+	 </tr>
+	 <tr>
+    <td align="center" id="dhbg" rowspan="2">3</td>
+    <td align="center" id="dhbg" rowspan="2" width="80px"> 标高</td>
+    <td align="center" id="dhbg" width="80px">堆场</td>
+    <td align="center" id="dhbg" rowspan="2">±20</td>
+    <!-- <td></td> --> 
+    <td align="center" id="dhbg" >1</td>
+    <td align="left"   id="dhbg" >用水准仪按 10 m 方格网测量</td>  
+	 </tr>
+	 <tr>
+    <!-- <td></td> --> 
+    <!-- <td></td> --> 
+    <td align="center" id="dhbg" >道路</td>
+    <!-- <td></td> --> 
+    <!-- <td></td> --> 
+    <td align="center" id="dhbg" >3</td>
+    <td align="left"   id="dhbg" >用水准仪测量两边线及中线</td>  
+	 </tr>    	
+	 </table>
+ <p><font size="2"> 注：h 为基层厚度，单位为 mm。</font></p>
+	
+6.4 道路与堆场面层工程
+---------------------------
+
+6.4.1 一般规定
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id6.4.1.1"> 6.4.1.1</a> <span id="id6.4.1.1"> 道路、堆场面层分项工程宜按设计结构类型划分，其检验批宜按施工段划分。</span></p>
+ <p style="text-align:justify"><a href="#id6.4.1.2"> 6.4.1.2</a> <span id="id6.4.1.2"> 面层混凝土的模板、钢筋和混凝土等分项工程的质量检验应符合下列规定。</span></p>
+ <p style="text-align:justify"><a href="#id6.4.1.2.1"> 6.4.1.2.1</a> <span id="id6.4.1.2.1"> 模板分项工程的质量检验应符合<a href="https://jts257-2008.readthedocs.io/en/latest/2.html#id3">第 2.1.1 节</a>和<a href="https://jts257-2008.readthedocs.io/en/latest/2.html#id4">第 2.1.2 节</a>的有关规定。</span></p>
+ <p style="text-align:justify"><a href="#id6.4.1.2.2"> 6.4.1.2.2</a> <span id="id6.4.1.2.2"> 钢筋分项工程的质量检验应符合<a href="https://jts257-2008.readthedocs.io/en/latest/2.html#id3">第 2.1.1 节</a>和<a href="https://jts257-2008.readthedocs.io/en/latest/2.html#id5">第 2.1.3 节</a>的有关规定。</span></p>
+ <p style="text-align:justify"><a href="#id6.4.1.2.3"> 6.4.1.2.3</a> <span id="id6.4.1.2.3"> 混凝土分项工程的质量检验除允许偏差项目外应符合<a href="https://jts257-2008.readthedocs.io/en/latest/2.html#id3">第 2.1.1 节</a>、<a href="https://jts257-2008.readthedocs.io/en/latest/2.html#id6">第2.1.4 节</a>和<a href="https://jts257-2008.readthedocs.io/en/latest/2.html#id8">第 2.1.6 节</a>的有关规定。</span></p>   
+ <p style="text-align:justify"><a href="#id6.4.1.2"> 6.4.1.2</a> <span id="id6.4.1.2"> 伸缩缝的设置和传力杆数量、外露部分防腐处理应满足设计要求。</span></p> 
+
+6.4.2 水泥混凝土面层
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+.. raw:: html
+
+ <p style="text-align:center">一般检验项目</p>
+ <p style="text-align:justify"><a href="#id6.4.2.1"> 6.4.2.1</a> <span id="id6.4.2.1"> 混凝土应振捣密实，压抹平顺。拉毛或压纹应满足设计要求并均匀一致，不得有空鼓、脱皮、石子外露和缺棱掉角等缺陷。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：观察检查。</p>
+ <p style="text-align:justify"><a href="#id6.4.2.2"> 6.4.2.2</a> <span id="id6.4.2.2"> 雨水井或排水口的设置应满足设计要求，与面层相接应平顺。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：观察检查。</p>
+ <p style="text-align:justify"><a href="#id6.4.2.3"> 6.4.2.3</a> <span id="id6.4.2.3"> 胀缝填缝材料应满足设计要求，填塞应饱满，不污染面层混凝土。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。 </p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：观察检查。</p>
+ <p style="text-align:justify"><a href="#id6.4.2.4"> 6.4.2.4</a> <span id="id6.4.2.4"> 道路混凝土面层的允许偏差、检验数量和方法应符合<a href="#B6.4.2.4">表6.4.2.4</a>的规定。</span></p>
+
+	<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B6.4.2.4">表6.4.2.4 道路混凝土面层的允许偏差、检验数量和方法</b></caption>	
+              
+	 <tr>
+	 <td  align="center" id="dhbg" width="70px" >序号</td>
+	 <td  align="center" id="dhbg" colspan="2">项目</td>
+    <!-- <td></td> --> 
+    <td  align="center" id="dhbg"width="100px">允许偏差（mm）</td>
+    <td  align="center" id="dhbg" width="150px" >检验数量</td>
+    <td  align="center" id="dhbg" width="100px" >单元测点</td>
+    <td  align="center" id="dhbg" width="220px" >检验方法</td>
+	 </tr>
+	 <tr>
+    <td align="center" id="dhbg" >1</td>
+    <td align="center" id="dhbg" colspan="2">厚度</td>
+    <!-- <td></td> --> 
+    <td align="center" id="dhbg" >+20<br/>-5</td>
+    <td align="center" id="dhbg" >每伸缩缝一处</td>
+    <td align="center" id="dhbg" >1</td>
+    <td align="left"   id="dhbg" rowspan="2">用钢尺测量</td>  
+	 </tr>
+	 <tr>
+    <td align="center" id="dhbg" >2</td>
+    <td align="center" id="dhbg" colspan="2">宽度</td>
+    <!-- <td></td> --> 
+    <td align="center" id="dhbg" >±20</td>
+    <td align="center" id="dhbg" rowspan="3">每 20 m 一处</td>
+    <td align="center" id="dhbg" >1</td>
+    <!-- <td></td> --> 
+	 </tr>	
+	 <tr>
+    <td align="center" id="dhbg" >3</td>
+    <td align="center" id="dhbg" colspan="2">标高</td>
+    <!-- <td></td> --> 
+    <td align="center" id="dhbg" >±10</td>
+    <!-- <td></td> --> 
+    <td align="center" id="dhbg" >3</td>
+    <td align="left" id="dhbg" >用水准仪测量边线和中线</td>
+	 </tr>
+	 <tr>
+    <td align="center" id="dhbg" >4</td>
+    <td align="center" id="dhbg" colspan="2">平整度</td>
+    <!-- <td></td> --> 
+    <td align="center" id="dhbg" >5</td>
+    <!-- <td></td> --> 
+    <td align="center" id="dhbg" >1</td>
+    <td align="left" id="dhbg"  rowspan="3">用 2 m 靠尺和塞尺测量中部垂直方向</td>
+	 </tr>
+	 <tr>
+    <td align="center" id="dhbg" rowspan="2">5</td>
+    <td align="center" id="dhbg" width="100px" rowspan="2">相邻板块高差</td>
+    <td align="center" id="dhbg" width="100px">纵向</td>
+    <td align="center" id="dhbg" >3</td>
+    <td align="center" id="dhbg" >每 20 m 一处</td>
+    <td align="center" id="dhbg" >1</td>
+    <!-- <td></td> --> 
+	 </tr>
+	 <tr>
+    <!-- <td></td> --> 
+    <!-- <td></td> --> 
+    <td align="center" id="dhbg" >横向</td>
+    <td align="center" id="dhbg" >3</td>
+    <td align="center" id="dhbg" >每伸缩缝一处</td>
+    <td align="center" id="dhbg" >1</td>
+    <!-- <td></td> --> 
+	 </tr>
+	 <tr>
+    <td align="center" id="dhbg" rowspan="2">6</td>
+    <td align="center" id="dhbg" rowspan="2">分割线顺直</td>
+    <td align="center" id="dhbg" >纵向</td>
+    <td align="center" id="dhbg" >15</td>
+    <td align="center" id="dhbg" >每 20 m 一处</td>
+    <td align="center" id="dhbg" >1</td>
+    <td align="left" id="dhbg"  rowspan="2">拉 20 m 线用钢尺测量，取大</td>
+	 </tr>
+	 <tr>
+    <!-- <td></td> --> 
+    <!-- <td></td> --> 
+    <td align="center" id="dhbg" >横向</td>
+    <td align="center" id="dhbg" >10</td>
+    <td align="center" id="dhbg" >每伸缩缝一处</td>
+    <td align="center" id="dhbg" >1</td>
+    <!-- <td></td> --> 
+	 </tr>
+	 <tr>
+    <td align="center" id="dhbg" rowspan="2">7</td>
+    <td align="center" id="dhbg" rowspan="2">传力杆</td>
+    <td align="center" id="dhbg" >位置</td>
+    <td align="center" id="dhbg" >20</td>
+    <td align="center" id="dhbg" rowspan="2">每伸缩缝一处</td>
+    <td align="center" id="dhbg" >1</td>
+    <td align="left" id="dhbg"  rowspan="2">用钢尺测量，取大值</td>
+	 </tr>
+	 <tr>
+    <!-- <td></td> --> 
+    <!-- <td></td> --> 
+    <td align="center" id="dhbg" >外露长度</td>
+    <td align="center" id="dhbg" >+20<br/>-10</td>
+    <!-- <td></td> -->
+    <td align="center" id="dhbg" >1</td>
+     <!-- <td></td> --> 
+	 </tr>
+  	 </table>
+ <p><font size="2"> </font></p>
+
+ <p style="text-align:justify"><a href="#id6.4.2.5"> 6.4.2.5</a> <span id="id6.4.2.5"> 堆场混凝土面层的允许偏差、检验数量和方法应符合<a href="#B6.4.2.5">表6.4.2.5</a>的规定。</span></p>
+
+	<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B6.4.2.5">表6.4.2.5 堆场混凝土面层的允许偏差、检验数量和方法</b></caption>	
+              
+	 <tr>
+	 <td  align="center" id="dhbg" width="70px" >序号</td>
+	 <td  align="center" id="dhbg" colspan="2">项目</td>
+    <!-- <td></td> --> 
+    <td  align="center" id="dhbg"width="100px">允许偏差（mm）</td>
+    <td  align="center" id="dhbg" width="140px" >检验数量</td>
+    <td  align="center" id="dhbg" width="120px" >单元测点</td>
+    <td  align="center" id="dhbg" width="250px" >检验方法</td>
+	 </tr>
+	 <tr>
+    <td align="center" id="dhbg" >1</td>
+    <td align="center" id="dhbg" colspan="2">厚度</td>
+    <!-- <td></td> --> 
+    <td align="center" id="dhbg" >+20<br/>-5</td>
+    <td align="center" id="dhbg" >每伸缩缝一处</td>
+    <td align="center" id="dhbg" >1</td>
+    <td align="left"   id="dhbg" >用钢尺测量</td>  
+	 </tr>
+	 <tr>
+    <td align="center" id="dhbg" >2</td>
+    <td align="center" id="dhbg" colspan="2">顶面标高</td>
+    <!-- <td></td> --> 
+    <td align="center" id="dhbg" >±20</td>
+    <td align="center" id="dhbg" rowspan="2">每 100 m² 一处</td>
+    <td align="center" id="dhbg" >1</td>
+    <td align="left"   id="dhbg" >用水准仪测量 10m 方格网中部</td>  
+	 </tr>	
+	 <tr>
+    <td align="center" id="dhbg" >3</td>
+    <td align="center" id="dhbg" colspan="2">平整度</td>
+    <!-- <td></td> --> 
+    <td align="center" id="dhbg" >6</td>
+    <!-- <td></td> --> 
+    <td align="center" id="dhbg" >1</td>
+    <td align="left" id="dhbg" rowspan="2">用 2 m 靠尺和塞尺测量中部垂直方向</td>
+	 </tr>
+	 <tr>
+    <td align="center" id="dhbg" >4</td>
+    <td align="center" id="dhbg" colspan="2">平相邻板块高差</td>
+    <!-- <td></td> --> 
+    <td align="center" id="dhbg" >3</td>
+    <td align="center" id="dhbg" rowspan="3">1</td>
+    <td align="center" id="dhbg" >1</td>
+     <!-- <td></td> --> 
+	 </tr>
+	 <tr>
+    <td align="center" id="dhbg" rowspan="2">5</td>
+    <td align="center" id="dhbg" width="80px" rowspan="2">分割线顺直</td>
+    <td align="center" id="dhbg" width="100px">纵向</td>
+    <td align="center" id="dhbg" >15</td>
+    <!-- <td></td> --> 
+    <td align="center" id="dhbg" >1</td>
+    <td align="left" id="dhbg" rowspan="2">拉 20 m 线用钢尺测量，取大值</td>
+	 </tr>
+	 <tr>
+    <!-- <td></td> --> 
+    <!-- <td></td> --> 
+    <td align="center" id="dhbg" >横向</td>
+    <td align="center" id="dhbg" >10</td>
+    <!-- <td></td> --> 
+    <td align="center" id="dhbg" >1</td>
+    <!-- <td></td> --> 
+	 </tr>
+	 <tr>
+    <td align="center" id="dhbg" >6</td>
+    <td align="center" id="dhbg" >传力杆</td>
+    <td align="center" id="dhbg" >位置</td>
+    <td align="center" id="dhbg" >20</td>
+    <td align="center" id="dhbg" >每伸缩缝一处</td>
+    <td align="center" id="dhbg" >1</td>
+    <td align="left" id="dhbg"  >用钢尺测量，取大值</td>
+	 </tr>
+	</table>
+ <p><font size="2"> </font></p>
+
+6.4.3 沥青混凝土面层
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+.. raw:: html
+
+ <p style="text-align:center">主要检验项目</p>
+ <p style="text-align:justify"><a href="#id6.4.3.1"> 6.4.3.1</a> <span id="id6.4.3.1"> 沥青混凝土混合料的各项指标应满足设计要求。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位对主要材料按进场批次抽样检验，监理单位见证取样并按规定抽样平行检验。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：检查出厂质量证明文件或试验报告并观察检查。</p>
+ <p style="text-align:justify"><a href="#id6.4.3.2"> 6.4.3.2</a> <span id="id6.4.3.2"> 沥青混凝土的压实度应满足设计要求。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位按施工段抽样检验，监理单位见证取样并按规定抽样平行检验。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：检查试验报告。</p>
+ <p style="text-align:center">一般检验项目</p> 
+ <p style="text-align:justify"><a href="#id6.4.3.3"> 6.4.3.3</a> <span id="id6.4.3.3"> 混合料的拌合应均匀，应无花白、粗细料分离和结团块等现象。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。 </p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：观察检查。</p>
+ <p style="text-align:justify"><a href="#id6.4.3.4"> 6.4.3.4</a> <span id="id6.4.3.4"> 摊铺温度和厚度应满足施工方案要求。摊铺应平整，不得有离析。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。 </p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：检查施工记录和观察检查。</p>
+ <p style="text-align:justify"><a href="#id6.4.3.5"> 6.4.3.5</a> <span id="id6.4.3.5"> 压实后的表面应平整、密实，接茬应平顺，不应有泛油、松散、裂缝、堆挤、烂边和粗细料集中等现象。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。 </p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：观察检查。</p>
+ <p style="text-align:justify"><a href="#id6.4.3.6"> 6.4.3.6</a> <span id="id6.4.3.6"> 面层与其他构筑物相接应紧密平顺，不应有积水现象。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。 </p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：观察检查。</p>
+ <p style="text-align:justify"><a href="#id6.4.3.7"> 6.4.3.7</a> <span id="id6.4.3.7"> 沥青混凝土面层允许偏差、检验数量和方法应符合<a href="#B6.4.3.7">表6.4.3.7</a>的规定。</span></p>
+
+ <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B6.4.3.7">表6.4.3.7 沥青混凝土面层允许偏差、检验数量和方法</b></caption>	
+              
+   <tr>
+   <td  align="center" id="dhbg" width="70px">序号</td>
+   <td  align="center" id="dhbg" width="120px">项目</td>
+   <td  align="center" id="dhbg" width="130px">允许偏差（mm）</td>
+   <td  align="center" id="dhbg" width="130px">检验数量</td>
+   <td  align="center" id="dhbg" width="120px">单元测点</td>
+   <td  align="center" id="dhbg" width="330px">检验方法</td>
+	 </tr>
+	 <tr>
+   <td align="center" id="dhbg" >1</td>
+   <td align="center" id="dhbg" >标高</td>
+   <td align="center" id="dhbg"  >±10</td>
+   <td align="center" id="dhbg" rowspan="3">道路每 20 m 一处，堆场每 100 m² 一处</td>
+   <td align="center" id="dhbg">3 或 1</td>
+   <td align="left"   id="dhbg">用水准仪测量，道路测中线和边线，堆场按 10 m 方格网测量</td>  
+	 </tr>
+	 <tr>
+   <td align="center" id="dhbg"  >2</td>
+   <td align="center" id="dhbg"  >平整度</td>
+   <td align="center" id="dhbg">5</td>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">2</td>
+   <td align="left"   id="dhbg">用 2 m 靠尺和塞尺测量中部垂直方向</td> 
+	 </tr>
+	 <tr>
+   <td align="center" id="dhbg"  >3</td>
+   <td align="center" id="dhbg"  >厚度</td>
+   <td align="center" id="dhbg">+10<br/>-5</td>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">1</td>
+   <td align="left"   id="dhbg">分层核验标高，必要时取芯检测</td> 
+	 </tr>
+	</table>
+ <p><font size="2"> </font></p>
+
+6.4.4 预制混凝土板块铺砌面层
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+.. raw:: html
+
+ <p style="text-align:center">主要检验项目</p> 
+ <p style="text-align:justify"><a href="#id6.4.4.1"> 6.4.4.1</a> <span id="id46.4.4.1"> 预制混凝土板块的质量应符合下列规定。</span></p>
+ <p style="text-align:justify"><a href="#id6.4.4.1.1"> 6.4.4.1.1</a> <span id="id6.4.4.1.1"> 路面四角块和六角块等的质量检验应符合<a href="https://jts257-2008.readthedocs.io/en/latest/2.html#id8"> 2.1.6 节</a>的有关规定。</span></p> 
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位按进场批次抽样检验，监理单位见证取样并按规定抽样平行检验。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：检查出厂质量证明文件和检验报告。</p>
+ <p style="text-align:justify"><a href="#id6.4.4.1.2"> 6.4.4.1.2</a> <span id="id6.4.4.1.2"> 混凝土联锁块的质量应符合<a href="#B6.4.4.1.2">表6.4.4.1.2</a>的规定。</span></p>
+
+ <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B6.4.4.1.2">表6.4.4.1.2 混凝土联锁块的质量要求</b></caption>	
+              
+	<tr>
+	<td  align="center" id="dhbg" width="80px" rowspan="2">序号</td>
+	<td  align="center" id="dhbg"  rowspan="2" colspan="2" >项目</td>
+   <!-- <td></td> --> 
+   <td  align="center" id="dhbg" colspan="2" >质量要求</td>
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" width="240px">C50</td>
+   <td align="center" id="dhbg" width="240px">C60</td>
+   </tr>   
+  <tr>
+   <td align="center" id="dhbg" rowspan="2">1</td>
+   <td align="center" id="dhbg" rowspan="2" width="160px">抗压强度 (MPa)</td>
+   <td align="center" id="dhbg" width="180px">±20</td>
+   <td align="center" id="dhbg" >不小于 50</td>
+   <td align="center" id="dhbg" >不小于 60</td>
+   </tr>
+	<tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">单块最小值</td>
+   <td align="center" id="dhbg">不小于 42</td>
+   <td align="center" id="dhbg">不小于 42</td>
+	</tr>
+	<tr>
+   <td align="center" id="dhbg">2</td>
+   <td align="center" id="dhbg" colspan="2">吸水率（%）</td>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" colspan="2">不大于 7</td>
+   <!-- <td></td> -->
+	</tr>
+	<tr>
+   <td align="center" id="dhbg">3</td>
+   <td align="center" id="dhbg" colspan="2">抗冻性</td>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" colspan="2">经 25 次冻融循环试验后，强度损失不大于 25%</td>
+   <!-- <td></td> -->
+	</tr>  
+	<tr>
+   <td align="center" id="dhbg" >4</td>
+   <td align="center" id="dhbg" rowspan="3">尺寸允许偏差（mm）</td>
+   <td align="center" id="dhbg">厚度</td>
+   <td align="center" id="dhbg" colspan="2">±3</td>
+   <!-- <td></td> -->
+	</tr>   
+	<tr>
+   <td align="center" id="dhbg" >5</td>
+   <!-- <td></td> -->
+   <td align="center" id="dhbg">边长</td>
+   <td align="center" id="dhbg" colspan="2">±3</td>
+   <!-- <td></td> -->
+	</tr>    
+	<tr>
+   <td align="center" id="dhbg" >6</td>
+   <!-- <td></td> -->
+   <td align="center" id="dhbg">侧面倾斜</td>
+   <td align="center" id="dhbg" colspan="2">2</td>
+   <!-- <td></td> -->
+	<tr>
+   <td align="center" id="dhbg">7</td>
+   <td align="center" id="dhbg" colspan="2">裂纹</td>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" colspan="2" rowspan="3">不允许</td>
+   <!-- <td></td> -->
+	</tr>  
+	<tr>
+   <td align="center" id="dhbg">8</td>
+   <td align="center" id="dhbg" colspan="2">分层</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> -->
+	</tr> 
+	<tr>
+   <td align="center" id="dhbg">9</td>
+   <td align="center" id="dhbg" colspan="2">表面粘皮</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> -->
+	</tr>
+	<tr>
+   <td align="center" id="dhbg">10</td>
+   <td align="center" id="dhbg" colspan="2">掉角尺寸（mm）</td>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" colspan="2">两边破坏尺寸不得同时大于 5</td>
+   <!-- <td></td> -->
+	</tr>  
+	</tr>  
+ 	 </table>
+ <p><font size="2">注：1、对无抗冻要求的工程，序号 3 项目可不检验；<br/>
+ &emsp;&emsp;&nbsp;&nbsp;2、对设计有抗折强度要求的，联锁块的抗折强度尚应满足设计要求。</font></p>
+
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位按进场验收批次抽样检验，监理单位见证取样并按规定抽样平行检验。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：检查出厂质量证明文件或检验报告。</p>
+ <p style="text-align:center">一般检验项目</p> 
+ <p style="text-align:justify"><a href="#id6.4.4.2"> 6.4.4.2</a> <span id="id46.4.4.2"> 找平砂垫层的厚度应均匀。</span></p> 
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：观察检查。</p>
+ <p style="text-align:justify"><a href="#id6.4.4.3"> 6.4.4.3</a> <span id="id46.4.4.3"> 砌块铺砌应紧密、稳固，砌缝应均匀，灌缝应饱满。</span></p> 
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：观察检查。</p>
+ <p style="text-align:justify"><a href="#id6.4.4.4"> 6.4.4.4</a> <span id="id46.4.4.4"> 铺砌面层应平整，格缝应清晰，表面应无砂浆和沥青等污染。</span></p> 
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：观察检查。</p>
+ <p style="text-align:justify"><a href="#id6.4.4.5"> 6.4.4.5</a> <span id="id46.4.4.5"> 与侧缘石和其他构筑物的交接应平顺、挤紧。</span></p> 
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：观察检查。</p>    
+ <p style="text-align:justify"><a href="#id6.4.4.6"> 6.4.4.6</a> <span id="id6.4.4.6"> 混凝土块体铺砌面层的允许偏差、检验数量和方法应符合<a href="#B6.4.4.6">表6.4.4.6</a>的规定。</span></p>
+ 
+ <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B6.4.4.6">表6.4.4.6 混凝土块体铺砌面层的允许偏差、检验数量和方法</b></caption>	
+              
+	 <tr>
+	 <td  align="center" id="dhbg" width="70px" rowspan="2">序号</td>
+	 <td  align="center" id="dhbg" width="120px" rowspan="2">项目</td>
+   <td  align="center" id="dhbg" colspan="2" >允许偏差（mm）</td>
+   <!-- <td></td> --> 
+   <td  align="center" id="dhbg" width="130px" rowspan="2">检验数量</td>
+   <td  align="center" id="dhbg" width="100px" rowspan="2">单元测点</td>
+   <td  align="center" id="dhbg" width="220px" rowspan="2">检验方法</td>
+	 </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" width="130px ">一般铺面块</td>
+   <td align="center" id="dhbg" width="110px ">联锁块</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> -->   
+  </tr>   
+  <tr>
+   <td align="center" id="dhbg" >1</td>
+   <td align="center" id="dhbg" >标高</td>
+   <td align="center" id="dhbg" >±20</td>
+   <td align="center" id="dhbg" >±20</td>
+   <td align="center" id="dhbg" rowspan="4">道路每 20 m 一处，堆场每 100 m² 一处</td>
+   <td align="center" id="dhbg">3 或 1</td>
+   <td align="left"   id="dhbg">用水准仪测量道路中线和边线，堆场测 10 m 方格网中部</td>  
+	 </tr>
+	 <tr>
+   <td align="center" id="dhbg">2</td>
+   <td align="center" id="dhbg">平整度</td>
+   <td align="center" id="dhbg">10</td>
+   <td align="center" id="dhbg">5</td>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">2</td>
+   <td align="left"   id="dhbg">用 2 m 靠尺和塞尺测量垂直两方向</td> 
+	</tr>
+	<tr>
+   <td align="center" id="dhbg">3</td>
+   <td align="center" id="dhbg">相邻块顶面高差</td>
+   <td align="center" id="dhbg">5</td>
+   <td align="center" id="dhbg">3</td>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">1</td>
+   <td align="left"   id="dhbg">用钢尺测量，取大值</td> 
+	</tr>
+   <tr>
+   <td align="center" id="dhbg">4</td>
+   <td align="center" id="dhbg">砌缝顺直</td>
+   <td align="center" id="dhbg">10</td>
+   <td align="center" id="dhbg">10</td>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">2</td>
+   <td align="left"   id="dhbg">拉 20m 线用钢尺测量，取大值</td> 
+	 </tr>
+ 	 </table>
+ <p><font size="2">注：四角块砌缝的最大宽度不大于 10 mm，六角形铺面块砌缝的最大宽度不大于 15 mm，联锁块砌缝的最大宽度不大5 mm。</font></p>
+
+6.4.5 料石铺砌面层
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+.. raw:: html 
+
+ <p style="text-align:justify"><a href="#id6.4.5.1"> 6.4.5.1</a> <span id="id6.4.5.1"> 料石的材质和规格应满足设计要求，加工的质量应符合<a href="#B6.4.5.1">表6.4.5.1</a>的规定。</span></p>
+	<table id="biaoge" style="font-family:times new roman">
+
+ <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B6.4.5.1">表6.4.5.1 料石加工质量要求</b></caption>	
+              
+	 <tr>
+	 <td  align="center" id="dhbg" width="70px" >序号</td>
+	 <td  align="center" id="dhbg" colspan="2">项目</td>
+    <!-- <td></td> --> 
+    <td  align="center" id="dhbg"width="240px">粗料石</td>
+    <td  align="center" id="dhbg" width="240px" >细料石</td>
+	 </tr>
+	 <tr>
+    <td align="center" id="dhbg" >1</td>
+    <td align="center" id="dhbg" rowspan="4" width="160px">尺寸允许偏差(mm)</td>
+    <td align="center" id="dhbg"  width="190px">长度</td>
+    <td align="center" id="dhbg" >±7</td>
+    <td align="center" id="dhbg" >±5</td>
+	 </tr>
+	 <tr>
+    <td align="center" id="dhbg" >2</td>
+    <!-- <td></td> --> 
+    <td align="center" id="dhbg" >宽度</td>
+    <td align="center" id="dhbg" >±5</td>
+    <td align="center" id="dhbg" >±3</td>
+	 </tr>	
+	 <tr>
+    <td align="center" id="dhbg" >3</td>
+    <!-- <td></td> --> 
+    <td align="center" id="dhbg" >弯曲矢高</td>
+    <td align="center" id="dhbg" >5</td>
+    <td align="center" id="dhbg" >3</td>
+	 </tr>
+	 <tr>
+    <td align="center" id="dhbg" >4</td>
+    <!-- <td></td> --> 
+    <td align="center" id="dhbg" >平整度</td>
+    <td align="center" id="dhbg" >20</td>
+    <td align="center" id="dhbg" >2</td>
+	 </tr>
+	 <tr>
+    <td align="center" id="dhbg" >5</td>
+    <td align="center" id="dhbg" colspan="2">外露面棱角残缺长度(mm)</td>
+    <!-- <td></td> --> 
+    <td align="center" id="dhbg" >不大于 25 且不多于一处</td>
+    <td align="center" id="dhbg" >不大于 20 且不多于一处</td>
+	 </tr>
+	</table>
+ <p><font size="2"> </font></p>    
+
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位每批抽查 10%，且不少于 10 块。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：检查检测资料并观察检查。</p>
+ <p style="text-align:center">一般检验项目</p> 
+ <p style="text-align:justify"><a href="#id6.4.5.2"> 6.4.5.2</a> <span id="id6.4.5.2"> 组砌形式应满足设计要求。铺砌应稳固，挤紧。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：观察检查。</p>
+ <p style="text-align:justify"><a href="#id6.4.5.3"> 6.4.5.3</a> <span id="id6.4.5.3"> 铺砌表面不应有明显坑洼，砌缝应均匀，填缝应饱满一致。</span></p> 
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：观察检查。</p>
+ <p style="text-align:justify"><a href="#id6.4.5.4"> 6.4.5.4</a> <span id="id6.4.5.4"> 料石铺砌面层的允许偏差、检验数量和方法应符合<a href="#B6.4.5.4">表 6.4.5.4</a> 的规定。</span></p> 
+ 
+ <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B6.4.5.4">表6.4.5.4 料石铺砌面层的允许偏差、检验数量和方法</b></caption>	
+              
+	 <tr>
+	 <td  align="center" id="dhbg" width="70px" rowspan="2">序号</td>
+	 <td  align="center" id="dhbg" width="120px" rowspan="2">项目</td>
+   <td  align="center" id="dhbg" colspan="2" >允许偏差（mm）</td>
+   <!-- <td></td> --> 
+   <td  align="center" id="dhbg" width="130px" rowspan="2">检验数量</td>
+   <td  align="center" id="dhbg" width="100px" rowspan="2">单元测点</td>
+   <td  align="center" id="dhbg" width="220px" rowspan="2">检验方法</td>
+	 </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" width="110px ">粗料石</td>
+   <td align="center" id="dhbg" width="130px ">细料石</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> -->   
+  </tr>   
+  <tr>
+   <td align="center" id="dhbg" >1</td>
+   <td align="center" id="dhbg" >标高</td>
+   <td align="center" id="dhbg" >±25</td>
+   <td align="center" id="dhbg" >±20</td>
+   <td align="center" id="dhbg" rowspan="4">道路每 20 m 一处，堆场每 100 m² 一处</td>
+   <td align="center" id="dhbg">3 或 1</td>
+   <td align="left"   id="dhbg">用水准仪检查道路测边线和中线，堆场测量 10m 方格中部</td>  
+	 </tr>
+	 <tr>
+   <td align="center" id="dhbg">2</td>
+   <td align="center" id="dhbg">平整度</td>
+   <td align="center" id="dhbg">20</td>
+   <td align="center" id="dhbg">8</td>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">2</td>
+   <td align="left"   id="dhbg" >用 2 m 靠尺和塞尺测量中部垂直两方向</td> 
+	</tr>
+	<tr>
+   <td align="center" id="dhbg">3</td>
+   <td align="center" id="dhbg">相邻块顶面高差</td>
+   <td align="center" id="dhbg">±10</td>
+   <td align="center" id="dhbg">5</td>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">1</td>
+   <td align="left"   id="dhbg" >用钢板和塞尺测量，取大值</td> 
+	</tr>
+	<tr>
+   <td align="center" id="dhbg">4</td>
+   <td align="center" id="dhbg">砌缝平直</td>
+   <td align="center" id="dhbg">-</td>
+   <td align="center" id="dhbg">10</td>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">1</td>
+   <td align="left"   id="dhbg" >拉 10 m 线用钢尺测量，取大值</td> 
+	</tr>    
+ 	</table>
+ <p><font size="2">注：砌缝最大宽度，粗料石不大于 15 mm，细料石不大于 10 mm。</font></p>
+
+
+
+6.4.6 泥结碎石面层
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+.. raw:: html 
+
+ <p style="text-align:center">主要检验项目</p>  
+ <p style="text-align:justify"><a href="#id6.4.6.1"> 6.4.6.1</a> <span id="id6.4.6.1"> 碎石的级配和质量应满足设计要求。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位按进场批次抽样检验，监理单位见证取样。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：检查试验报告并观察检查。</p>
+ <p style="text-align:justify"><a href="#id6.4.6.2"> 6.4.6.2</a> <span id="id6.4.6.2"> 配合比应满足合设计要求。配料应准确，集料不得含有泥团。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：检查施工记录并观察检查。</p>
+ <p style="text-align:justify"><a href="#id6.4.6.3"> 6.4.6.3</a> <span id="id6.4.6.3"> 压实度应满足设计要求。</span></p> 
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位按施工段抽样检验，监理单位见证取样并按规定抽样平行检验。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：检查试验报告。</p>
+ <p style="text-align:center">一般检验项目</p> 
+ <p style="text-align:justify"><a href="#id6.4.6.4"> 6.4.6.4</a> <span id="id6.4.6.4"> 拌合法施工，碎石和土应拌合均匀，土块的最大粒径不得超过 20 mm；灌浆法施工，泥浆的重力密度应在 11～12kN/m3 之间，灌浆应均匀饱满。</span></p> 
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：观察检查。</p>
+ <p style="text-align:justify"><a href="#id6.4.6.5"> 6.4.6.5</a> <span id="id6.4.6.5"> 碾压后表面应平整坚实，中型压路机驶过后应无明显轮迹。</span></p> 
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：观察检查。</p>
+ <p style="text-align:justify"><a href="#id6.4.6.6"> 6.4.6.6</a> <span id="id6.4.6.6"> 泥结碎石面层允许偏差、检验数量和方法应符合<a href="#B6.4.6.6">表 6.4.6.6</a> 的规定。</span></p> 
+ 
+ <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B5.4.5.5">表5.4.5.5 坐床式圆筒安装允许偏差、检验数量和方法</b></caption>	
+              
+   <tr>
+   <td  align="center" id="dhbg" width="70px">序号</td>
+   <td  align="center" id="dhbg" width="150px">项目</td>
+   <td  align="center" id="dhbg" width="120px">允许偏差（mm）</td>
+   <td  align="center" id="dhbg" width="170px">检验数量</td>
+   <td  align="center" id="dhbg" width="120px">单元测点</td>
+   <td  align="center" id="dhbg" width="250px">检验方法</td>
+	 </tr>
+	 <tr>
+   <td align="center" id="dhbg" >1</td>
+   <td align="center" id="dhbg" >标高</td>
+   <td align="center" id="dhbg" >±20</td>
+   <td align="center" id="dhbg" rowspan="3">道路每 20 m 一处，堆场每 100 m² 一处</td>
+   <td align="center" id="dhbg">3 或 1</td>
+   <td align="left"   id="dhbg">用水准仪测量，道路测中线和边线，堆场按 10 m 方格网测量</td>  
+	 </tr>
+	 <tr>
+   <td align="center" id="dhbg" >2</td>
+   <td align="center" id="dhbg" >平整度</td>
+   <td align="center" id="dhbg">10</td>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">2</td>
+   <td align="left"   id="dhbg">用 2 m 靠尺和塞尺测量中部垂直两方向</td> 
+	 </tr>
+	 <tr>
+   <td align="center" id="dhbg"  >3</td>
+   <td align="center" id="dhbg"  >厚度</td>
+   <td align="center" id="dhbg">±15</td>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">1</td>
+   <td align="left"   id="dhbg">分层核验标高，必要时挖验</td> 
+	</tr>
+	</table>
+ <p><font size="2"> </font></p>
+
+6.4.7 侧缘石
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+.. raw:: html
+
+ <p style="text-align:center">主要检验项目</p>
+ <p style="text-align:justify"><a href="#id6.4.7.1"> 6.4.7.1</a> <span id="id6.4.7.1"> 预制混凝土侧缘石的质量检验应符合<a href="https://jts257-2008.readthedocs.io/en/latest/2.html#id8">第 2.1.6 节</a>的有关规定。</span></p>
+ <p style="text-align:center">一般检验项目</p>
+ <p style="text-align:justify"><a href="#id6.4.7.2"> 6.4.7.2</a> <span id="id6.4.7.2"> 侧缘石应安砌稳固，背后填料应密实。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：观察检查。</p>
+ <p style="text-align:justify"><a href="#id6.4.7.3"> 6.4.7.3</a> <span id="id6.4.7.3"> 侧缘石外露面应平顺，勾缝应密实。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。</p>
+ <p style="text-align:justify;text-indent:2em;"> 检验方法：观察检查。</p>
+ <p style="text-align:justify"><a href="#id6.4.7.4"> 6.4.7.4</a> <span id="id6.4.7.4"> 侧缘石安砌允许偏差、检验数量和方法应符合<a href="#B6.4.7.4">表 6.4.7.4</a> 的规定。</span></p> 
+
+ <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B6.4.7.4">表6.4.7.4 侧缘石安砌允许偏差、检验数量和方法</b></caption>	
+              
+   <tr>
+   <td  align="center" id="dhbg" width="70px">序号</td>
+   <td  align="center" id="dhbg" width="200px">项目</td>
+   <td  align="center" id="dhbg" width="120px">允许偏差（mm）</td>
+   <td  align="center" id="dhbg" width="130px">检验数量</td>
+   <td  align="center" id="dhbg" width="120px">单元测点</td>
+   <td  align="center" id="dhbg" width="240px">检验方法</td>
+	 </tr>
+	 <tr>
+   <td align="center" id="dhbg" >1</td>
+   <td align="center" id="dhbg" >直线段平直度</td>
+   <td align="center" id="dhbg"  >10</td>
+   <td align="center" id="dhbg" rowspan="4">逐件检查</td>
+   <td align="center" id="dhbg">1</td>
+   <td align="left"   id="dhbg">拉 20 ｍ线用钢尺测量，取大值</td>  
+	 </tr>
+	 <tr>
+   <td align="center" id="dhbg" >2</td>
+   <td align="center" id="dhbg" >相邻块错台</td>
+   <td align="center" id="dhbg">3</td>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">2</td>
+   <td align="left"   id="dhbg">用钢板尺和塞尺测量</td> 
+	 </tr>
+	 <tr>
+   <td align="center" id="dhbg" >3</td>
+   <td align="center" id="dhbg" >缝宽</td>
+   <td align="center" id="dhbg">±3</td>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">1</td>
+   <td align="left"   id="dhbg">用钢尺测量</td> 
+	 </tr>
+	 <tr>
+   <td align="center" id="dhbg"  >4</td>
+   <td align="center" id="dhbg"  >侧石顶面标高</td>
+   <td align="center" id="dhbg">±10</td>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">1</td>
+   <td align="left"   id="dhbg">用水准仪测量</td> 
+	 </tr>
+  	 </table>
+ <p><font size="2"> </font></p>

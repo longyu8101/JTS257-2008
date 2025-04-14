@@ -1700,7 +1700,7 @@
  <p><font size="2"> </font></p>  
 
 8.6 干船坞与船台滑道主体工程
----------------------------
+---------------------------------
 
 8.6.1 一般规定
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -5912,8 +5912,8 @@
    <td align="center" id="dhbg" >4</td>
    <td align="center" id="dhbg" >凹凸高度</td>
    <td align="center" id="dhbg">±10</td>
+   <!-- <td></td> --> 
    <td align="center" id="dhbg">3</td>
-   <td align="center" id="dhbg">2</td>
    <td align="left"   id="dhbg">用钢尺测量两端和中间</td> 
 	 </tr>
   	 </table>

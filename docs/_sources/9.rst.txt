@@ -133,7 +133,7 @@
 	</table>
  <p><font size="2"> </font></p>
 
- 9.2 航道整治工程总体
+9.2 航道整治工程总体
 --------------------------------------------------
 
 .. raw:: html
@@ -992,7 +992,7 @@
    <td align="left"   id="dhbg"rowspan="2">用水准仪等测量</td>  
 	</tr>
   <tr>
-   <td align="center" id="dhbg" >1</td>
+   <td align="center" id="dhbg" >2</td>
    <td align="center" id="dhbg" >顶面平整度</td>
    <td align="center" id="dhbg" >200</td>
    <!-- <td></td> --> 
@@ -1073,9 +1073,9 @@
 .. raw:: html
 
  <p style="text-align:center">主要检验项目</p>  
- <p style="text-align:justify"><a href="#id9.5.6.1"> 9.5.6.1</a> <span id="id9.5.6.1"> 现浇混凝土基础的主要检验项目应符合<a href="https://jts257-2008.readthedocs.io/en/latest/2.html#id3">第2.1.1节</a>和<a href="https://jts257-2008.readthedocs.io/en/latest/2.html#id6">第2.1.4节</a>的主要检验项目条文的有关规定。。</span></p>
+ <p style="text-align:justify"><a href="#id9.5.6.1"> 9.5.6.1</a> <span id="id9.5.6.1"> 现浇混凝土基础的主要检验项目应符合<a href="https://jts257-2008.readthedocs.io/en/latest/2.html#id3">第2.1.1节</a>和<a href="https://jts257-2008.readthedocs.io/en/latest/2.html#id6">第2.1.4节</a>的主要检验项目条文的有关规定。</span></p>
  <p style="text-align:center">一般检验项目</p>  
- <p style="text-align:justify"><a href="#id9.5.6.2"> 9.5.6.2</a> <span id="id9.5.6.2"> 现浇混凝土基础的一般检验项目应符合<a href="https://jts257-2008.readthedocs.io/en/latest/2.html#id3">第2.1.1节</a>和<a href="https://jts257-2008.readthedocs.io/en/latest/2.html#id6">第2.1.4节</a>的一般检验项目条文的有关规定。。</span></p>
+ <p style="text-align:justify"><a href="#id9.5.6.2"> 9.5.6.2</a> <span id="id9.5.6.2"> 现浇混凝土基础的一般检验项目应符合<a href="https://jts257-2008.readthedocs.io/en/latest/2.html#id3">第2.1.1节</a>和<a href="https://jts257-2008.readthedocs.io/en/latest/2.html#id6">第2.1.4节</a>的一般检验项目条文的有关规定。</span></p>
  <p style="text-align:justify"><a href="#id9.5.6.3"> 9.5.6.3</a> <span id="id9.5.6.3"> 现浇混凝土基础的允许偏差、检验数量和方法应符合<a href="#B9.5.6.3">表9.5.6.3</a>的规定。</span></p>  
  <table id="biaoge" style="font-family:times new roman">
 
@@ -1103,7 +1103,7 @@
    <td align="center" id="dhbg" >50</td>
    <!-- <td></td> --> 
    <td align="center" id="dhbg">2</td>
-   <td align="left"   id="dhbg" >用经纬仪或GPS等测量量</td>    
+   <td align="left"   id="dhbg" >用经纬仪或GPS等测量</td>    
 	</tr>
   <tr>
    <td align="center" id="dhbg" >3</td>
@@ -1121,28 +1121,28 @@
  
 .. raw:: html
 
- <p style="text-align:justify"><a href="#id9.5.7.1"> 9.5.7.1</a> <span id="id9.5.7.1"> 浆砌石基础的质量检验应符合<a href="https://jts257-2008.readthedocs.io/en/latest/2.html#id44">第2.7.4节</a>的有关规定。。</span></p>
+ <p style="text-align:justify"><a href="#id9.5.7.1"> 9.5.7.1</a> <span id="id9.5.7.1"> 浆砌石基础的质量检验应符合<a href="https://jts257-2008.readthedocs.io/en/latest/2.html#id44">第2.7.4节</a>的有关规定。</span></p>
 
 9.5.8 袋装砂井
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
  
 .. raw:: html
 
- <p style="text-align:justify"><a href="#id9.5.8.1"> 9.5.8.1</a> <span id="id9.5.8.1"> 袋装砂井的质量检验应符合<a href="https://jts257-2008.readthedocs.io/en/latest/2.html#id22">第2.3.3节</a>的有关规定。。</span></p>
+ <p style="text-align:justify"><a href="#id9.5.8.1"> 9.5.8.1</a> <span id="id9.5.8.1"> 袋装砂井的质量检验应符合<a href="https://jts257-2008.readthedocs.io/en/latest/2.html#id22">第2.3.3节</a>的有关规定。</span></p>
 
 9.5.9 塑料排水板
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
  
 .. raw:: html
 
- <p style="text-align:justify"><a href="#id9.5.9.1"> 9.5.9.1</a> <span id="id9.5.9.1"> 塑料排水板的质量检验应符合<a href="https://jts257-2008.readthedocs.io/en/latest/2.html#id23">第2.3.4节</a>的有关规定。。</span></p>
+ <p style="text-align:justify"><a href="#id9.5.9.1"> 9.5.9.1</a> <span id="id9.5.9.1"> 塑料排水板的质量检验应符合<a href="https://jts257-2008.readthedocs.io/en/latest/2.html#id23">第2.3.4节</a>的有关规定。</span></p>
 
 9.5.10 水下基床抛石
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
  
 .. raw:: html
 
- <p style="text-align:justify"><a href="#id9.5.10.1"> 9.5.10.1</a> <span id="id9.5.10.1"> 水下基床抛石的质量检验应符合<a href="https://jts257-2008.readthedocs.io/en/latest/4.html#id13">第4.4.4节</a>的有关规定。。</span></p>
+ <p style="text-align:justify"><a href="#id9.5.10.1"> 9.5.10.1</a> <span id="id9.5.10.1"> 水下基床抛石的质量检验应符合<a href="https://jts257-2008.readthedocs.io/en/latest/4.html#id13">第4.4.4节</a>的有关规定。</span></p>
 
 
 9.5.11 水下基床整平
@@ -1150,7 +1150,7 @@
  
 .. raw:: html
 
- <p style="text-align:justify"><a href="#id9.5.11.1"> 9.5.11.1</a> <span id="id9.5.11.1"> 水下基床整平的质量检验应符合<a href="https://jts257-2008.readthedocs.io/en/latest/4.html#id16">第4.4.7节</a>的有关规定。。</span></p>
+ <p style="text-align:justify"><a href="#id9.5.11.1"> 9.5.11.1</a> <span id="id9.5.11.1"> 水下基床整平的质量检验应符合<a href="https://jts257-2008.readthedocs.io/en/latest/4.html#id16">第4.4.7节</a>的有关规定。</span></p>
 
 
 9.6 护底、护滩与护脚工程
@@ -1769,7 +1769,7 @@
  <p style="text-align:justify"><a href="#id9.7.2.6"> 9.7.2.6</a> <span id="id9.7.2.6"> 充填袋坝体断面尺寸应满足设计要求。</span></p>  
  <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。</p>
  <p style="text-align:justify;text-indent:2em;"> 检验方法：检查断面测量记录并抽查检查。</p>  
- <p style="text-align:justify"><a href="#id9.7.2.7"> 9.7.2.7</a> <span id="id9.7.2.7"> 充填袋坝体的允许偏差、检验数量和方法应符合<a href="#B89.7.2.7">表9.7.2.7</a>的规定。</span></p> 
+ <p style="text-align:justify"><a href="#id9.7.2.7"> 9.7.2.7</a> <span id="id9.7.2.7"> 充填袋坝体的允许偏差、检验数量和方法应符合<a href="#B9.7.2.7">表9.7.2.7</a>的规定。</span></p> 
 
  <table id="biaoge" style="font-family:times new roman">
 
@@ -2677,10 +2677,10 @@
  <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。</p>
  <p style="text-align:justify;text-indent:2em;"> 检验方法：检查施工记录并观察检查，必要时潜水检查。</p>
  <p style="text-align:center">一般检验项目</p>  
- <p style="text-align:justify"><a href="#id9.9.5.3"> 9.9.5.3</a> <span id="id8.9.5.3"> 土工织物倒滤层的坡顶锚固和坡趾压稳的处理方法应满足设计要求，并应符合现行行业标准《水运工程土工合成材料应用技术规范》（JTJ239）的有关规定。</span></p>   
+ <p style="text-align:justify"><a href="#id9.9.5.3"> 9.9.5.3</a> <span id="id9.9.5.3"> 土工织物倒滤层的坡顶锚固和坡趾压稳的处理方法应满足设计要求，并应符合现行行业标准《水运工程土工合成材料应用技术规范》（JTJ239）的有关规定。</span></p>   
  <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。</p>
  <p style="text-align:justify;text-indent:2em;"> 检验方法：检查施工记录并观察检查。</p> 
- <p style="text-align:justify"><a href="#id9.9.5.4"> 9.9.5.4</a> <span id="id8.9.5.4"> 土工织物铺设不得有破损。当有破损时，应采用同一材料进行修补。</span></p>   
+ <p style="text-align:justify"><a href="#id9.9.5.4"> 9.9.5.4</a> <span id="id9.9.5.4"> 土工织物铺设不得有破损。当有破损时，应采用同一材料进行修补。</span></p>   
  <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。</p>
  <p style="text-align:justify;text-indent:2em;"> 检验方法：检查施工记录并观察检查。</p> 
  <p style="text-align:justify"><a href="#id9.9.5.5"> 9.9.5.5</a> <span id="id9.9.5.5"> 土工织物倒滤层的允许偏差、检验数量和方法应符合<a href="#B9.9.5.5">表9.9.5.5</a>的规定。</span></p>   
@@ -2735,7 +2735,7 @@
  <p style="text-align:justify"><a href="#id9.9.6.3"> 9.9.6.3</a> <span id="id9.9.6.3"> 采用土工织物包裹充填料的盲沟，土工织物应与周边贴紧并无皱折。</span></p>   
  <p style="text-align:justify;text-indent:2em;"> 检验数量：施工单位、监理单位全部检查。</p>
  <p style="text-align:justify;text-indent:2em;"> 检验方法：观察检查。</p> 
- <p style="text-align:justify"><a href="#id8.9.6.4"> 9.9.6.4</a> <span id="id9.9.6.4"> 盲沟的允许偏差、检验数量和方法应符合<a href="#B9.9.6.4">表9.9.6.4</a>的规定。</span></p>   
+ <p style="text-align:justify"><a href="#id9.9.6.4"> 9.9.6.4</a> <span id="id9.9.6.4"> 盲沟的允许偏差、检验数量和方法应符合<a href="#B9.9.6.4">表9.9.6.4</a>的规定。</span></p>   
     <table id="biaoge" style="font-family:times new roman">
 
    <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B9.9.6.4">表9.9.6.4 盲沟允许偏差、检验数量和方法</b></caption>	
